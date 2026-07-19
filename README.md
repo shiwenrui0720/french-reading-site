@@ -40,11 +40,17 @@ french-reading-site/
 ├── .nojekyll                  # 告诉 GitHub Pages 直接发布静态文件
 ├── audio-packs/
 │   └── <article-id>/01.bin    # 每篇文章的朗读音频包
+├── article/
+│   └── aperitif/index.html    # Apéritif 独立静态页测试
 ├── images/
 │   └── <article-id>-hero.webp # 文章页图片，目前用于美食类
+├── scripts/
+│   └── generate-static-entry.mjs # 生成独立文章入口及搜索文件
 ├── docs/
 │   ├── content-guide.md       # 内容、翻译、音频与图片规范
 │   └── sources.md             # 正文、音频、图片及许可记录
+├── robots.txt                 # 搜索引擎抓取规则
+├── sitemap.xml                # 已生成静态页面的网址清单
 ├── CHANGELOG.md               # 重要版本变更
 └── README.md                  # 项目说明
 ```
@@ -89,6 +95,14 @@ http://localhost:8000/french-reading-site/
 7. 更新 [`CHANGELOG.md`](CHANGELOG.md)，提交到 GitHub，并复查线上版本。
 
 `index.html` 和 `404.html` 是生成后的成品文件。除紧急修正外，不建议只手工修改其中一个文件；正式修改应从生成源数据完成，并保证两个文件一致。
+
+当前以 `Apéritif` 测试独立静态文章页。重新生成测试入口可运行：
+
+```bash
+node scripts/generate-static-entry.mjs aperitif
+```
+
+生成器会从 `index.html` 读取文章数据，创建带独立搜索元数据的 `article/aperitif/index.html`，并更新 `sitemap.xml` 和 `robots.txt`。
 
 ## 文档维护
 

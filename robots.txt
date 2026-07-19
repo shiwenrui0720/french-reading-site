@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shiwenrui0720.github.io/french-reading-site/sitemap.xml

@@ -41,13 +41,12 @@ french-reading-site/
 ├── audio-packs/
 │   └── <article-id>/01.bin    # 每篇文章的朗读音频包
 ├── article/
-│   ├── aperitif/index.html    # 混合式静态入口测试
-│   └── beaujolais-nouveau/index.html # 单篇内容预渲染测试
+│   └── <article-id>/index.html # 39篇单篇内容预渲染页
 ├── images/
 │   └── <article-id>-hero.webp # 文章页图片，目前用于美食类
 ├── scripts/
-│   ├── generate-static-entry.mjs # 生成混合式静态入口
-│   └── generate-prerendered-article.mjs # 生成单篇内容静态页
+│   ├── generate-prerendered-article.mjs # 生成指定单篇静态页
+│   └── generate-all-prerendered.mjs # 批量生成全部单篇静态页
 ├── docs/
 │   ├── content-guide.md       # 内容、翻译、音频与图片规范
 │   └── sources.md             # 正文、音频、图片及许可记录
@@ -98,19 +97,19 @@ http://localhost:8000/french-reading-site/
 
 `index.html` 和 `404.html` 是生成后的成品文件。除紧急修正外，不建议只手工修改其中一个文件；正式修改应从生成源数据完成，并保证两个文件一致。
 
-当前以 `Apéritif` 测试独立静态文章页。重新生成测试入口可运行：
+每篇已上线文章均生成独立的预渲染静态页。重新生成指定文章可运行：
 
 ```bash
-node scripts/generate-static-entry.mjs aperitif
+node scripts/generate-prerendered-article.mjs aperitif
 ```
 
-生成器会从 `index.html` 读取文章数据，创建带独立搜索元数据的 `article/aperitif/index.html`，并更新 `sitemap.xml` 和 `robots.txt`。
-
-`Beaujolais nouveau` 用于测试进一步预渲染的单篇内容静态页：正文、逐句中文和文化拓展直接存在于 HTML 中，页面脚本只携带本篇播放所需的数据。重新生成可运行：
+批量重新生成全部文章可运行：
 
 ```bash
-node scripts/generate-prerendered-article.mjs beaujolais-nouveau
+node scripts/generate-all-prerendered.mjs
 ```
+
+预渲染页会把本篇法语正文、逐句中文和文化拓展直接写入 HTML，页面脚本只携带本篇播放所需的数据；生成过程同时更新 `sitemap.xml` 和 `robots.txt`。
 
 ## 文档维护
 

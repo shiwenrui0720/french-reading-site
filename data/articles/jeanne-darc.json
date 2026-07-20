@@ -1,0 +1,139 @@
+{
+  "id": "jeanne-darc",
+  "title": "Jeanne d’Arc",
+  "chineseTitle": "圣女贞德",
+  "level": "A2",
+  "topic": "history",
+  "summary": "一个农家少女如何成为战争英雄、圣人和国家记忆。",
+  "groups": [
+    [
+      "Cette jeune fille née d’une famille de paysans de l’est de la France est une héroïne nationale.",
+      "Son épopée extraordinaire de 1429 à 1431 a permis au pays de retrouver son indépendance et son unité grâce à ses campagnes militaires victorieuses contre les ducs de Bourgogne et leurs alliés, les Anglais."
+    ],
+    [
+      "À l’âge de treize ans, Jeanne entend des voix célestes qui lui demandent de libérer le royaume occupé par les Anglais et d’installer le dauphin Charles VII sur le trône de France.",
+      "Trois ans plus tard, la jeune fille rassemble une armée de soldats enthousiastes, libère la ville d’Orléans alors aux mains des ennemis et conduit finalement le dauphin à son sacre dans la cathédrale de Reims.",
+      "Après d’autres batailles, Jeanne est capturée près de Paris par les Bourguignons en juillet 1430.",
+      "La jeune fille est emprisonnée puis condamnée pour hérésie.",
+      "Elle est brûlée vive sur une place de Rouen en mai 1431."
+    ],
+    [
+      "Jeanne d’Arc, appelée aussi la pucelle d’Orléans, représente la victoire de la sincérité et de la foi contre la violence et l’injustice.",
+      "À une période critique de l’histoire du pays, Jeanne la charismatique a redonné l’espoir à son peuple.",
+      "Sa statue est souvent présente dans les églises de France ou sur les places des villes et villages."
+    ]
+  ],
+  "highlights": [
+    "a permis au",
+    "grâce à",
+    "À l’âge de",
+    "Trois ans plus tard",
+    "aux mains des",
+    "condamnée pour",
+    "a redonné l’espoir"
+  ],
+  "sentenceTranslations": [
+    "这位出生于法国东部农民家庭的少女，是一位民族英雄。",
+    "1429至1431年的非凡传奇，**让国家得以**重新获得独立与统一，这**得益于**她对勃艮第公爵及其英格兰盟友的胜利军事行动。",
+    "**十三岁时**，贞德听到天上的声音，要求她解放被英格兰人占领的王国，并让王太子查理七世登上法国王位。",
+    "**三年后**，少女召集起一支热情的军队，解放当时**掌握在**敌人手中的奥尔良，最终带领王太子到兰斯大教堂加冕。",
+    "又经历几场战斗后，贞德于1430年7月在巴黎附近被勃艮第人俘虏。",
+    "少女先被监禁，随后**因异端罪被判刑**。",
+    "1431年5月，她在鲁昂的一处广场上被活活烧死。",
+    "圣女贞德又被称为“奥尔良少女”，代表真诚与信仰战胜暴力和不公。",
+    "在国家历史的危急时期，富有感召力的贞德为人民**重新带来希望**。",
+    "法国教堂以及城镇和村庄的广场上经常能看到她的雕像。"
+  ],
+  "culture": [
+    {
+      "title": "La guerre de Cent Ans en quelques repères",
+      "fr": "La guerre de Cent Ans n’est pas une guerre continue de cent années exactement. Elle désigne une longue série de conflits entre les royaumes de France et d’Angleterre, du quatorzième au quinzième siècle, avec des trêves et des changements d’alliance. Les souverains anglais revendiquent la couronne de France, tandis que de grands princes français, notamment les Bourguignons, poursuivent leurs propres intérêts. Quand Jeanne d’Arc apparaît, le royaume est divisé et le pouvoir de Charles VII reste fragile. La levée du siège d’Orléans puis le sacre à Reims ont une importance militaire et symbolique. Ils ne terminent pas immédiatement la guerre, mais ils renforcent la légitimité du roi et redonnent confiance à son camp.",
+      "zhSentences": [
+        "百年战争并不是一场恰好连续一百年的战争。",
+        "它指十四至十五世纪法兰西与英格兰王国之间的一长串冲突，其中有停战，也有联盟变化。",
+        "英格兰君主声索法国王冠，勃艮第人等法国大领主则追求自身利益。",
+        "贞德出现时，王国分裂，查理七世的权力仍然脆弱。",
+        "解除奥尔良之围并在兰斯加冕，既有军事意义，也有象征意义。",
+        "它们没有立刻结束战争，却增强了国王的正当性，也让支持者重拾信心。"
+      ],
+      "zh": "百年战争并不是一场恰好连续一百年的战争。它指十四至十五世纪法兰西与英格兰王国之间的一长串冲突，其中有停战，也有联盟变化。英格兰君主声索法国王冠，勃艮第人等法国大领主则追求自身利益。贞德出现时，王国分裂，查理七世的权力仍然脆弱。解除奥尔良之围并在兰斯加冕，既有军事意义，也有象征意义。它们没有立刻结束战争，却增强了国王的正当性，也让支持者重拾信心。"
+    },
+    {
+      "title": "Du procès à la réhabilitation",
+      "fr": "Jeanne est jugée à Rouen par un tribunal ecclésiastique dans un contexte profondément politique. Ses voix, son refus de se soumettre et le fait qu’elle porte des vêtements masculins sont discutés pendant les interrogatoires. Condamnée, elle est exécutée en 1431. Environ vingt-cinq ans plus tard, un nouveau procès annule la condamnation et la réhabilite. Plusieurs siècles passent encore avant qu’elle soit canonisée par l’Église catholique, en 1920. Ces étapes montrent que son image n’a jamais été fixe : prisonnière et hérétique pour ses juges, innocente réhabilitée, sainte, héroïne nationale ou symbole politique. Pour comprendre Jeanne, il faut donc distinguer la jeune femme historique, les documents des procès et les usages ultérieurs de sa mémoire.",
+      "zhSentences": [
+        "贞德在鲁昂由宗教法庭审判，但审判背景具有强烈政治性。",
+        "审讯中，人们讨论她听到的声音、拒绝服从以及穿男性服装等问题。",
+        "她被判罪并于1431年处死。",
+        "大约二十五年后，新的审判撤销原判，为她平反。",
+        "又过了几个世纪，天主教会才在1920年将她封圣。",
+        "这些阶段说明她的形象从未固定：在审判者眼中是囚犯与异端，后来是获平反的无辜者、圣人、民族英雄或政治象征。",
+        "理解贞德，需要区分历史上的年轻女性、审判文献与后世对其记忆的利用。"
+      ],
+      "zh": "贞德在鲁昂由宗教法庭审判，但审判背景具有强烈政治性。审讯中，人们讨论她听到的声音、拒绝服从以及穿男性服装等问题。她被判罪并于1431年处死。大约二十五年后，新的审判撤销原判，为她平反。又过了几个世纪，天主教会才在1920年将她封圣。这些阶段说明她的形象从未固定：在审判者眼中是囚犯与异端，后来是获平反的无辜者、圣人、民族英雄或政治象征。理解贞德，需要区分历史上的年轻女性、审判文献与后世对其记忆的利用。"
+    },
+    {
+      "title": "Une héroïne revendiquée par des camps opposés",
+      "fr": "Depuis le dix-neuvième siècle, des courants politiques très différents se réclament de Jeanne d’Arc. Certains mettent en avant sa foi catholique, d’autres son origine populaire, sa résistance à l’étranger ou sa fidélité au roi. La République elle-même peut célébrer son courage tout en restant laïque. Des fêtes, des statues, des films et des manuels scolaires sélectionnent chacun une partie de son histoire. Cette diversité explique pourquoi son nom apparaît encore dans les débats publics. Elle invite aussi à la prudence : utiliser un personnage comme symbole ne signifie pas raconter toute sa vie. Une lecture critique demande qui parle, quelles qualités sont choisies et quels éléments sont laissés de côté. Jeanne reste ainsi une figure historique, mais aussi un miroir des conflits de mémoire français.",
+      "zhSentences": [
+        "十九世纪以来，立场差异很大的政治力量都曾声称继承贞德。",
+        "有人强调她的天主教信仰，有人强调平民出身、抵抗外敌或忠于国王。",
+        "共和国本身也可以在保持世俗原则的同时歌颂她的勇气。",
+        "节日、雕像、电影和教科书各自选择她历史的一部分。",
+        "这种多样性解释了为什么她的名字至今仍出现在公共争论中。",
+        "它也要求我们谨慎：把人物用作象征，并不等于讲述其完整人生。",
+        "批判性阅读要追问是谁在说、选择了哪些品质、又略去了什么。",
+        "贞德因此既是历史人物，也是法国记忆冲突的一面镜子。"
+      ],
+      "zh": "十九世纪以来，立场差异很大的政治力量都曾声称继承贞德。有人强调她的天主教信仰，有人强调平民出身、抵抗外敌或忠于国王。共和国本身也可以在保持世俗原则的同时歌颂她的勇气。节日、雕像、电影和教科书各自选择她历史的一部分。这种多样性解释了为什么她的名字至今仍出现在公共争论中。它也要求我们谨慎：把人物用作象征，并不等于讲述其完整人生。批判性阅读要追问是谁在说、选择了哪些品质、又略去了什么。贞德因此既是历史人物，也是法国记忆冲突的一面镜子。"
+    }
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/jeanne-darc/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 4.56
+      },
+      {
+        "start": 4.56,
+        "end": 15.888
+      },
+      {
+        "start": 15.888,
+        "end": 24.024
+      },
+      {
+        "start": 24.024,
+        "end": 33.696
+      },
+      {
+        "start": 33.696,
+        "end": 39.336
+      },
+      {
+        "start": 39.336,
+        "end": 42.504
+      },
+      {
+        "start": 42.504,
+        "end": 46.224
+      },
+      {
+        "start": 46.224,
+        "end": 53.712
+      },
+      {
+        "start": 53.712,
+        "end": 59.112
+      },
+      {
+        "start": 59.112,
+        "end": 63.384
+      }
+    ]
+  }
+}

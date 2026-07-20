@@ -1,0 +1,121 @@
+{
+  "id": "cafe-croissant",
+  "title": "Café et croissant",
+  "chineseTitle": "咖啡与羊角面包",
+  "level": "A2",
+  "topic": "food",
+  "summary": "法国咖啡馆里最经典的早餐组合。",
+  "groups": [
+    [
+      "Le duo idéal qui compose le petit déjeuner se prend parfois à la maison, mais surtout au café : debout au comptoir, si on est pressé, ou assis dehors en terrasse, si on a du temps, avec le journal du matin."
+    ],
+    [
+      "Le croissant doit être encore chaud, sorti droit de chez le boulanger, légèrement croustillant à l’extérieur, onctueux à l’intérieur.",
+      "Pour le café, il existe des options : on le prend noir ou « expresso » (surtout après le déjeuner), court ou allongé, parfois double, avec ou sans sucre.",
+      "On peut y mettre aussi une goutte de lait, c’est alors un « noisette », ou si l’on veut plus de lait, on demandera un « crème »."
+    ],
+    [
+      "Le croissant est probablement d’origine viennoise, mais les boulangers français lui ont apporté cette texture feuilletée qui le caractérise si bien.",
+      "Quant au café, les Italiens en font incontestablement un bien meilleur.",
+      "Toutefois, rarement deux produits étrangers ont été à ce point « naturalisés » en France pour en faire un couple aussi réussi."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Au comptoir ou en terrasse",
+      "fr": "Le café français est un lieu autant qu’une boisson. Le matin, une personne pressée peut commander au comptoir, boire rapidement et repartir ; le prix y est parfois différent de celui d’une consommation servie à table. En terrasse, le rythme change : on observe la rue, on lit, on parle ou on reste seul sans être isolé. Commander « un café » signifie généralement recevoir un petit expresso. Pour davantage d’eau, on demande un café allongé ; avec une petite quantité de lait, un noisette ; avec plus de lait, un café crème. Ces mots simples sont utiles au voyageur, car ils montrent que la commande française ne suit pas toujours les catégories des grandes chaînes internationales. Le serveur attend surtout une formule claire et polie.",
+      "zh": "法语中的 café 既指一种饮料，也指一个场所。早晨，赶时间的人可以在吧台点单，迅速喝完后离开；吧台价格有时与坐在桌边享用的价格不同。到了露台，节奏就变了：人们看街景、阅读、交谈，或独自待着却不显孤立。点“un café”通常意味着得到一小杯浓缩咖啡。想多加些水，就点 café allongé；加少量牛奶是 noisette；加更多牛奶则是 café crème。这些简单词汇对旅行者很实用，因为法国的咖啡点单方式并不总与国际连锁店的分类一致。服务员最希望听到的，主要还是清楚而礼貌的点单表达。",
+      "zhSentences": [
+        "法语中的 café 既指一种饮料，也指一个场所。",
+        "早晨，赶时间的人可以在吧台点单，迅速喝完后离开；吧台价格有时与坐在桌边享用的价格不同。",
+        "到了露台，节奏就变了：人们看街景、阅读、交谈，或独自待着却不显孤立。",
+        "点“un café”通常意味着得到一小杯浓缩咖啡。",
+        "想多加些水，就点 café allongé；加少量牛奶是 noisette；加更多牛奶则是 café crème。",
+        "这些简单词汇对旅行者很实用，因为法国的咖啡点单方式并不总与国际连锁店的分类一致。",
+        "服务员最希望听到的，主要还是清楚而礼貌的点单表达。"
+      ]
+    },
+    {
+      "title": "Le croissant, une histoire transformée",
+      "fr": "Le croissant est souvent présenté comme un symbole éternel de Paris, mais son histoire passe par Vienne. Au dix-neuvième siècle, des pains et pâtisseries de style viennois deviennent à la mode dans la capitale française. Les boulangers adaptent ensuite la forme courbe et utilisent une pâte levée feuilletée, travaillée avec du beurre. Cette technique crée de nombreuses couches fines : elles doivent être croustillantes à l’extérieur, légères et souples à l’intérieur. Un bon croissant demande du temps, car la pâte repose entre les tours de pliage. Dans les boulangeries, on distingue parfois le croissant au beurre, souvent plus droit, du croissant ordinaire, qui peut contenir d’autres matières grasses. La qualité dépend beaucoup du beurre, de la fermentation et de la cuisson.",
+      "zh": "羊角面包常被描绘成巴黎永恒的象征，但它的历史经过了维也纳。十九世纪，维也纳风格的面包和糕点在法国首都流行起来。之后，面包师改造了弯曲的外形，并使用以黄油加工的含酵母起酥面团。这种工艺会形成许多薄层：外部应当酥脆，内部则要轻盈柔软。一只好的羊角面包需要时间，因为面团在一次次折叠之间必须静置。在面包店里，人们有时会区分通常较直的黄油羊角包与可能含其他油脂的普通羊角包。品质在很大程度上取决于黄油、发酵和烘烤。",
+      "zhSentences": [
+        "羊角面包常被描绘成巴黎永恒的象征，但它的历史经过了维也纳。",
+        "十九世纪，维也纳风格的面包和糕点在法国首都流行起来。",
+        "之后，面包师改造了弯曲的外形，并使用以黄油加工的含酵母起酥面团。",
+        "这种工艺会形成许多薄层：外部应当酥脆，内部则要轻盈柔软。",
+        "一只好的羊角面包需要时间，因为面团在一次次折叠之间必须静置。",
+        "在面包店里，人们有时会区分通常较直的黄油羊角包与可能含其他油脂的普通羊角包。",
+        "品质在很大程度上取决于黄油、发酵和烘烤。"
+      ]
+    },
+    {
+      "title": "Un petit déjeuner plus simple qu’on ne pense",
+      "fr": "L’image touristique montre souvent une grande table couverte de croissants, mais le petit déjeuner quotidien des Français est généralement simple. À la maison, il peut se composer de pain avec du beurre ou de la confiture, d’une boisson chaude et parfois d’un fruit ou d’un yaourt. Le croissant est apprécié, mais beaucoup de personnes ne l’achètent pas tous les jours ; il accompagne volontiers le week-end, un voyage ou une rencontre au café. Contrairement au déjeuner, ce repas est traditionnellement plutôt sucré. Les habitudes changent pourtant : céréales, œufs, aliments salés et cafés à emporter sont de plus en plus visibles. Le duo café-croissant reste donc une icône culturelle, mais il représente un plaisir reconnaissable plus qu’une règle suivie chaque matin par toute la population.",
+      "zh": "旅游宣传中常出现一张摆满羊角面包的大桌子，但法国人的日常早餐通常很简单。在家中，早餐可能由黄油或果酱面包、一杯热饮组成，有时再加水果或酸奶。羊角面包很受欢迎，但许多人不会每天购买；它更常陪伴周末、旅行或咖啡馆里的会面。与午餐不同，法国传统早餐通常偏甜。不过习惯正在改变：谷物、鸡蛋、咸味食品和外带咖啡越来越常见。因此，咖啡与羊角面包仍是文化标志，但它更代表一种人人熟悉的享受，而不是全体法国人每天早晨都遵守的规则。",
+      "zhSentences": [
+        "旅游宣传中常出现一张摆满羊角面包的大桌子，但法国人的日常早餐通常很简单。",
+        "在家中，早餐可能由黄油或果酱面包、一杯热饮组成，有时再加水果或酸奶。",
+        "羊角面包很受欢迎，但许多人不会每天购买；它更常陪伴周末、旅行或咖啡馆里的会面。",
+        "与午餐不同，法国传统早餐通常偏甜。",
+        "不过习惯正在改变：谷物、鸡蛋、咸味食品和外带咖啡越来越常见。",
+        "因此，咖啡与羊角面包仍是文化标志，但它更代表一种人人熟悉的享受，而不是全体法国人每天早晨都遵守的规则。"
+      ]
+    }
+  ],
+  "highlights": [
+    "si on est pressé",
+    "si on a du temps",
+    "sorti droit de chez le boulanger",
+    "avec ou sans sucre",
+    "une goutte de lait",
+    "si l’on veut",
+    "Quant au",
+    "à ce point"
+  ],
+  "sentenceTranslations": [
+    "理想的早餐组合有时在家吃，但更多是在咖啡馆：**赶时间时**站在吧台，**有时间时**坐在室外露台，读着晨报。",
+    "羊角包应当还是热的，**刚从面包师那里拿来**，外层微脆，内部柔软。",
+    "咖啡有多种选择：可以喝黑咖啡或浓缩咖啡（尤其在午餐后），短杯或加水，也可双份，**加糖或不加糖**。",
+    "也可以加**一滴牛奶**，这便是 noisette；如果**想要**更多牛奶，就点 café crème。",
+    "羊角包可能源自维也纳，但法国面包师赋予了它极具特色的起酥质地。",
+    "**至于**咖啡，意大利人无疑做得更好。",
+    "不过，很少有两种外来产品能在法国被**如此彻底地**“本土化”，并成为如此成功的一对。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/cafe-croissant/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 11.572
+      },
+      {
+        "start": 11.572,
+        "end": 19.017
+      },
+      {
+        "start": 19.017,
+        "end": 27.951
+      },
+      {
+        "start": 27.951,
+        "end": 34.377
+      },
+      {
+        "start": 34.377,
+        "end": 41.979
+      },
+      {
+        "start": 41.979,
+        "end": 46.289
+      },
+      {
+        "start": 46.289,
+        "end": 52.95
+      }
+    ]
+  }
+}

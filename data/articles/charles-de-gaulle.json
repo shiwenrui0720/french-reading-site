@@ -1,0 +1,126 @@
+{
+  "id": "charles-de-gaulle",
+  "title": "Charles de Gaulle",
+  "chineseTitle": "夏尔·戴高乐",
+  "level": "B2",
+  "topic": "history",
+  "summary": "从自由法国到第五共和国，戴高乐深刻重塑了现代法国。",
+  "groups": [
+    [
+      "La place essentielle qu’occupe le général de Gaulle dans l’imaginaire national français s’explique par le rôle qu’il a joué au cours de la Seconde Guerre mondiale, de 1939 à 1945.",
+      "Depuis Londres, où il appelait les Français à résister à l’occupation nazie dès le 18 juin 1940, jusqu’au moment où il descendait l’avenue des Champs-Élysées à la libération de Paris le 26 août 1944, de Gaulle a incarné la France libre et résistante contre l’ennemi et l’envahisseur."
+    ],
+    [
+      "En 1958, de Gaulle devient le premier président de la Ve République.",
+      "La nouvelle Constitution, réservant au président un pouvoir sans précédent sur les affaires de la nation, fournit à de Gaulle l’opportunité de tester, pendant une décennie, son projet pour la France : une nation forte, unie, indépendante, influente, sûre de sa tradition républicaine et profondément européenne.",
+      "Cet idéal national du général est ainsi devenu le gaullisme et ses valeurs sont aujourd’hui encore au cœur de la politique de ses successeurs."
+    ],
+    [
+      "Un an après les événements de Mai 1968, qui ont fortement secoué le pays, les Français ont finalement désapprouvé le général à l’occasion d’un référendum, le forçant à démissionner de la présidence en avril 1969.",
+      "À 79 ans, le héros de la guerre se retirait donc enfin de la vie politique pour écrire ses mémoires.",
+      "Il meurt en novembre 1970."
+    ]
+  ],
+  "highlights": [
+    "s’explique par",
+    "au cours de",
+    "a incarné",
+    "sans précédent",
+    "au cœur de",
+    "à l’occasion d’un",
+    "démissionner de",
+    "se retirait donc enfin de"
+  ],
+  "sentenceTranslations": [
+    "戴高乐将军在法国民族想象中占据核心位置，这**可以由**他**在1939至1945年第二次世界大战期间**发挥的作用来解释。",
+    "从1940年6月18日起在伦敦号召法国人抵抗纳粹占领，到1944年8月26日巴黎解放时走下香榭丽舍大街，戴高乐一直**体现着**反抗敌人与入侵者的自由法国。",
+    "1958年，戴高乐成为第五共和国首任总统。",
+    "新宪法赋予总统对国家事务**前所未有的**权力，也让戴高乐有机会在十年间实践其法国计划：一个强大、团结、独立、有影响力、确信共和国传统并深具欧洲意识的国家。",
+    "将军的这一国家理想由此成为戴高乐主义，其价值至今仍处于继任者政治的**核心**。",
+    "五月风暴严重震动国家一年后，法国人最终**通过**一次全民公投否定将军，迫使他于1969年4月**辞去**总统职位。",
+    "79岁时，这位战争英雄终于**退出**政治生活，开始撰写回忆录。",
+    "他于1970年11月去世。"
+  ],
+  "culture": [
+    {
+      "title": "Le 18 Juin : un appel devenu fondateur",
+      "fr": "Le 18 juin 1940, de Gaulle parle depuis Londres à la radio britannique et refuse l’idée que la défaite militaire mette fin au combat. Peu de Français entendent directement cette première intervention, mais d’autres messages suivent et le texte acquiert après la guerre une immense valeur symbolique. Il représente le choix de poursuivre la lutte aux côtés des Alliés et devient l’un des récits fondateurs de la France libre. Cette mémoire ne doit pas effacer la diversité des résistances, intérieures et extérieures, ni les parcours parfois tardifs ou contradictoires. Elle explique cependant pourquoi la voix, la silhouette et le nom du général restent associés au refus de la capitulation. Commémorer l’appel, c’est donc rappeler un acte politique autant qu’un moment radiophonique.",
+      "zhSentences": [
+        "1940年6月18日，戴高乐从伦敦通过英国广播电台讲话，拒绝接受军事失败就意味着战斗结束。",
+        "真正直接听到第一次讲话的法国人并不多，但后来还有其他广播，这段文字在战后获得巨大象征价值。",
+        "它代表继续与盟军并肩作战的选择，并成为自由法国的奠基叙事之一。",
+        "这种记忆不应抹去国内外抵抗运动的多样性，也不能忽视其中有些迟来或矛盾的经历。",
+        "但它确实解释了为什么将军的声音、轮廓和名字至今仍同拒绝投降相联系。",
+        "纪念“六月十八日号召”，既是在回忆一次广播，也是在回忆一个政治行动。"
+      ],
+      "zh": "1940年6月18日，戴高乐从伦敦通过英国广播电台讲话，拒绝接受军事失败就意味着战斗结束。真正直接听到第一次讲话的法国人并不多，但后来还有其他广播，这段文字在战后获得巨大象征价值。它代表继续与盟军并肩作战的选择，并成为自由法国的奠基叙事之一。这种记忆不应抹去国内外抵抗运动的多样性，也不能忽视其中有些迟来或矛盾的经历。但它确实解释了为什么将军的声音、轮廓和名字至今仍同拒绝投降相联系。纪念“六月十八日号召”，既是在回忆一次广播，也是在回忆一个政治行动。"
+    },
+    {
+      "title": "Pourquoi une nouvelle République en 1958 ?",
+      "fr": "La Quatrième République traverse une grave crise en 1958, notamment autour de la guerre d’Algérie et de l’instabilité gouvernementale. De Gaulle revient au pouvoir et une nouvelle Constitution est adoptée. Elle renforce l’exécutif, organise les rapports entre le président, le gouvernement et le Parlement, et fonde la Cinquième République. Depuis 1962, le président est élu au suffrage universel direct, ce qui lui donne une forte légitimité politique. Le régime n’est pourtant pas un pouvoir présidentiel sans limites : le gouvernement reste responsable devant l’Assemblée nationale, le Parlement vote les lois et le Conseil constitutionnel contrôle leur conformité. Les périodes de cohabitation ont d’ailleurs montré qu’un président peut devoir partager la direction politique avec une majorité parlementaire opposée.",
+      "zhSentences": [
+        "第四共和国在1958年经历严重危机，尤其受到阿尔及利亚战争与政府不稳定的影响。",
+        "戴高乐重新执政，新宪法随后通过。",
+        "它加强行政权，规定总统、政府与议会的关系，并建立第五共和国。",
+        "自1962年起，总统由直接普选产生，因此拥有很强的政治正当性。",
+        "但这一制度并非不受限制的总统权力：政府仍须对国民议会负责，议会表决法律，宪法委员会审查其合宪性。",
+        "历次“左右共治”也表明，总统可能必须与立场相反的议会多数分享政治领导。"
+      ],
+      "zh": "第四共和国在1958年经历严重危机，尤其受到阿尔及利亚战争与政府不稳定的影响。戴高乐重新执政，新宪法随后通过。它加强行政权，规定总统、政府与议会的关系，并建立第五共和国。自1962年起，总统由直接普选产生，因此拥有很强的政治正当性。但这一制度并非不受限制的总统权力：政府仍须对国民议会负责，议会表决法律，宪法委员会审查其合宪性。历次“左右共治”也表明，总统可能必须与立场相反的议会多数分享政治领导。"
+    },
+    {
+      "title": "Le gaullisme, une famille plurielle",
+      "fr": "Le mot gaullisme désigne à la fois les idées du général, un style de pouvoir et plusieurs mouvements politiques qui se sont réclamés de lui. On y associe souvent l’indépendance nationale, un État capable d’agir, l’élection directe du président et une certaine ambition internationale. Mais les héritiers ne sont pas toujours d’accord sur l’économie, l’Europe ou les alliances. De Gaulle lui-même défend une coopération européenne entre États tout en refusant qu’une autorité supranationale efface la souveraineté française. Selon les périodes, des responsables très différents ont donc invoqué son héritage. Employer le mot avec précision demande de dire de quel aspect on parle. Comme beaucoup de traditions politiques, le gaullisme n’est pas une doctrine immobile ; c’est un héritage discuté, sélectionné et réinterprété.",
+      "zhSentences": [
+        "“戴高乐主义”既指将军的思想，也指一种执政风格和多个自称继承他的政治运动。",
+        "人们常把它同国家独立、有行动能力的国家机器、总统直选和国际抱负联系起来。",
+        "但继承者在经济、欧洲或联盟问题上并不总是一致。",
+        "戴高乐本人支持国家之间的欧洲合作，同时拒绝让超国家权威抹去法国主权。",
+        "因此不同时期立场差异很大的政治人物都曾援引他的遗产。",
+        "准确使用这个词，需要说明所指的是哪个方面。",
+        "同许多政治传统一样，戴高乐主义不是静止教条，而是一份不断被讨论、选择和重新解释的遗产。"
+      ],
+      "zh": "“戴高乐主义”既指将军的思想，也指一种执政风格和多个自称继承他的政治运动。人们常把它同国家独立、有行动能力的国家机器、总统直选和国际抱负联系起来。但继承者在经济、欧洲或联盟问题上并不总是一致。戴高乐本人支持国家之间的欧洲合作，同时拒绝让超国家权威抹去法国主权。因此不同时期立场差异很大的政治人物都曾援引他的遗产。准确使用这个词，需要说明所指的是哪个方面。同许多政治传统一样，戴高乐主义不是静止教条，而是一份不断被讨论、选择和重新解释的遗产。"
+    }
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/charles-de-gaulle/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 9.48
+      },
+      {
+        "start": 9.48,
+        "end": 24.408
+      },
+      {
+        "start": 24.408,
+        "end": 29.304
+      },
+      {
+        "start": 29.304,
+        "end": 46.368
+      },
+      {
+        "start": 46.368,
+        "end": 53.04
+      },
+      {
+        "start": 53.04,
+        "end": 65.16
+      },
+      {
+        "start": 65.16,
+        "end": 70.944
+      },
+      {
+        "start": 70.944,
+        "end": 73.752
+      }
+    ]
+  }
+}

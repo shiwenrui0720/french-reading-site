@@ -1,0 +1,135 @@
+{
+  "id": "champagne",
+  "title": "Champagne",
+  "chineseTitle": "香槟",
+  "level": "B1",
+  "topic": "food",
+  "summary": "从产区、气泡到庆祝仪式，认识法国香槟。",
+  "groups": [
+    [
+      "Pas de fête sans champagne.",
+      "Ce vin blanc pétillant, produit dans la région de Reims, est plus qu’une boisson, c’est un signe, il est associé aux événements exceptionnels : mariage, naissance, anniversaire, promotion, succès, victoire, réunion...",
+      "Le champagne apporte une dimension symbolique nécessaire aux instants heureux et mémorables de la vie."
+    ],
+    [
+      "Chaque année, la région Champagne fabrique plus de 300 millions de bouteilles, la moitié environ est exportée dans le monde entier et le reste est vendu en France.",
+      "On ne boit pas du champagne tous les jours cependant, son prix en fait un produit de luxe."
+    ],
+    [
+      "Ouvrir une bouteille de champagne nécessite un rituel approprié : d’abord, on enlève délicatement la partie supérieure de la collerette de papier brillant ; on défait ensuite doucement le muselet de fer qui capture le bouchon.",
+      "Il faut retirer lentement celui-ci du goulot et maîtriser l’explosion d’une main experte car un bouchon sous pression peut atteindre une vitesse de 50 km/h !",
+      "Finalement, le vin mousseux et ambré est distribué dans toutes les flûtes."
+    ],
+    [
+      "Le moment est alors venu pour les convives de trinquer et de dire joyeusement « santé ! » à tout le monde."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Un nom protégé",
+      "fr": "Le mot champagne ne désigne pas n’importe quel vin à bulles. Il correspond à une appellation protégée et à une région viticole située à l’est de Paris, autour de villes comme Reims et Épernay. Le climat frais et les sols crayeux participent au caractère des vins. Les principaux cépages sont le chardonnay, le pinot noir et le meunier, même si d’autres variétés autorisées existent. Des règles précises encadrent la culture, les rendements, le pressurage et l’élevage. Cette protection explique pourquoi un vin mousseux produit ailleurs porte un autre nom, même lorsqu’il utilise une méthode semblable. Pour les habitants de la région, Champagne est donc à la fois un territoire, un savoir-faire et un produit dont le nom doit rester lié à son origine.",
+      "zh": "champagne 一词并不指所有带气泡的葡萄酒。它对应一个受保护的原产地名称，也对应巴黎以东、以兰斯和埃佩尔奈等城市为中心的葡萄酒产区。凉爽的气候和白垩质土壤共同塑造了葡萄酒的特征。主要葡萄品种是霞多丽、黑皮诺和莫尼耶，不过也有其他获准使用的品种。种植、产量、压榨和陈酿都受到明确规则的约束。这种保护解释了为什么在其他地方生产的起泡酒即使采用类似方法，也必须使用另一个名称。因此，对当地居民而言，香槟既是一片土地、一套技艺，也是一种名称必须与产地保持联系的产品。",
+      "zhSentences": [
+        "champagne 一词并不指所有带气泡的葡萄酒。",
+        "它对应一个受保护的原产地名称，也对应巴黎以东、以兰斯和埃佩尔奈等城市为中心的葡萄酒产区。",
+        "凉爽的气候和白垩质土壤共同塑造了葡萄酒的特征。",
+        "主要葡萄品种是霞多丽、黑皮诺和莫尼耶，不过也有其他获准使用的品种。",
+        "种植、产量、压榨和陈酿都受到明确规则的约束。",
+        "这种保护解释了为什么在其他地方生产的起泡酒即使采用类似方法，也必须使用另一个名称。",
+        "因此，对当地居民而言，香槟既是一片土地、一套技艺，也是一种名称必须与产地保持联系的产品。"
+      ]
+    },
+    {
+      "title": "Comment naissent les bulles",
+      "fr": "Après une première fermentation, les vins tranquilles sont souvent assemblés pour construire le style recherché. Le vin est ensuite mis en bouteille avec une petite quantité de sucre et de levures. Une seconde fermentation se déroule alors dans la bouteille fermée : elle produit le gaz carbonique qui formera les bulles. Pendant l’élevage, les levures déposées apportent des notes de brioche, de pain grillé ou de fruits secs. Les bouteilles sont progressivement tournées afin de rassembler le dépôt près du bouchon. Celui-ci est retiré lors du dégorgement, puis la bouteille reçoit le dosage qui détermine notamment si le champagne sera brut, extra-brut ou plus doux. Cette méthode longue aide à comprendre le prix et la complexité de nombreux champagnes.",
+      "zh": "第一次发酵完成后，无气的基酒通常会被调配，以构成所追求的风格。随后，葡萄酒与少量糖和酵母一起装瓶。第二次发酵在密封瓶中进行，由此产生形成气泡的二氧化碳。在陈酿期间，沉积的酵母会带来布里欧修面包、烤面包或干果的风味。酒瓶会被逐步转动，使沉淀聚集到瓶塞附近。除渣时，这些沉淀会被取出，之后酒瓶接受补液；补液尤其决定香槟是 brut、extra-brut 还是更甜的类型。这套漫长工艺有助于理解许多香槟的价格和复杂度。",
+      "zhSentences": [
+        "第一次发酵完成后，无气的基酒通常会被调配，以构成所追求的风格。",
+        "随后，葡萄酒与少量糖和酵母一起装瓶。",
+        "第二次发酵在密封瓶中进行，由此产生形成气泡的二氧化碳。",
+        "在陈酿期间，沉积的酵母会带来布里欧修面包、烤面包或干果的风味。",
+        "酒瓶会被逐步转动，使沉淀聚集到瓶塞附近。",
+        "除渣时，这些沉淀会被取出，之后酒瓶接受补液；补液尤其决定香槟是 brut、extra-brut 还是更甜的类型。",
+        "这套漫长工艺有助于理解许多香槟的价格和复杂度。"
+      ]
+    },
+    {
+      "title": "Servir avec calme",
+      "fr": "Dans les films, le bouchon saute bruyamment, mais un service élégant cherche plutôt à contrôler la pression. On garde une main sur le bouchon, on incline légèrement la bouteille et on fait tourner doucement le verre de la bouteille, pas le bouchon lui-même. Un léger soupir est préférable à une explosion, car il évite de perdre du vin et réduit le risque d’accident. La flûte met en valeur la montée des bulles, tandis que certains amateurs préfèrent aujourd’hui un verre un peu plus large pour mieux sentir les arômes. Le champagne peut accompagner tout un repas, pas seulement le dessert ou le toast. Comme toute boisson alcoolisée, il se déguste avec modération ; l’essentiel du rituel reste le moment partagé.",
+      "zh": "电影里瓶塞会砰然飞出，但优雅的开瓶更讲究控制压力。一只手按住瓶塞，把酒瓶略微倾斜，再轻轻转动瓶身，而不是转动瓶塞本身。轻微的叹息声比爆响更理想，因为这样既不会损失酒液，也能降低事故风险。细长笛形杯能突出气泡的上升，而如今有些爱好者更喜欢稍宽的杯子，以便更好地感受香气。香槟可以搭配整顿饭，而不只用于甜点或祝酒。和所有酒精饮料一样，香槟应适量品尝；这一仪式最重要的仍是共同分享的时刻。",
+      "zhSentences": [
+        "电影里瓶塞会砰然飞出，但优雅的开瓶更讲究控制压力。",
+        "一只手按住瓶塞，把酒瓶略微倾斜，再轻轻转动瓶身，而不是转动瓶塞本身。",
+        "轻微的叹息声比爆响更理想，因为这样既不会损失酒液，也能降低事故风险。",
+        "细长笛形杯能突出气泡的上升，而如今有些爱好者更喜欢稍宽的杯子，以便更好地感受香气。",
+        "香槟可以搭配整顿饭，而不只用于甜点或祝酒。",
+        "和所有酒精饮料一样，香槟应适量品尝；这一仪式最重要的仍是共同分享的时刻。"
+      ]
+    }
+  ],
+  "highlights": [
+    "Pas de fête sans",
+    "plus qu’une boisson",
+    "tous les jours",
+    "nécessite un rituel",
+    "d’abord",
+    "Il faut",
+    "d’une main experte",
+    "Le moment est alors venu pour"
+  ],
+  "sentenceTranslations": [
+    "**没有**香槟的庆祝就不算庆祝。",
+    "这种产自兰斯地区的白色起泡酒**不只是一种饮料**，更是一种象征；它与婚礼、出生、生日、升职、成功、胜利和聚会等特殊事件相连。",
+    "香槟为人生幸福而难忘的时刻带来必要的象征意义。",
+    "每年香槟产区生产三亿多瓶，约一半出口到全世界，其余在法国销售。",
+    "不过，人们并不**天天**喝香槟；它的价格使它成为奢侈品。",
+    "打开一瓶香槟**需要一套仪式**：**首先**轻轻取下亮纸颈饰的上半部分；然后慢慢解开固定瓶塞的铁丝网。",
+    "**必须**缓缓从瓶颈取出瓶塞，并以**熟练的手法**控制喷发，因为受压的瓶塞速度可达每小时五十公里。",
+    "最后，金黄起泡的酒被倒入所有细长香槟杯中。",
+    "这时**到了**宾客碰杯，并愉快地向所有人说“健康！”的时候。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/champagne/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 1.75
+      },
+      {
+        "start": 1.75,
+        "end": 15.412
+      },
+      {
+        "start": 15.412,
+        "end": 21.368
+      },
+      {
+        "start": 21.368,
+        "end": 30.929
+      },
+      {
+        "start": 30.929,
+        "end": 35.788
+      },
+      {
+        "start": 35.788,
+        "end": 48.274
+      },
+      {
+        "start": 48.274,
+        "end": 57.208
+      },
+      {
+        "start": 57.208,
+        "end": 61.649
+      },
+      {
+        "start": 61.649,
+        "end": 67.762
+      }
+    ]
+  }
+}

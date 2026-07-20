@@ -1,0 +1,143 @@
+{
+  "id": "abbe-pierre",
+  "title": "Abbé Pierre",
+  "chineseTitle": "皮埃尔神父",
+  "level": "B1",
+  "topic": "people",
+  "summary": "一位终身为无家可归者奔走的法国公益人物。",
+  "groups": [
+    [
+      "Ce petit monsieur en pèlerine noire et à barbe blanche reste l’une des personnalités les plus respectées en France aujourd’hui.",
+      "L’abbé Pierre a défendu toute sa vie les pauvres de manière énergique et concrète, illustrant ainsi ses propres paroles : « Vivre, c’est apprendre à aimer »."
+    ],
+    [
+      "Né à Lyon en 1912, Henri-Antoine Grouès a été ordonné prêtre en 1938.",
+      "Son surnom Pierre lui vient de la période de son engagement dans la Résistance, de 1942 à 1944.",
+      "À partir de 1949, il fonde la communauté d’Emmaüs, une association laïque composée d’hommes et de femmes - les « chiffonniers » - qui récupèrent, réparent et revendent de vieux meubles pour financer la construction d’abris pour les sans-logis."
+    ],
+    [
+      "L’abbé Pierre devient soudain célèbre durant le terrible hiver de 1954 lorsqu’il parle aux Français à la radio pour leur demander de donner généreusement pour ceux qui meurent de froid dans la rue.",
+      "Son appel est largement entendu et, depuis, la communauté d’Emmaüs n’a pas cessé de grandir ; elle emploie aujourd’hui 4 000 « compagnons » répartis dans trente pays."
+    ],
+    [
+      "L’abbé Pierre, Grand’Croix de l’Ordre de la Légion d’honneur, la plus haute distinction française, a été un infatigable combattant de l’injustice et des inégalités.",
+      "Il intervenait sans cesse avec conviction et sincérité dans tous les débats sur la misère et la pauvreté.",
+      "Il est mort en janvier 2007, il avait 94 ans."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Une figure née d’un appel",
+      "fr": "En France, l’abbé Pierre est longtemps resté une figure de confiance très rare. Son appel radiophonique de l’hiver 1954 a marqué les mémoires : il demandait des couvertures, des logements et de l’aide pour des personnes qui dormaient dehors pendant une période de grand froid. La réaction du public a été immense. Cet épisode explique pourquoi son nom est encore associé à l’urgence sociale, mais aussi à une parole directe et accessible. Il ne parlait pas seulement de charité ; il rappelait que se loger dignement est une question de justice. Cette manière de relier émotion, action concrète et responsabilité collective a donné à son engagement une place particulière dans l’histoire sociale française.",
+      "zh": "在法国，皮埃尔神父长期是一位少有的、令人信任的公众人物。他在1954年寒冬发出的电台呼吁深深留在人们记忆中：他为在严寒中露宿的人请求毛毯、住房和援助。公众反应极其强烈。这一事件解释了为什么他的名字至今仍与社会紧急援助、直接而易懂的话语相联系。他所谈的不只是慈善，也提醒人们有尊严地居住是一项正义问题。把情感、具体行动和集体责任联系起来，赋予了他的投入在法国社会史中的特殊位置。",
+      "zhSentences": [
+        "在法国，皮埃尔神父长期是一位少有的、令人信任的公众人物。",
+        "他在1954年寒冬发出的电台呼吁深深留在人们记忆中：他为在严寒中露宿的人请求毛毯、住房和援助。",
+        "公众反应极其强烈。",
+        "这一事件解释了为什么他的名字至今仍与社会紧急援助、直接而易懂的话语相联系。",
+        "他所谈的不只是慈善，也提醒人们有尊严地居住是一项正义问题。",
+        "把情感、具体行动和集体责任联系起来，赋予了他的投入在法国社会史中的特殊位置。"
+      ]
+    },
+    {
+      "title": "Emmaüs : travailler et reconstruire",
+      "fr": "La communauté d’Emmaüs repose sur une idée simple : des personnes en difficulté peuvent retrouver une place sociale en travaillant ensemble. Les compagnons récupèrent des objets donnés, les trient, les réparent et les vendent dans des magasins solidaires. L’argent permet de financer l’accueil, le logement et de nouveaux projets. Ce modèle ne réduit pas les personnes à des bénéficiaires d’aide ; il reconnaît leur capacité à agir, à produire et à participer à une communauté. Les bric-à-brac et les grandes ventes Emmaüs sont ainsi connus dans de nombreuses villes françaises. On y trouve des meubles, des livres, des vêtements ou de la vaisselle à prix modeste, mais aussi une autre manière de donner une seconde vie aux objets et aux personnes.",
+      "zh": "埃马乌斯团体建立在一个简单观念之上：处于困境中的人可以通过共同劳动重新找到社会位置。成员回收捐赠物品，分类、修理，再在公益商店出售。所得收入用于接待、住房和新的项目。这个模式不把人简单视为受助者，而是承认他们行动、创造和参与共同体的能力。埃马乌斯旧货集市和大型义卖在许多法国城市都很有名。那里能买到价格亲民的家具、书籍、衣物或餐具，也能看到另一种让物品与人获得新生的方式。",
+      "zhSentences": [
+        "埃马乌斯团体建立在一个简单观念之上：处于困境中的人可以通过共同劳动重新找到社会位置。",
+        "成员回收捐赠物品，分类、修理，再在公益商店出售。",
+        "所得收入用于接待、住房和新的项目。",
+        "这个模式不把人简单视为受助者，而是承认他们行动、创造和参与共同体的能力。",
+        "埃马乌斯旧货集市和大型义卖在许多法国城市都很有名。",
+        "那里能买到价格亲民的家具、书籍、衣物或餐具，也能看到另一种让物品与人获得新生的方式。"
+      ]
+    },
+    {
+      "title": "Un vocabulaire de la solidarité",
+      "fr": "Le texte permet de rencontrer plusieurs mots importants de la solidarité française. Un sans-logis est une personne qui n’a pas de logement stable ; on emploie aussi aujourd’hui le terme sans-abri. Faire un don signifie donner de l’argent, du temps ou des objets pour aider une cause. Une association est un groupe de personnes qui s’organisent autour d’un objectif commun, souvent sans but commercial. Enfin, le mot compagnon, chez Emmaüs, désigne les personnes qui vivent et travaillent dans la communauté. Ces mots sont utiles au-delà de cette histoire : ils apparaissent dans les appels aux dons, les journaux locaux et les conversations sur la pauvreté. Les comprendre aide à lire la France comme une société où l’aide bénévole et les associations jouent un rôle concret.",
+      "zh": "这篇文章还让我们接触到法国团结互助领域的几个重要词语。sans-logis 指没有稳定住所的人，如今也常用 sans-abri。faire un don 意为捐赠金钱、时间或物品来支持一项事业。association 是围绕共同目标组织起来的团体，通常不以商业盈利为目的。最后，在埃马乌斯，compagnon 指在共同体中生活和工作的人。这些词不限于这段历史，在募捐呼吁、地方新闻和关于贫困的谈话中都很常见。理解它们，有助于把法国视为一个志愿援助和社团组织发挥具体作用的社会。",
+      "zhSentences": [
+        "这篇文章还让我们接触到法国团结互助领域的几个重要词语。",
+        "sans-logis 指没有稳定住所的人，如今也常用 sans-abri。",
+        "faire un don 意为捐赠金钱、时间或物品来支持一项事业。",
+        "association 是围绕共同目标组织起来的团体，通常不以商业盈利为目的。",
+        "最后，在埃马乌斯，compagnon 指在共同体中生活和工作的人。",
+        "这些词不限于这段历史，在募捐呼吁、地方新闻和关于贫困的谈话中都很常见。",
+        "理解它们，有助于把法国视为一个志愿援助和社团组织发挥具体作用的社会。"
+      ]
+    }
+  ],
+  "highlights": [
+    "l’une des personnalités les plus respectées",
+    "toute sa vie",
+    "de manière énergique et concrète",
+    "Né à",
+    "lui vient de",
+    "À partir de",
+    "sans-logis",
+    "devient soudain célèbre",
+    "leur demander de donner généreusement",
+    "n’a pas cessé de grandir",
+    "sans cesse"
+  ],
+  "sentenceTranslations": [
+    "这位身披黑斗篷、留着白胡子的小个子先生，至今仍是法国**最受尊敬的人物之一**。",
+    "皮埃尔神父**一生都在**以**坚定而务实的方式**捍卫贫困者，印证了他自己的话：“活着，就是学会爱。”",
+    "亨利-安托万·格鲁埃1912年**出生于**里昂，1938年被祝圣为神父。",
+    "“皮埃尔”这个别名**来自**他1942年至1944年参加抵抗运动的时期。",
+    "**从1949年起**，他创立了埃马乌斯团体：这是一个由男女成员组成的非宗教协会；“拾荒者”们回收、修理并转卖旧家具，为**无家可归者**的住所建设筹资。",
+    "在1954年严酷的冬天，皮埃尔神父通过电台**请求法国人慷慨捐助**那些在街头冻死的人，于是**突然成名**。",
+    "他的呼吁得到广泛回应；此后，埃马乌斯团体**一直在发展壮大**，如今在三十个国家拥有四千名“伙伴”。",
+    "皮埃尔神父获得法国最高勋章“荣誉军团大十字勋章”，并且是一位不知疲倦地反对不公与不平等的斗士。",
+    "他以信念和真诚，**不断地**参与关于困苦与贫困的各种讨论。",
+    "他于2007年1月去世，享年94岁。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/abbe-pierre/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 5.928
+      },
+      {
+        "start": 5.928,
+        "end": 14.448
+      },
+      {
+        "start": 14.448,
+        "end": 20.04
+      },
+      {
+        "start": 20.04,
+        "end": 26.592
+      },
+      {
+        "start": 26.592,
+        "end": 39.624
+      },
+      {
+        "start": 39.624,
+        "end": 48.672
+      },
+      {
+        "start": 48.672,
+        "end": 58.032
+      },
+      {
+        "start": 58.032,
+        "end": 66.888
+      },
+      {
+        "start": 66.888,
+        "end": 72.216
+      },
+      {
+        "start": 72.216,
+        "end": 75.744
+      }
+    ]
+  }
+}

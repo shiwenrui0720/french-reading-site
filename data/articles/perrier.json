@@ -1,0 +1,116 @@
+{
+  "id": "perrier",
+  "title": "Perrier",
+  "chineseTitle": "巴黎水",
+  "level": "A2",
+  "topic": "food",
+  "summary": "从南法泉水到绿色瓶身与广告史。",
+  "groups": [
+    [
+      "L’eau de Perrier, eau minérale pétillante composée de gaz carbonique naturel, est mise en bouteille à Vergèze, dans le Gard.",
+      "Lancée en 1903 par Sir John Harmsworth, homme d’affaires britannique qui avait racheté l’exploitation de la source à son propriétaire Louis Perrier, on surnommait cette eau le « champagne des eaux de table ».",
+      "Sa bouteille caractéristique en forme de quille lui donne un air sympathique et généreux."
+    ],
+    [
+      "Très désaltérante, l’eau de Perrier accompagne tous les plats, elle se consomme à tous moments, elle remplace l’alcool pour ceux qui n’en boivent pas, elle est la solution idéale pour ceux qui ne savent pas quoi commander au café ou qui ont un estomac à soigner."
+    ],
+    [
+      "Près d’un milliard de bouteilles de Perrier sont vendues chaque année dans le monde.",
+      "La marque a toujours suivi une politique promotionnelle dynamique et créative ; le slogan publicitaire le plus célèbre a été inventé en 1976 : « Perrier c’est fou » !"
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Une source du Gard",
+      "fr": "Perrier est mise en bouteille à Vergèze, dans le département du Gard, entre Nîmes et Montpellier. L’histoire commerciale de la marque se développe au début du vingtième siècle autour d’une source minérale naturellement gazeuse. Le médecin Louis Perrier donne son nom au produit, puis l’homme d’affaires britannique John Harmsworth contribue à son expansion. La bouteille verte et arrondie devient rapidement reconnaissable. Sa silhouette aurait été inspirée par les massues de gymnastique utilisées par Harmsworth après un accident. Au-delà de l’anecdote, cette forme montre l’importance du design dans la construction d’une marque : on peut identifier Perrier même sans lire l’étiquette. Le produit associe ainsi une origine géographique française, une histoire internationale et une image visuelle qui a traversé plusieurs générations.",
+      "zh": "Perrier 在尼姆与蒙彼利埃之间、加尔省的韦尔热兹装瓶。这个品牌的商业历史于二十世纪初围绕一处天然含气矿泉展开。路易·佩里耶医生把自己的姓氏赋予产品，随后英国商人约翰·哈姆斯沃思帮助它扩大市场。绿色圆润的瓶子很快变得极具辨识度。据说，它的轮廓受到哈姆斯沃思发生事故后使用的体操棒启发。不论这则轶事是否重要，这个造型都体现了设计对品牌塑造的作用：即使不看标签，人们也能认出 Perrier。因此，这款产品结合了法国的地理起源、国际化历史，以及一套跨越数代人的视觉形象。",
+      "zhSentences": [
+        "Perrier 在尼姆与蒙彼利埃之间、加尔省的韦尔热兹装瓶。",
+        "这个品牌的商业历史于二十世纪初围绕一处天然含气矿泉展开。",
+        "路易·佩里耶医生把自己的姓氏赋予产品，随后英国商人约翰·哈姆斯沃思帮助它扩大市场。",
+        "绿色圆润的瓶子很快变得极具辨识度。",
+        "据说，它的轮廓受到哈姆斯沃思发生事故后使用的体操棒启发。",
+        "不论这则轶事是否重要，这个造型都体现了设计对品牌塑造的作用：即使不看标签，人们也能认出 Perrier。",
+        "因此，这款产品结合了法国的地理起源、国际化历史，以及一套跨越数代人的视觉形象。"
+      ]
+    },
+    {
+      "title": "Commander de l’eau au café",
+      "fr": "Dans un café ou un restaurant français, on peut demander une carafe d’eau : il s’agit normalement d’eau du robinet, servie sans bouteille. Si l’on souhaite une eau minérale, le serveur peut proposer une eau plate ou gazeuse. Perrier est parfois utilisé comme un nom de commande très direct, mais l’établissement peut servir une autre marque d’eau pétillante. On peut aussi commander un « Perrier tranche », accompagné d’une rondelle de citron, ou un sirop mélangé à l’eau gazeuse. Cette option convient aux personnes qui ne boivent pas d’alcool et veulent tout de même participer au moment social. L’eau gazeuse n’est cependant pas un remède universel : certaines personnes l’apprécient après un repas, tandis que d’autres la trouvent inconfortable. Le choix dépend simplement du goût et du bien-être de chacun.",
+      "zh": "在法国咖啡馆或餐厅，可以要一壶水；这通常是不用瓶装的自来水。如果想喝矿泉水，服务员可能会提供无气水或气泡水。有时人们会直接用 Perrier 作为点单名称，但餐厅也可能供应其他品牌的气泡水。还可以点一杯配柠檬片的“Perrier tranche”，或点用气泡水调制的糖浆饮料。这种选择适合不喝酒、但仍希望参与社交时刻的人。不过，气泡水并不是万能的保健品：有人喜欢餐后喝，也有人会觉得不舒服。选择只需取决于每个人的口味和身体感受。",
+      "zhSentences": [
+        "在法国咖啡馆或餐厅，可以要一壶水；这通常是不用瓶装的自来水。",
+        "如果想喝矿泉水，服务员可能会提供无气水或气泡水。",
+        "有时人们会直接用 Perrier 作为点单名称，但餐厅也可能供应其他品牌的气泡水。",
+        "还可以点一杯配柠檬片的“Perrier tranche”，或点用气泡水调制的糖浆饮料。",
+        "这种选择适合不喝酒、但仍希望参与社交时刻的人。",
+        "不过，气泡水并不是万能的保健品：有人喜欢餐后喝，也有人会觉得不舒服。",
+        "选择只需取决于每个人的口味和身体感受。"
+      ]
+    },
+    {
+      "title": "La publicité comme spectacle",
+      "fr": "Perrier a construit sa célébrité grâce à une publicité audacieuse. Affiches, films et slogans ont souvent présenté l’eau comme un produit énergique, élégant ou légèrement extravagant. « Perrier, c’est fou ! » résume cette volonté de transformer une boisson simple en personnage culturel. La marque a travaillé avec des artistes et des réalisateurs, et certaines campagnes sont devenues des références du graphisme publicitaire français. Cette stratégie repose sur un contraste efficace : le contenu de la bouteille est de l’eau, mais son univers évoque la fête, le désir et le mouvement. Elle montre aussi comment les marques françaises du vingtième siècle ont utilisé l’affiche, le cinéma et plus tard la télévision pour toucher un large public. Étudier Perrier, c’est donc lire une petite histoire de la consommation moderne.",
+      "zh": "Perrier 借助大胆的广告建立了知名度。海报、影片和口号常把这种水塑造成充满活力、优雅或略显离奇的产品。“Perrier，太疯狂了！”这句口号概括了把一种简单饮料变成文化角色的愿望。品牌与艺术家和导演合作，一些宣传活动已经成为法国广告平面设计的经典参照。这一策略建立在鲜明反差上：瓶里装的是水，但它的世界却让人想到节庆、欲望和运动。它也说明了二十世纪的法国品牌如何利用海报、电影，后来又利用电视接触广大公众。因此，研究 Perrier，也是在阅读一小段现代消费史。",
+      "zhSentences": [
+        "Perrier 借助大胆的广告建立了知名度。",
+        "海报、影片和口号常把这种水塑造成充满活力、优雅或略显离奇的产品。",
+        "“Perrier，太疯狂了！”这句口号概括了把一种简单饮料变成文化角色的愿望。",
+        "品牌与艺术家和导演合作，一些宣传活动已经成为法国广告平面设计的经典参照。",
+        "这一策略建立在鲜明反差上：瓶里装的是水，但它的世界却让人想到节庆、欲望和运动。",
+        "它也说明了二十世纪的法国品牌如何利用海报、电影，后来又利用电视接触广大公众。",
+        "因此，研究 Perrier，也是在阅读一小段现代消费史。"
+      ]
+    }
+  ],
+  "highlights": [
+    "mise en bouteille",
+    "on surnommait",
+    "Très désaltérante",
+    "à tous moments",
+    "remplace l’alcool",
+    "la solution idéale",
+    "ne savent pas quoi commander",
+    "a toujours suivi"
+  ],
+  "sentenceTranslations": [
+    "巴黎水是一种由天然二氧化碳构成的气泡矿泉水，在加尔省韦尔热兹**装瓶**。",
+    "这款水由收购泉源经营权的英国商人约翰·哈姆斯沃思于1903年推出，当时人们**把它称作**“餐桌水中的香槟”。",
+    "它标志性的保龄球瓶形瓶身使它显得亲切而大方。",
+    "巴黎水**非常解渴**，能配所有菜肴，**随时**都可饮用；它为不饮酒的人**替代酒精**，也是**不知道在咖啡馆点什么**或需要照顾胃部的人眼中的**理想选择**。",
+    "每年全球售出近十亿瓶巴黎水。",
+    "该品牌**一直采用**活跃而有创意的宣传策略；最著名的广告语于1976年诞生：“Perrier，太疯狂了！”"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/perrier/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 7.236
+      },
+      {
+        "start": 7.236,
+        "end": 18.103
+      },
+      {
+        "start": 18.103,
+        "end": 22.988
+      },
+      {
+        "start": 22.988,
+        "end": 35.892
+      },
+      {
+        "start": 35.892,
+        "end": 39.68
+      },
+      {
+        "start": 39.68,
+        "end": 50.024
+      }
+    ]
+  }
+}

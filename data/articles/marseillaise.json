@@ -1,0 +1,115 @@
+{
+  "id": "marseillaise",
+  "title": "Marseillaise",
+  "chineseTitle": "马赛曲",
+  "level": "B1",
+  "topic": "history",
+  "summary": "一首革命战争歌曲如何成为法国国歌与共同仪式。",
+  "groups": [
+    [
+      "Quand l’officier de l’armée révolutionnaire Rouget de Lisle a composé en une nuit d’avril 1792 Le Chant de guerre pour l’armée du Rhin, il ne se doutait pas que son œuvre allait connaître une telle prospérité.",
+      "En effet, quelques mois plus tard, les soldats volontaires de Marseille adoptaient ce chant et, en reconnaissance de leur bravoure exemplaire contre l’ennemi, l’œuvre de Rouget de Lisle est renommée La Marseillaise.",
+      "Mais c’est seulement en 1879, sous la IIIe République, que ce chant est définitivement déclaré hymne officiel français."
+    ],
+    [
+      "Chaque enfant en France qui récite pour la première fois le texte de La Marseillaise éprouve une certaine appréhension : il est en effet question dans ce chant de « l’étendard sanglant » de la patrie qui doit repousser de « féroces soldats » venant « égorger nos fils et nos compagnes ».",
+      "Les « citoyens » sont ainsi appelés à prendre leurs « armes » et à « marcher » pour « qu’un sang impur abreuve nos sillons »."
+    ],
+    [
+      "Cette rhétorique guerrière et patriotique ponctuée par une musique militaire constitue le chant sacré d’union que les Français entendent et prononcent avec émotion dans les moments où la Nation est invoquée."
+    ]
+  ],
+  "highlights": [
+    "ne se doutait pas que",
+    "quelques mois plus tard",
+    "en reconnaissance de",
+    "pour la première fois",
+    "il est en effet question",
+    "sont ainsi appelés à"
+  ],
+  "sentenceTranslations": [
+    "1792年4月的一个夜晚，革命军军官鲁热·德·利尔创作《莱茵军团战歌》时，**并不知道**自己的作品会获得如此长久的生命。",
+    "**几个月后**，马赛志愿兵采用这首歌；**为了表彰**他们抗敌时堪为榜样的英勇，鲁热·德·利尔的作品被改称《马赛曲》。",
+    "但直到1879年第三共和国时期，这首歌才被最终宣布为法国官方国歌。",
+    "法国孩子**第一次**朗诵《马赛曲》歌词时，往往会有些不安：歌中**谈到**祖国的“血色旗帜”，还要击退前来“割断我们儿女与伴侣喉咙”的“凶残士兵”。",
+    "“公民们”因此**被号召**拿起“武器”并“前进”，让“不洁之血灌溉我们的田野”。",
+    "这套由军乐强调的战争与爱国话语，构成法国人在召唤国家的时刻带着感情聆听和唱出的神圣团结之歌。"
+  ],
+  "culture": [
+    {
+      "title": "Une chanson née dans la guerre",
+      "fr": "La Marseillaise est composée au printemps 1792, alors que la France révolutionnaire entre en guerre contre des monarchies européennes. Rouget de Lisle, officier à Strasbourg, écrit un chant destiné à encourager l’armée du Rhin. Des volontaires venus de Marseille le reprennent en marchant vers Paris, ce qui explique son nouveau nom. La chanson appartient donc d’abord à une situation d’urgence militaire et politique. Ses images violentes ne sont pas des métaphores paisibles : elles expriment la peur de l’invasion, la mobilisation des citoyens et la défense de la Révolution. Replacer les paroles dans ce contexte n’oblige pas à les approuver aujourd’hui, mais permet de comprendre leur intensité. Un hymne conserve souvent les mots du moment où une communauté a cru son existence menacée.",
+      "zhSentences": [
+        "《马赛曲》创作于1792年春，当时革命法国同欧洲君主国开战。",
+        "驻斯特拉斯堡军官鲁热·德·利尔写下这首歌，以鼓舞莱茵军团。",
+        "来自马赛的志愿兵向巴黎进发时唱起它，因此歌曲获得新名称。",
+        "它首先属于军事与政治紧急状态。",
+        "其中的暴力图像并非温和比喻，而是表达对入侵的恐惧、公民动员与保卫革命。",
+        "把歌词放回这种语境，并不要求今天的人赞同它，却有助于理解其强度。",
+        "国歌常会保留共同体认为自身生存受到威胁时的语言。"
+      ],
+      "zh": "《马赛曲》创作于1792年春，当时革命法国同欧洲君主国开战。驻斯特拉斯堡军官鲁热·德·利尔写下这首歌，以鼓舞莱茵军团。来自马赛的志愿兵向巴黎进发时唱起它，因此歌曲获得新名称。它首先属于军事与政治紧急状态。其中的暴力图像并非温和比喻，而是表达对入侵的恐惧、公民动员与保卫革命。把歌词放回这种语境，并不要求今天的人赞同它，却有助于理解其强度。国歌常会保留共同体认为自身生存受到威胁时的语言。"
+    },
+    {
+      "title": "De l’interdiction à l’hymne national",
+      "fr": "Le statut de la chanson a changé plusieurs fois avec les régimes politiques. Adoptée comme chant national pendant la Révolution, elle est ensuite interdite ou écartée sous l’Empire et certaines monarchies. Elle revient lors des mouvements révolutionnaires du dix-neuvième siècle, puis devient officiellement l’hymne national sous la Troisième République. Cette histoire mouvementée montre qu’un symbole national n’est pas toujours consensuel dès sa naissance. Il peut être combattu, oublié, réutilisé et finalement institutionnalisé. Aujourd’hui, la Constitution mentionne La Marseillaise comme hymne national. On l’entend lors des cérémonies officielles, des commémorations, des rencontres sportives et des moments de deuil collectif. Chaque contexte lui donne une émotion différente, de la solennité à l’enthousiasme.",
+      "zhSentences": [
+        "这首歌的地位随着政体变化多次改变。",
+        "它在革命时期被采用为民族歌曲，后来在帝国和某些君主制时期遭禁或被排除。",
+        "十九世纪革命运动中它重新出现，随后在第三共和国时期正式成为国歌。",
+        "这段曲折历史说明，国家象征从诞生起并不总能获得共识。",
+        "它可能被反对、遗忘、重新使用，最后才制度化。",
+        "今天法国宪法明确《马赛曲》是国歌。",
+        "官方仪式、纪念活动、体育比赛和集体哀悼时都能听到它。",
+        "每种情境都会赋予它不同情绪，从庄严到热烈。"
+      ],
+      "zh": "这首歌的地位随着政体变化多次改变。它在革命时期被采用为民族歌曲，后来在帝国和某些君主制时期遭禁或被排除。十九世纪革命运动中它重新出现，随后在第三共和国时期正式成为国歌。这段曲折历史说明，国家象征从诞生起并不总能获得共识。它可能被反对、遗忘、重新使用，最后才制度化。今天法国宪法明确《马赛曲》是国歌。官方仪式、纪念活动、体育比赛和集体哀悼时都能听到它。每种情境都会赋予它不同情绪，从庄严到热烈。"
+    },
+    {
+      "title": "Comment enseigner des paroles violentes ?",
+      "fr": "L’école ne présente pas seulement La Marseillaise comme une mélodie à mémoriser. Les enseignants peuvent expliquer le vocabulaire ancien, la guerre de 1792, la citoyenneté révolutionnaire et les débats suscités par certaines expressions. Cette mise à distance aide les élèves à distinguer un document historique d’un appel à la violence actuelle. Des propositions de modification des paroles apparaissent régulièrement, tandis que d’autres personnes défendent le texte au nom de l’histoire. Le débat lui-même est instructif : faut-il conserver exactement un héritage, le réinterpréter ou le transformer ? Chanter ensemble crée une unité sonore, mais les participants peuvent comprendre les mots de façons différentes. L’éducation civique consiste justement à rendre cette pluralité discutable plutôt qu’à faire disparaître les questions.",
+      "zhSentences": [
+        "学校并不只把《马赛曲》当成需要背诵的旋律。",
+        "教师可以解释古老词汇、1792年的战争、革命时期的公民身份，以及某些表达引发的争论。",
+        "这种历史距离帮助学生区分历史文献与当下的暴力号召。",
+        "修改歌词的建议经常出现，另一些人则以历史为理由维护原文。",
+        "争论本身很有教育意义：一份遗产应该原样保留、重新解释，还是加以改造？",
+        "共同歌唱能制造声音上的统一，但参与者可以用不同方式理解歌词。",
+        "公民教育正是要让这种多元理解可以被讨论，而不是让问题消失。"
+      ],
+      "zh": "学校并不只把《马赛曲》当成需要背诵的旋律。教师可以解释古老词汇、1792年的战争、革命时期的公民身份，以及某些表达引发的争论。这种历史距离帮助学生区分历史文献与当下的暴力号召。修改歌词的建议经常出现，另一些人则以历史为理由维护原文。争论本身很有教育意义：一份遗产应该原样保留、重新解释，还是加以改造？共同歌唱能制造声音上的统一，但参与者可以用不同方式理解歌词。公民教育正是要让这种多元理解可以被讨论，而不是让问题消失。"
+    }
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/marseillaise/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 10.056
+      },
+      {
+        "start": 10.056,
+        "end": 20.256
+      },
+      {
+        "start": 20.256,
+        "end": 27.576
+      },
+      {
+        "start": 27.576,
+        "end": 42.096
+      },
+      {
+        "start": 42.096,
+        "end": 49.68
+      },
+      {
+        "start": 49.68,
+        "end": 58.944
+      }
+    ]
+  }
+}

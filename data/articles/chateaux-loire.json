@@ -1,0 +1,131 @@
+{
+  "id": "chateaux-loire",
+  "title": "Châteaux de la Loire",
+  "chineseTitle": "卢瓦尔河谷城堡",
+  "level": "B1",
+  "topic": "history",
+  "summary": "王权、文艺复兴与河谷风景共同塑造法国最著名的城堡群。",
+  "groups": [
+    [
+      "Il y a un roi de France au Moyen Âge qu’on appelait le « petit roi de Bourges » parce que son domaine se limitait pratiquement à cette petite ville au sud de la Loire.",
+      "Le reste du territoire était aux mains des Anglais et des Bourguignons, leurs alliés.",
+      "La France allait disparaître, passer sous la couronne d’Angleterre.",
+      "Mais Jeanne d’Arc a sauvé la situation et le roi de Bourges a finalement été sacré en 1429 dans la cathédrale de Reims."
+    ],
+    [
+      "Charles VII, lorsqu’il résidait à Bourges, ne se doutait pas que la Loire, pays de Rabelais et de Ronsard, allait bientôt devenir la région la plus française de la France.",
+      "On dit en effet aujourd’hui que c’est ici que l’on parle le français le plus pur, que le climat est le plus doux ; et c’est ici que les futurs rois et reines de France allaient construire leurs plus belles résidences de villégiature.",
+      "Cette période de faste, de splendeur architecturale inspirée par l’Italie et ses artistes a ouvert une nouvelle ère, la Renaissance française, qui a bouleversé le pays et l’a fait entrer dans la modernité.",
+      "Les noms de ces prestigieux châteaux sont désormais des classiques : Amboise, Chambord, Chenonceau, Blois, Azay-le-Rideau, Villandry…",
+      "Visités par des centaines de milliers de touristes chaque année, ces châteaux ont inspiré d’autres créateurs : Walt Disney a pris le château d’Ussé comme modèle pour La Belle au bois dormant et Hergé celui de Cheverny pour le château de Moulinsart, résidence du capitaine Haddock, grand compagnon de Tintin."
+    ]
+  ],
+  "highlights": [
+    "se limitait pratiquement à",
+    "était aux mains de",
+    "a sauvé la situation",
+    "ne se doutait pas que",
+    "a ouvert une nouvelle ère",
+    "a fait entrer",
+    "a pris le château d’Ussé comme modèle"
+  ],
+  "sentenceTranslations": [
+    "中世纪有一位法国国王被称为“布尔日小国王”，因为他的领地几乎**仅限于**卢瓦尔河南部这座小城。",
+    "其余领土**掌握在**英格兰人及其勃艮第盟友手中。",
+    "法国眼看就要消失，落入英格兰王冠之下。",
+    "但圣女贞德**挽救了局面**，布尔日国王最终于1429年在兰斯大教堂加冕。",
+    "查理七世居住在布尔日时，**并不知道**拉伯雷和龙沙的故乡卢瓦尔河谷很快会成为“最法国的法国地区”。",
+    "今天人们确实说，这里讲的法语最纯正、气候最温和；未来的法国国王和王后也正是在这里建造最美的度假行宫。",
+    "这段繁华时期的建筑辉煌受到意大利及其艺术家启发，**开启了一个新时代**——法国文艺复兴；它深刻改变国家，并**使其进入**现代性。",
+    "这些著名城堡的名字如今已成为经典：昂布瓦斯、香波尔、舍农索、布卢瓦、阿宰勒里多、维朗德里……",
+    "每年数十万游客参观这些城堡，它们也启发了其他创作者：迪士尼**以于塞城堡为原型**创作《睡美人》，埃尔热则以舍维尼城堡为丁丁好友阿道克船长的穆兰萨尔城堡原型。"
+  ],
+  "culture": [
+    {
+      "title": "De forteresse à résidence de plaisir",
+      "fr": "Au Moyen Âge, un château sert d’abord à défendre un territoire et à manifester un pouvoir. À la Renaissance, plusieurs souverains et grands seigneurs de la vallée de la Loire recherchent davantage de lumière, de confort et de mise en scène. Les façades s’ouvrent, les escaliers deviennent spectaculaires, les jardins organisent le paysage et les décors italiens rencontrent les traditions françaises. Chambord conserve une silhouette massive, mais son célèbre escalier et ses terrasses invitent à circuler et à regarder. Chenonceau traverse l’eau du Cher comme un pont habité. Chaque château répond donc à une histoire différente. Les visiter, c’est apprendre à lire dans la pierre le passage d’une architecture de défense à une architecture de cour, de représentation et de plaisir.",
+      "zhSentences": [
+        "中世纪的城堡首先用于防御领土和展示权力。",
+        "到文艺复兴时期，卢瓦尔河谷的君主与大领主更追求光线、舒适和展示效果。",
+        "立面打开，楼梯变得壮观，花园组织风景，意大利装饰与法国传统相遇。",
+        "香波尔仍有厚重轮廓，但著名楼梯与露台邀请人们行走和观看。",
+        "舍农索则像一座有人居住的桥横跨谢尔河。",
+        "每座城堡都回应不同历史。",
+        "参观它们，就是从石头中读出建筑如何由防御转向宫廷、展示与享乐。"
+      ],
+      "zh": "中世纪的城堡首先用于防御领土和展示权力。到文艺复兴时期，卢瓦尔河谷的君主与大领主更追求光线、舒适和展示效果。立面打开，楼梯变得壮观，花园组织风景，意大利装饰与法国传统相遇。香波尔仍有厚重轮廓，但著名楼梯与露台邀请人们行走和观看。舍农索则像一座有人居住的桥横跨谢尔河。每座城堡都回应不同历史。参观它们，就是从石头中读出建筑如何由防御转向宫廷、展示与享乐。"
+    },
+    {
+      "title": "La Loire, axe du pouvoir et des échanges",
+      "fr": "La présence de tant de résidences ne tient pas seulement à la beauté du paysage. La Loire et ses affluents formaient des voies de circulation importantes, reliant villes, marchés et territoires royaux. Lorsque la cour se déplaçait fréquemment, il fallait des demeures capables d’accueillir le souverain, sa famille, ses conseillers et de nombreux serviteurs. Des artisans, des artistes et des jardiniers venaient travailler autour de ces chantiers. La région est ainsi devenue un espace de rencontres entre pouvoir politique, innovations artistiques et économie locale. Plus tard, lorsque le centre de la monarchie s’est fixé autour de Paris et de Versailles, plusieurs châteaux ont perdu leur rôle quotidien. Leur conservation actuelle raconte donc aussi le déplacement progressif du pouvoir royal et la transformation des résidences en patrimoine.",
+      "zhSentences": [
+        "如此多的宫殿并不只因为风景美丽。",
+        "卢瓦尔河及其支流曾是重要交通路线，连接城市、市场和王室领地。",
+        "宫廷频繁迁移时，需要能容纳君主、家人、顾问和大批仆从的住所。",
+        "工匠、艺术家与园丁也来到这些工程周围工作。",
+        "这里因此成为政治权力、艺术创新与地方经济交汇的空间。",
+        "后来王权中心固定在巴黎和凡尔赛周边，多座城堡失去日常功能。",
+        "今天的保护工作也讲述了王权逐渐转移，以及宫殿如何变成文化遗产。"
+      ],
+      "zh": "如此多的宫殿并不只因为风景美丽。卢瓦尔河及其支流曾是重要交通路线，连接城市、市场和王室领地。宫廷频繁迁移时，需要能容纳君主、家人、顾问和大批仆从的住所。工匠、艺术家与园丁也来到这些工程周围工作。这里因此成为政治权力、艺术创新与地方经济交汇的空间。后来王权中心固定在巴黎和凡尔赛周边，多座城堡失去日常功能。今天的保护工作也讲述了王权逐渐转移，以及宫殿如何变成文化遗产。"
+    },
+    {
+      "title": "Un patrimoine vivant, pas un décor figé",
+      "fr": "Les châteaux attirent des visiteurs, mais ils ne sont pas tous gérés de la même façon. Certains appartiennent à l’État ou à des collectivités, d’autres restent des propriétés privées ouvertes au public. Billetterie, restauration, jardins, expositions et événements contribuent à financer un entretien très coûteux. Les équipes doivent choisir comment montrer les pièces, expliquer les transformations et accueillir un grand nombre de personnes sans fragiliser les bâtiments. Les images de contes de fées sont efficaces pour rêver, mais elles peuvent masquer le travail des domestiques, les conflits politiques et les ressources nécessaires à la vie de cour. Une visite attentive observe donc autant les cuisines, les escaliers de service et les matériaux que les chambres royales. Le patrimoine devient vivant lorsqu’il permet de poser de nouvelles questions au passé.",
+      "zhSentences": [
+        "城堡吸引游客，但管理方式并不完全相同。",
+        "一些属于国家或地方政府，另一些仍是向公众开放的私人财产。",
+        "门票、修复、花园、展览和活动共同支撑成本高昂的维护。",
+        "团队必须决定如何展示房间、解释改建，并在不损害建筑的情况下接待大量游客。",
+        "童话形象很适合激发想象，却可能遮蔽仆人的劳动、政治冲突和宫廷生活需要的资源。",
+        "细心参观时，应像观察王室卧房一样观察厨房、服务楼梯和材料。",
+        "当文化遗产帮助人们向过去提出新问题时，它才真正鲜活。"
+      ],
+      "zh": "城堡吸引游客，但管理方式并不完全相同。一些属于国家或地方政府，另一些仍是向公众开放的私人财产。门票、修复、花园、展览和活动共同支撑成本高昂的维护。团队必须决定如何展示房间、解释改建，并在不损害建筑的情况下接待大量游客。童话形象很适合激发想象，却可能遮蔽仆人的劳动、政治冲突和宫廷生活需要的资源。细心参观时，应像观察王室卧房一样观察厨房、服务楼梯和材料。当文化遗产帮助人们向过去提出新问题时，它才真正鲜活。"
+    }
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/chateaux-loire/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 7.68
+      },
+      {
+        "start": 7.68,
+        "end": 12.192
+      },
+      {
+        "start": 12.192,
+        "end": 16.08
+      },
+      {
+        "start": 16.08,
+        "end": 22.44
+      },
+      {
+        "start": 22.44,
+        "end": 31.32
+      },
+      {
+        "start": 31.32,
+        "end": 41.208
+      },
+      {
+        "start": 41.208,
+        "end": 51.528
+      },
+      {
+        "start": 51.528,
+        "end": 60.72
+      },
+      {
+        "start": 60.72,
+        "end": 75.912
+      }
+    ]
+  }
+}

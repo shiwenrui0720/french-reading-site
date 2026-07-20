@@ -1,0 +1,133 @@
+{
+  "id": "soupe-oignon",
+  "title": "Soupe à l’oignon",
+  "chineseTitle": "洋葱汤",
+  "level": "B1",
+  "topic": "food",
+  "summary": "从巴黎中央市场的深夜热汤到焗烤版本。",
+  "groups": [
+    [
+      "Plus qu’une simple recette de cuisine, la soupe à l’oignon en France est associée à une tradition, celle du « souper », ce repas léger que l’on prend en fin de soirée, après un spectacle au théâtre, un film au cinéma, un concert ou une fête entre amis.",
+      "Il a été un temps aussi où les « Forts des Halles », après une dure nuit au travail dans le « ventre de Paris » (Émile Zola), s’arrêtaient à l’aube dans un café pour se requinquer avec une soupe à l’oignon avant d’aller se coucher."
+    ],
+    [
+      "L’oignon est un légume cultivé partout dans le monde depuis plusieurs millénaires, les Égyptiens lui vouaient un culte et les Grecs en consommaient avant le combat.",
+      "L’oignon est bien sûr apprécié pour la saveur qu’il apporte aux salades ou à la cuisson des plats mais il est également réputé pour ses vertus thérapeutiques.",
+      "Il prévient en effet les infections et il élimine les toxines du sang.",
+      "Le cataplasme à l’oignon est un remède traditionnel à l’action purifiante, il suffit de le placer sur la poitrine pendant vingt minutes pour se débarrasser d’un rhume."
+    ],
+    [
+      "La soupe à l’oignon est servie bouillante avec des croûtons de pain couverts de fromage fondu.",
+      "C’est aussi la soupe idéale pour se réchauffer les soirs d’hiver."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Les Halles et la nuit parisienne",
+      "fr": "La soupe à l’oignon est fortement liée à l’imaginaire des anciennes Halles de Paris, le grand marché alimentaire qui occupait autrefois le centre de la capitale. Pendant la nuit, porteurs, vendeurs et restaurateurs travaillaient pendant que la ville dormait. À l’aube, un bol de soupe chaud, nourrissant et peu coûteux permettait de reprendre des forces. Les écrivains ont surnommé ce quartier le « ventre de Paris », expression rendue célèbre par Émile Zola. Lorsque le marché de gros a été transféré à Rungis à la fin des années 1960, le monde des pavillons et des travailleurs nocturnes a disparu. La soupe est pourtant restée dans les brasseries et dans la mémoire collective. Elle évoque encore les sorties tardives, les repas après le spectacle et un Paris populaire aujourd’hui largement transformé.",
+      "zh": "洋葱汤与巴黎旧中央市场 Les Halles 的集体想象紧密相连，那里曾是占据首都市中心的大型食品市场。夜里，当城市沉睡时，搬运工、商贩和餐馆经营者仍在工作。到了黎明，一碗热乎、饱腹又便宜的汤可以帮助他们恢复体力。作家们把这个街区称为“巴黎之腹”，这一说法因埃米尔·左拉而闻名。二十世纪六十年代末，批发市场迁往兰吉斯后，市场大棚和夜班工人的世界随之消失。然而，洋葱汤仍留在小酒馆中，也留在集体记忆里。它至今仍让人想到深夜外出、演出后的用餐，以及一个如今已发生巨大变化的平民巴黎。",
+      "zhSentences": [
+        "洋葱汤与巴黎旧中央市场 Les Halles 的集体想象紧密相连，那里曾是占据首都市中心的大型食品市场。",
+        "夜里，当城市沉睡时，搬运工、商贩和餐馆经营者仍在工作。",
+        "到了黎明，一碗热乎、饱腹又便宜的汤可以帮助他们恢复体力。",
+        "作家们把这个街区称为“巴黎之腹”，这一说法因埃米尔·左拉而闻名。",
+        "二十世纪六十年代末，批发市场迁往兰吉斯后，市场大棚和夜班工人的世界随之消失。",
+        "然而，洋葱汤仍留在小酒馆中，也留在集体记忆里。",
+        "它至今仍让人想到深夜外出、演出后的用餐，以及一个如今已发生巨大变化的平民巴黎。"
+      ]
+    },
+    {
+      "title": "Le secret de la gratinée",
+      "fr": "La recette paraît modeste, mais elle demande de la patience. Les oignons sont émincés puis cuits lentement jusqu’à devenir très tendres et profondément dorés. Cette étape développe leur douceur et donne au bouillon une couleur brune. On ajoute ensuite un liquide, souvent du bouillon, parfois du vin, puis on laisse les saveurs se réunir. Pour la version gratinée, la soupe est versée dans un bol résistant à la chaleur. Des tranches de pain grillé sont posées à la surface, couvertes de fromage râpé, puis passées sous le gril. Le pain absorbe le bouillon tandis que le fromage forme une croûte. Chaque maison adapte la recette : type d’oignon, bouillon de bœuf ou de volaille, comté, gruyère ou emmental. Le résultat doit rester équilibré, ni trop salé ni trop lourd.",
+      "zh": "这道菜看似朴素，却需要耐心。洋葱切丝后慢慢烹煮，直到变得非常柔软并呈深金黄色。这一步会释放洋葱的甜味，并使汤汁变成棕色。随后加入液体，通常是高汤，有时也加葡萄酒，再让各种味道充分融合。制作焗烤版本时，要把汤倒进耐热碗中。在表面铺上烤面包片，撒上碎奶酪，然后放到上火下焗烤。面包会吸收汤汁，奶酪则形成一层外壳。每家都会调整配方：洋葱品种、牛肉或鸡肉高汤，以及孔泰、格吕耶尔或埃曼塔奶酪都可不同。最终味道必须保持平衡，既不能太咸，也不能过于厚重。",
+      "zhSentences": [
+        "这道菜看似朴素，却需要耐心。",
+        "洋葱切丝后慢慢烹煮，直到变得非常柔软并呈深金黄色。",
+        "这一步会释放洋葱的甜味，并使汤汁变成棕色。",
+        "随后加入液体，通常是高汤，有时也加葡萄酒，再让各种味道充分融合。",
+        "制作焗烤版本时，要把汤倒进耐热碗中。",
+        "在表面铺上烤面包片，撒上碎奶酪，然后放到上火下焗烤。",
+        "面包会吸收汤汁，奶酪则形成一层外壳。",
+        "每家都会调整配方：洋葱品种、牛肉或鸡肉高汤，以及孔泰、格吕耶尔或埃曼塔奶酪都可不同。",
+        "最终味道必须保持平衡，既不能太咸，也不能过于厚重。"
+      ]
+    },
+    {
+      "title": "Tradition et santé",
+      "fr": "Les textes anciens attribuent souvent à l’oignon des pouvoirs médicinaux très larges. On trouve des récits de cataplasmes, de sirops domestiques et de remèdes contre le rhume. Ces pratiques appartiennent à l’histoire des soins populaires et à la transmission familiale, mais elles ne remplacent pas un diagnostic ni un traitement médical. L’oignon est bien un aliment intéressant : il apporte des fibres, des composés aromatiques et différents micronutriments. Cela ne signifie pas qu’il élimine toutes les toxines ou guérit une infection. Cette distinction est importante lorsqu’on lit un ouvrage culturel publié il y a plusieurs années : on peut respecter le témoignage historique sans transformer une croyance en conseil de santé. La soupe reste surtout un plat réconfortant, chaud et savoureux. En cas de maladie, il faut suivre des recommandations médicales adaptées.",
+      "zh": "旧时文献常把非常广泛的药用功效归于洋葱。其中可以看到关于外敷药膏、家庭糖浆和感冒疗法的记载。这些做法属于民间医疗史和家庭传承，但不能取代医学诊断或治疗。洋葱确实是一种有价值的食物：它能提供纤维、芳香化合物和多种微量营养素。但这并不意味着它能清除所有毒素或治愈感染。阅读多年前出版的文化读物时，这种区分十分重要：我们可以尊重历史见证，但不能把一种信念变成健康建议。洋葱汤主要仍是一道温暖、美味、令人安慰的食物。生病时，应遵循适合个人情况的医疗建议。",
+      "zhSentences": [
+        "旧时文献常把非常广泛的药用功效归于洋葱。",
+        "其中可以看到关于外敷药膏、家庭糖浆和感冒疗法的记载。",
+        "这些做法属于民间医疗史和家庭传承，但不能取代医学诊断或治疗。",
+        "洋葱确实是一种有价值的食物：它能提供纤维、芳香化合物和多种微量营养素。",
+        "但这并不意味着它能清除所有毒素或治愈感染。",
+        "阅读多年前出版的文化读物时，这种区分十分重要：我们可以尊重历史见证，但不能把一种信念变成健康建议。",
+        "洋葱汤主要仍是一道温暖、美味、令人安慰的食物。",
+        "生病时，应遵循适合个人情况的医疗建议。"
+      ]
+    }
+  ],
+  "highlights": [
+    "Plus qu’une simple",
+    "en fin de soirée",
+    "Il a été un temps",
+    "à l’aube",
+    "se requinquer",
+    "bien sûr",
+    "réputé pour",
+    "il suffit de",
+    "se débarrasser d’un rhume",
+    "pour se réchauffer"
+  ],
+  "sentenceTranslations": [
+    "**不仅仅是一道**菜谱，法国洋葱汤还与“夜宵”传统相连：人们在**深夜**、看完戏剧、电影、音乐会或与朋友聚会后吃的轻食。",
+    "**曾经**，巴黎中央市场的强壮搬运工夜间辛苦工作后，会在**黎明**停进咖啡馆，吃一碗洋葱汤**恢复精神**，再回去睡觉。",
+    "洋葱是世界各地栽培数千年的蔬菜；埃及人曾崇拜它，希腊人在战斗前食用它。",
+    "洋葱**当然**因其给沙拉和熟食带来的风味而受欢迎，也因其**据称具有的**疗效而闻名。",
+    "它确实能预防感染并清除血液毒素。",
+    "洋葱敷剂是一种具有净化作用的传统疗法；**只需**把它放在胸口二十分钟，就能**摆脱感冒**。",
+    "洋葱汤趁热上桌，配盖着融化奶酪的面包丁。",
+    "它也是冬夜**取暖的**理想汤品。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/soupe-oignon/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 13.923
+      },
+      {
+        "start": 13.923,
+        "end": 24.581
+      },
+      {
+        "start": 24.581,
+        "end": 32.157
+      },
+      {
+        "start": 32.157,
+        "end": 39.602
+      },
+      {
+        "start": 39.602,
+        "end": 43.86
+      },
+      {
+        "start": 43.86,
+        "end": 53.211
+      },
+      {
+        "start": 53.211,
+        "end": 58.331
+      },
+      {
+        "start": 58.331,
+        "end": 62.145
+      }
+    ]
+  }
+}

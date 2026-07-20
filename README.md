@@ -30,23 +30,32 @@
 - 正文中的日常表达和固定搭配以粗体标出，中文翻译保留对应粗体。
 - 每篇文章附三段法语文化拓展及按句序对应的中文翻译。
 - 食物、美味类文章配有不影响正文阅读的页面图片。
+- 单篇文章提供上一篇、下一篇和返回当前主题目录的导航。
 
 ## 文件结构
 
 ```text
 french-reading-site/
-├── index.html                 # 网站主入口、文章数据、样式与交互
-├── 404.html                   # 直接访问文章网址时的备用入口，与 index.html 同步
+├── index.html                 # 自动生成的网站主入口
+├── 404.html                   # 自动生成的备用入口，与 index.html 同步
 ├── .nojekyll                  # 告诉 GitHub Pages 直接发布静态文件
+├── data/
+│   ├── site.json              # 主题设置和文章顺序
+│   └── articles/
+│       └── <article-id>.json  # 每篇文章唯一的内容源文件
+├── src/
+│   └── index.template.html    # 首页样式和交互模板
 ├── audio-packs/
 │   └── <article-id>/01.bin    # 每篇文章的朗读音频包
 ├── article/
-│   └── <article-id>/index.html # 39篇单篇内容预渲染页
+│   └── <article-id>/index.html # 自动生成的单篇内容预渲染页
 ├── images/
 │   └── <article-id>-hero.webp # 文章页图片，目前用于美食类
 ├── scripts/
-│   ├── generate-prerendered-article.mjs # 生成指定单篇静态页
-│   └── generate-all-prerendered.mjs # 批量生成全部单篇静态页
+│   ├── build-site.mjs         # 校验并一键生成整个网站
+│   ├── generate-prerendered-article.mjs # 仅生成指定单篇静态页
+│   ├── site-data.mjs          # 统一读取网站数据
+│   └── validate-site.mjs      # 内容和生成结果自动检查
 ├── docs/
 │   ├── content-guide.md       # 内容、翻译、音频与图片规范
 │   └── sources.md             # 正文、音频、图片及许可记录
@@ -56,7 +65,7 @@ french-reading-site/
 └── README.md                  # 项目说明
 ```
 
-当前仓库保存的是可直接部署的静态成品。`index.html` 内含文章数据和音频分句时间；`404.html` 与其内容相同，以支持 `/article/<article-id>` 形式的直接访问。音频包虽然使用 `.bin` 扩展名，内部是浏览器可播放的 MP3 音频数据。
+当前仓库同时保存内容源文件和可直接部署的静态成品。文章内容分别存放在 `data/articles/`；构建脚本把它们组合进 `index.html` 和 `404.html`，并生成 `article/<article-id>/index.html`。音频包虽然使用 `.bin` 扩展名，内部是浏览器可播放的 MP3 音频数据。
 
 ## 本地查看
 
@@ -87,15 +96,15 @@ http://localhost:8000/french-reading-site/
 
 ## 更新文章的基本步骤
 
-1. 在生成源数据中新增或修改文章，遵守 [`docs/content-guide.md`](docs/content-guide.md)。
+1. 新增或修改 `data/articles/<article-id>.json`，并在 `data/site.json` 中维护文章顺序，遵守 [`docs/content-guide.md`](docs/content-guide.md)。
 2. 核对法语正文、逐句中文、粗体对应和三段文化拓展。
 3. 生成并验证文章音频包；确认分句数与音频时间段数一致。
 4. 如需图片，加入经过来源和许可核验的 WebP 文件，并更新 [`docs/sources.md`](docs/sources.md)。
-5. 重新生成 `index.html`，再将同一成品同步为 `404.html`。
+5. 运行 `node scripts/build-site.mjs`，由程序校验并重新生成首页、404 页面、所有单篇页、站点地图和抓取规则。
 6. 本地检查首页筛选、文章直达、全文朗读、句子点读、双击翻译和移动端阅读。
 7. 更新 [`CHANGELOG.md`](CHANGELOG.md)，提交到 GitHub，并复查线上版本。
 
-`index.html` 和 `404.html` 是生成后的成品文件。除紧急修正外，不建议只手工修改其中一个文件；正式修改应从生成源数据完成，并保证两个文件一致。
+`index.html`、`404.html` 和 `article/*/index.html` 都是生成后的成品文件，不应分别手工修改。正式修改应在 `data/` 或 `src/index.template.html` 中完成。
 
 每篇已上线文章均生成独立的预渲染静态页。重新生成指定文章可运行：
 
@@ -103,13 +112,19 @@ http://localhost:8000/french-reading-site/
 node scripts/generate-prerendered-article.mjs aperitif
 ```
 
-批量重新生成全部文章可运行：
+校验并重新生成整个网站可运行：
 
 ```bash
-node scripts/generate-all-prerendered.mjs
+node scripts/build-site.mjs
 ```
 
-预渲染页会把本篇法语正文、逐句中文和文化拓展直接写入 HTML，页面脚本只携带本篇播放所需的数据；生成过程同时更新 `sitemap.xml` 和 `robots.txt`。
+只复查现有生成结果可运行：
+
+```bash
+node scripts/validate-site.mjs
+```
+
+自动检查涵盖文章文件与顺序、法中句数、粗体数量、三段文化拓展、文化中文逐句合并结果、音频文件与分段、食品图片、静态页面隔离、首页与 404 一致性，以及站点地图完整性。预渲染页会把本篇法语正文、逐句中文和文化拓展直接写入 HTML，页面脚本只携带本篇播放所需的数据。
 
 ## 文档维护
 

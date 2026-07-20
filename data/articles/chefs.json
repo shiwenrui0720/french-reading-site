@@ -1,0 +1,119 @@
+{
+  "id": "chefs",
+  "title": "Chefs",
+  "chineseTitle": "大厨",
+  "level": "B2",
+  "topic": "food",
+  "summary": "从卡雷姆、埃斯科菲耶到当代名厨与餐厅指南。",
+  "groups": [
+    [
+      "Depuis Marie-Antoine Carême, « le roi des chefs et le chef des rois », depuis les méditations de Brillat-Savarin sur l’art culinaire (1825) et les milliers de recettes du Guide culinaire d’Auguste Escoffier (1903) qui ont inspiré les chefs du 20e siècle, la gastronomie française n’a pas cessé d’innover, de proposer de nouveaux goûts, de nouvelles compositions."
+    ],
+    [
+      "La première génération des maîtres à toque blanche qui s’affairent dans les cuisines et viennent saluer les clients au moment du dessert sont des légendes : Fernand Point à Vienne, au sud de Lyon ; les frères Troisgros à Roanne ; Raymond Oliver au Grand Véfour de Paris ; Alain Chapel à Mionnay ; Paul Bocuse, le « pape de la cuisine », à Lyon."
+    ],
+    [
+      "La génération suivante, celle de la « post-Nouvelle Cuisine », s’exporte beaucoup : Joël Robuchon possède une douzaine de restaurants en Europe, aux États-Unis et en Asie ; Alain Ducasse dirige un empire global qui comprend des restaurants, une école de cuisine et une maison d’édition ; Pierre Gagnaire, initiateur de la fusion des saveurs et de la « cuisine moléculaire », s’est installé à Las Vegas...",
+      "Quant à Marc Veyrat, le plus insolite des chefs contemporains, célèbre pour son grand chapeau noir, promoteur des plantes et de l’agriculture biologique, il préfère rester en Savoie mais sa réputation est mondiale."
+    ],
+    [
+      "Deux publications très respectées observent, commentent et évaluent le monde des chefs : le Guide rouge Michelin, qui distribue des étoiles, et le Gault Millau, qui attribue des notes de 10 à 20.",
+      "Moins de 70 restaurants dans le monde bénéficient de la précieuse mention 3 étoiles, dont environ deux douzaines en France."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "De Carême à Escoffier",
+      "fr": "Marie-Antoine Carême et Auguste Escoffier ont contribué à transformer la cuisine française en profession organisée. Carême, actif au début du dix-neuvième siècle, a travaillé pour des cours européennes et a présenté la haute cuisine comme un art d’architecture, de sauces et de grands services. Escoffier, un siècle plus tard, a simplifié de nombreuses préparations et réorganisé le travail des cuisines en brigades. Chaque poste possède alors une responsabilité précise : sauces, poissons, pâtisserie ou garde-manger. Ce système a amélioré la coordination dans les grands hôtels et reste une référence dans la formation culinaire. Leurs livres ne sont pas de simples recueils de recettes : ils codifient un vocabulaire, des gestes et une vision du métier. Les chefs contemporains s’en éloignent parfois, mais ils travaillent encore avec cet héritage.",
+      "zh": "马里-安托万·卡雷姆和奥古斯特·埃斯科菲耶推动法国烹饪转变为一个组织有序的职业。活跃于十九世纪初的卡雷姆曾为欧洲宫廷工作，并把高级料理呈现为一门关于建筑式造型、酱汁和盛大餐饮服务的艺术。一个世纪后，埃斯科菲耶简化了许多烹饪准备，并把厨房工作重新组织为分工明确的团队。每个岗位由此承担具体职责，如酱汁、鱼类、甜点或冷菜储备。这一体系改善了大型酒店中的协作，至今仍是烹饪教育的参照。他们的著作并非简单的菜谱集，而是规范了词汇、动作和职业观念。当代厨师有时会离开这些规范，但仍在这份遗产之上工作。",
+      "zhSentences": [
+        "马里-安托万·卡雷姆和奥古斯特·埃斯科菲耶推动法国烹饪转变为一个组织有序的职业。",
+        "活跃于十九世纪初的卡雷姆曾为欧洲宫廷工作，并把高级料理呈现为一门关于建筑式造型、酱汁和盛大餐饮服务的艺术。",
+        "一个世纪后，埃斯科菲耶简化了许多烹饪准备，并把厨房工作重新组织为分工明确的团队。",
+        "每个岗位由此承担具体职责，如酱汁、鱼类、甜点或冷菜储备。",
+        "这一体系改善了大型酒店中的协作，至今仍是烹饪教育的参照。",
+        "他们的著作并非简单的菜谱集，而是规范了词汇、动作和职业观念。",
+        "当代厨师有时会离开这些规范，但仍在这份遗产之上工作。"
+      ]
+    },
+    {
+      "title": "La Nouvelle Cuisine",
+      "fr": "Dans les années 1960 et 1970, certains chefs français souhaitent alléger la cuisine classique. Ils réduisent les cuissons trop longues, les sauces épaisses et les présentations chargées. Ils mettent davantage en valeur la fraîcheur du produit, les légumes, les herbes et une assiette composée individuellement. Les journalistes Henri Gault et Christian Millau donnent à cette tendance le nom de « Nouvelle Cuisine ». Paul Bocuse, les frères Troisgros, Michel Guérard et Alain Chapel en deviennent des figures importantes, même si leurs styles restent différents. Le mouvement a parfois été caricaturé par l’image de portions minuscules sur de grandes assiettes. Son influence est pourtant profonde : saisonnalité, précision de cuisson et liberté créative sont désormais des principes partagés bien au-delà de la France.",
+      "zh": "二十世纪六七十年代，一些法国厨师希望让传统料理变得更轻盈。他们减少过长的烹饪时间、厚重的酱汁和繁复的摆盘。他们更加突出食材的新鲜度、蔬菜、香草以及为每位客人单独组合的餐盘。记者亨利·戈和克里斯蒂安·米约把这股趋势命名为“新派料理”。保罗·博古斯、特鲁瓦格罗兄弟、米歇尔·盖拉尔和阿兰·沙佩尔成为其中的重要人物，尽管各自风格仍不相同。这场运动有时被讽刺为“大盘子里只有极小份量”。然而它的影响十分深远：季节性、精准火候和创作自由如今已成为远超法国范围的共同原则。",
+      "zhSentences": [
+        "二十世纪六七十年代，一些法国厨师希望让传统料理变得更轻盈。",
+        "他们减少过长的烹饪时间、厚重的酱汁和繁复的摆盘。",
+        "他们更加突出食材的新鲜度、蔬菜、香草以及为每位客人单独组合的餐盘。",
+        "记者亨利·戈和克里斯蒂安·米约把这股趋势命名为“新派料理”。",
+        "保罗·博古斯、特鲁瓦格罗兄弟、米歇尔·盖拉尔和阿兰·沙佩尔成为其中的重要人物，尽管各自风格仍不相同。",
+        "这场运动有时被讽刺为“大盘子里只有极小份量”。",
+        "然而它的影响十分深远：季节性、精准火候和创作自由如今已成为远超法国范围的共同原则。"
+      ]
+    },
+    {
+      "title": "Guides, étoiles et pression",
+      "fr": "Le Guide Michelin utilise des inspecteurs anonymes et attribue une, deux ou trois étoiles aux restaurants jugés remarquables. Dans son langage, une étoile signale une très bonne table, deux méritent un détour et trois un voyage spécial. Le Gault & Millau propose une autre tradition critique, avec des notes et des toques. Ces distinctions peuvent apporter des clients, une visibilité internationale et des possibilités professionnelles. Elles créent aussi une forte pression : maintenir une équipe, une qualité régulière et un niveau de service élevé coûte cher. Aujourd’hui, le prestige d’un chef se construit également par les médias, les livres, la télévision, les réseaux sociaux et des restaurants plus accessibles. La cuisine française reste donc liée aux guides, mais l’autorité culinaire est devenue plus diverse et plus ouverte.",
+      "zh": "《米其林指南》使用匿名评审员，并向被认为出色的餐厅授予一星、二星或三星。按照它的表述，一星代表非常好的餐厅，二星值得绕道前往，三星则值得专程旅行。《戈与米约》代表另一种评论传统，采用分数和厨师帽标志。这些荣誉可以带来顾客、国际知名度和职业机会。它们也会造成巨大压力：维持团队、稳定品质和高水平服务都成本高昂。如今，厨师的声望还通过媒体、书籍、电视、社交网络以及更亲民的餐厅建立起来。因此，法国料理仍与指南紧密相连，但烹饪权威已经变得更加多元和开放。",
+      "zhSentences": [
+        "《米其林指南》使用匿名评审员，并向被认为出色的餐厅授予一星、二星或三星。",
+        "按照它的表述，一星代表非常好的餐厅，二星值得绕道前往，三星则值得专程旅行。",
+        "《戈与米约》代表另一种评论传统，采用分数和厨师帽标志。",
+        "这些荣誉可以带来顾客、国际知名度和职业机会。",
+        "它们也会造成巨大压力：维持团队、稳定品质和高水平服务都成本高昂。",
+        "如今，厨师的声望还通过媒体、书籍、电视、社交网络以及更亲民的餐厅建立起来。",
+        "因此，法国料理仍与指南紧密相连，但烹饪权威已经变得更加多元和开放。"
+      ]
+    }
+  ],
+  "highlights": [
+    "n’a pas cessé d’innover",
+    "s’affairent dans",
+    "au moment du dessert",
+    "La génération suivante",
+    "s’exporte beaucoup",
+    "Quant à",
+    "préfère rester",
+    "sa réputation est mondiale",
+    "bénéficient de"
+  ],
+  "sentenceTranslations": [
+    "自卡雷姆——“厨师之王、君王的厨师”——以来，又经布里亚-萨瓦兰对烹饪艺术的思考及埃斯科菲耶《烹饪指南》的数千道菜谱影响，法国美食**从未停止创新**，提出新的味道与组合。",
+    "第一代戴白高帽的大师在厨房里**忙碌**，并在**甜点上桌时**出来向客人致意；他们已成为传奇人物，如费尔南·普安、特鲁瓦格罗兄弟、雷蒙·奥利维耶、阿兰·沙佩尔和保罗·博古斯。",
+    "**下一代**“后新派料理”厨师**大量走向海外**：罗布雄在欧洲、美国和亚洲拥有十多家餐厅；杜卡斯经营全球餐饮帝国；加涅尔则在拉斯维加斯开店。",
+    "**至于**以黑色大帽闻名的马克·韦拉，他**更愿意留在**萨瓦，但**享有世界声誉**。",
+    "两种很受尊敬的出版物观察、评论和评估厨师世界：授予星级的《米其林红色指南》和以十至二十分评分的《戈与米约》。",
+    "全球不到七十家餐厅**获得**珍贵的三星评价，其中法国约有二十多家。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/chefs/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 20.297
+      },
+      {
+        "start": 20.297,
+        "end": 38.583
+      },
+      {
+        "start": 38.583,
+        "end": 61.153
+      },
+      {
+        "start": 61.153,
+        "end": 73.273
+      },
+      {
+        "start": 73.273,
+        "end": 84.167
+      },
+      {
+        "start": 84.167,
+        "end": 91.167
+      }
+    ]
+  }
+}

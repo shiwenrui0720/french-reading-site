@@ -1,0 +1,121 @@
+{
+  "id": "frites",
+  "title": "Frites",
+  "chineseTitle": "炸薯条",
+  "level": "B1",
+  "topic": "food",
+  "summary": "法国与比利时都熟悉的国民配菜和口语符号。",
+  "groups": [
+    [
+      "Les Américains attribuent l’invention des frites aux Français depuis que Thomas Jefferson en mangeait à Paris juste avant la Révolution.",
+      "De leur côté, les Français pensent que les frites sont une spécialité belge."
+    ],
+    [
+      "La vérité se trouve dans les assiettes, où souvent ces pommes de terre découpées en forme d’allumettes et cuites dans l’huile accompagnent comme garniture des saucisses, des « biftecks », des omelettes, des moules...",
+      "Une salade verte à la vinaigrette complète généralement ce tableau du déjeuner, pris rapidement en brasserie ou au restaurant."
+    ],
+    [
+      "Il est inutile de demander à un enfant ce qu’il préfère entre les haricots verts, les épinards ou les frites.",
+      "Les adultes sont plus discrets sur ce sujet mais ils penseront la même chose.",
+      "L’obsession nationale pour les frites est si grande qu’elle se traduit jusque dans la langue, en effet quelqu’un qui se sent fatigué pourra ainsi dire : « Aujourd’hui, je n’ai pas la frite ! »"
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Une origine disputée",
+      "fr": "La France et la Belgique partagent une longue histoire de la frite, et la question de son origine reste discutée. Le mot anglais « French fries » ne suffit pas à prouver une invention française : il peut renvoyer à une manière de découper ou aux habitudes linguistiques de l’époque. En Belgique, la frite est un véritable symbole national. Les friteries servent des cornets généreux accompagnés de nombreuses sauces, et la cuisson en deux bains est souvent présentée comme essentielle : le premier cuit la pomme de terre, le second la rend croustillante. En France, la frite appartient plutôt au paysage des brasseries, des restaurants familiaux et des repas rapides. Cette frontière culinaire est donc moins une ligne qu’un espace commun, nourri par des pratiques voisines et des récits concurrents.",
+      "zh": "法国和比利时共享悠久的薯条历史，而它的起源问题仍有争议。英语“French fries”不足以证明薯条由法国发明：它可能指一种切法，也可能与当时的语言习惯有关。在比利时，薯条是真正的国家象征。炸薯条店会供应份量十足的纸筒薯条和多种酱汁，而两次油炸常被认为至关重要：第一次把马铃薯炸熟，第二次让外层变脆。在法国，薯条更多属于小酒馆、家庭餐厅和简便快餐的日常景观。因此，这条烹饪边界与其说是一条分界线，不如说是由相邻实践和相互竞争的故事构成的共享空间。",
+      "zhSentences": [
+        "法国和比利时共享悠久的薯条历史，而它的起源问题仍有争议。",
+        "英语“French fries”不足以证明薯条由法国发明：它可能指一种切法，也可能与当时的语言习惯有关。",
+        "在比利时，薯条是真正的国家象征。",
+        "炸薯条店会供应份量十足的纸筒薯条和多种酱汁，而两次油炸常被认为至关重要：第一次把马铃薯炸熟，第二次让外层变脆。",
+        "在法国，薯条更多属于小酒馆、家庭餐厅和简便快餐的日常景观。",
+        "因此，这条烹饪边界与其说是一条分界线，不如说是由相邻实践和相互竞争的故事构成的共享空间。"
+      ]
+    },
+    {
+      "title": "Des accords populaires",
+      "fr": "Dans une brasserie française, le steak-frites est un classique immédiatement reconnaissable. Une pièce de bœuf, une sauce ou un beurre composé et une portion de frites forment un plat simple mais très codifié. Dans le nord de la France et en Belgique, les moules-frites associent des coquillages cuits au vin blanc, aux herbes ou à la crème avec des pommes de terre croustillantes. Les frites accompagnent aussi un croque-monsieur, une omelette ou un poulet rôti. Leur réussite dépend du choix de la pomme de terre, de la taille de la coupe, de la température de l’huile et du moment du service. Elles doivent arriver chaudes et garder un contraste entre surface croustillante et intérieur tendre. Ce savoir-faire ordinaire explique leur popularité durable.",
+      "zh": "在法国小酒馆中，牛排配薯条是一眼就能认出的经典菜。一块牛肉、一份酱汁或调味黄油，再加一份薯条，组成一道简单却有明确传统的菜肴。在法国北部和比利时，青口配薯条把以白葡萄酒、香草或奶油烹制的贝类与酥脆马铃薯搭配起来。薯条也会搭配火腿奶酪三明治、煎蛋或烤鸡。薯条是否成功取决于马铃薯品种、切条大小、油温和上桌时机。它们必须趁热端上，并保持表面酥脆与内部柔软之间的反差。这种日常技艺解释了薯条为何长久流行。",
+      "zhSentences": [
+        "在法国小酒馆中，牛排配薯条是一眼就能认出的经典菜。",
+        "一块牛肉、一份酱汁或调味黄油，再加一份薯条，组成一道简单却有明确传统的菜肴。",
+        "在法国北部和比利时，青口配薯条把以白葡萄酒、香草或奶油烹制的贝类与酥脆马铃薯搭配起来。",
+        "薯条也会搭配火腿奶酪三明治、煎蛋或烤鸡。",
+        "薯条是否成功取决于马铃薯品种、切条大小、油温和上桌时机。",
+        "它们必须趁热端上，并保持表面酥脆与内部柔软之间的反差。",
+        "这种日常技艺解释了薯条为何长久流行。"
+      ]
+    },
+    {
+      "title": "Avoir la frite",
+      "fr": "La frite est aussi entrée dans le langage familier. « Avoir la frite » signifie être en forme, plein d’énergie et de bonne humeur. À l’inverse, « ne pas avoir la frite » décrit un jour de fatigue ou de moral bas. On entend également « avoir la patate », qui transmet presque la même idée, et « mettre une patate » dans un registre plus physique ou plus agressif selon le contexte. Ces expressions montrent comment un aliment populaire devient une image du corps et de l’énergie. Elles conviennent surtout à une conversation informelle ; on les évite dans un courrier administratif ou un discours très soutenu. Pour un apprenant, les reconnaître est utile, car le sens réel n’a plus grand-chose à voir avec la cuisine. Dire « aujourd’hui, j’ai la frite » annonce simplement une excellente forme.",
+      "zh": "薯条也进入了法语口语。“avoir la frite”表示状态很好、精力充沛而且心情愉快。相反，“ne pas avoir la frite”形容某一天很疲倦或情绪低落。人们还会说意思几乎相同的“avoir la patate”；而“mettre une patate”则会根据语境带有更强的身体动作或攻击色彩。这些表达说明，一种大众食物如何转化为身体和能量的形象。它们主要适合非正式谈话，在行政信件或非常正式的发言中应当避免。对学习者来说，识别它们很有用，因为实际含义已经与烹饪没有太大关系。说“aujourd’hui, j’ai la frite”，只是表示自己今天状态极佳。",
+      "zhSentences": [
+        "薯条也进入了法语口语。",
+        "“avoir la frite”表示状态很好、精力充沛而且心情愉快。",
+        "相反，“ne pas avoir la frite”形容某一天很疲倦或情绪低落。",
+        "人们还会说意思几乎相同的“avoir la patate”；而“mettre une patate”则会根据语境带有更强的身体动作或攻击色彩。",
+        "这些表达说明，一种大众食物如何转化为身体和能量的形象。",
+        "它们主要适合非正式谈话，在行政信件或非常正式的发言中应当避免。",
+        "对学习者来说，识别它们很有用，因为实际含义已经与烹饪没有太大关系。",
+        "说“aujourd’hui, j’ai la frite”，只是表示自己今天状态极佳。"
+      ]
+    }
+  ],
+  "highlights": [
+    "De leur côté",
+    "en forme d’allumettes",
+    "pris rapidement",
+    "Il est inutile de",
+    "la même chose",
+    "se traduit jusque dans la langue",
+    "je n’ai pas la frite"
+  ],
+  "sentenceTranslations": [
+    "自从托马斯·杰斐逊在革命前夕于巴黎吃过薯条，美国人便把薯条的发明归给法国人。",
+    "**另一方面**，法国人认为薯条是比利时特产。",
+    "答案就在餐盘中：这些切成**火柴棒形状**、在油中烹炸的土豆，常作为配菜搭配香肠、牛排、煎蛋和青口等。",
+    "一份油醋汁绿沙拉通常为这种在小酒馆或餐厅**匆忙吃完**的午餐画面作补充。",
+    "**没有必要**问孩子更喜欢四季豆、菠菜还是薯条。",
+    "成年人对此更含蓄，但他们也会想**同一件事**。",
+    "法国人对薯条的痴迷之深，甚至**体现在语言中**：觉得疲倦的人会说：“今天我**没精神**！”"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/frites/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 6.452
+      },
+      {
+        "start": 6.452,
+        "end": 11.18
+      },
+      {
+        "start": 11.18,
+        "end": 22.309
+      },
+      {
+        "start": 22.309,
+        "end": 29.806
+      },
+      {
+        "start": 29.806,
+        "end": 36.101
+      },
+      {
+        "start": 36.101,
+        "end": 40.49
+      },
+      {
+        "start": 40.49,
+        "end": 50.39
+      }
+    ]
+  }
+}

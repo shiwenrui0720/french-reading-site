@@ -1,0 +1,137 @@
+{
+  "id": "truffes",
+  "title": "Truffes",
+  "chineseTitle": "松露",
+  "level": "B1",
+  "topic": "food",
+  "summary": "地下生长的“厨房钻石”，以及它的采集和香气。",
+  "groups": [
+    [
+      "Brillat-Savarin, auteur de la Physiologie du Goût (1825), qualifiait la truffe de diamant de la cuisine.",
+      "Depuis le Moyen-Âge en France, on connaît en effet ce champignon qui pousse sous la terre, mêlé aux racines de certains arbres.",
+      "On ramasse les truffes à la fin de l’automne ou en hiver, avec un chien truffier ou un cochon qui sait les trouver par l’odeur, ou même à l’aide de certaines mouches qui les adorent."
+    ],
+    [
+      "La plupart des truffes françaises viennent de Provence, mais c’est la truffe noire, aussi appelée truffe du Périgord, qui est la plus recherchée pour son parfum très riche.",
+      "On trouve également des truffes en Italie et en Espagne, ainsi qu’en Chine, aux pieds de l’Himalaya."
+    ],
+    [
+      "Tout comme les diamants, les truffes ont un prix : celles du Périgord valent de cinq cents à mille euros le kilo.",
+      "Une truffe pèse entre vingt et cent grammes, mais on en trouve parfois qui pèsent plus d’une livre !"
+    ],
+    [
+      "La saveur délicate de la truffe se marie bien aux mets de viandes, de gibier en particulier, ou aux pâtés de foie gras, une autre spécialité du Périgord.",
+      "La recette de l’omelette aux truffes est simple : on conserve pendant 24 heures une truffe avec quelques œufs frais, le parfum de la truffe sera alors capté par les œufs et merveilleusement rendu pendant la cuisson."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Un champignon sous terre",
+      "fr": "La truffe est le fruit d’un champignon qui vit en relation avec les racines de certains arbres, notamment les chênes et les noisetiers. Comme elle se développe sous terre, elle ne se voit pas directement. Le producteur observe le sol, les arbres et la saison, puis utilise l’odorat d’un animal dressé. Le chien truffier est aujourd’hui très courant : il apprend à signaler l’emplacement sans abîmer la truffe. Le cochon possède naturellement un grand intérêt pour son odeur, mais il est plus difficile à transporter et peut vouloir manger sa découverte. Dans quelques régions, les caveurs surveillent aussi une petite mouche qui se pose au-dessus d’un endroit prometteur. La récolte s’appelle le cavage. Elle demande de l’expérience, de la patience et un sol favorable.",
+      "zh": "松露是一种真菌的子实体，这种真菌与某些树木的根系共生，尤其是橡树和榛树。由于它在地下生长，人们无法直接看见。生产者观察土壤、树木和季节，然后利用受训动物的嗅觉寻找。如今，松露犬非常常见：它学会标示位置，同时不损坏松露。猪天生对松露气味很感兴趣，但运输更困难，而且可能想把发现的松露吃掉。在一些地区，采集者还会观察一种小蝇，它会停在可能有松露的位置上方。这种采集称为 cavage。它需要经验、耐心和适合的土壤。",
+      "zhSentences": [
+        "松露是一种真菌的子实体，这种真菌与某些树木的根系共生，尤其是橡树和榛树。",
+        "由于它在地下生长，人们无法直接看见。",
+        "生产者观察土壤、树木和季节，然后利用受训动物的嗅觉寻找。",
+        "如今，松露犬非常常见：它学会标示位置，同时不损坏松露。",
+        "猪天生对松露气味很感兴趣，但运输更困难，而且可能想把发现的松露吃掉。",
+        "在一些地区，采集者还会观察一种小蝇，它会停在可能有松露的位置上方。",
+        "这种采集称为 cavage。",
+        "它需要经验、耐心和适合的土壤。"
+      ]
+    },
+    {
+      "title": "Périgord, Provence et marchés",
+      "fr": "La « truffe du Périgord » est le nom courant de la truffe noire Tuber melanosporum, mais sa production française ne se limite pas au Périgord. Le Vaucluse et d’autres zones du sud-est jouent un rôle majeur. En hiver, des marchés spécialisés réunissent producteurs, courtiers, restaurateurs et particuliers. Les truffes y sont examinées pour vérifier leur maturité, leur parfum, leur fermeté et leur état. Le prix varie fortement selon la récolte, la qualité et la période ; les chiffres imprimés dans un livre vieillissent donc rapidement. La culture reste incertaine, car planter des arbres mycorhizés ne garantit pas une production régulière. Sécheresse, température et entretien de la parcelle influencent le résultat. Cette rareté explique à la fois la valeur du produit et l’atmosphère particulière des marchés de saison.",
+      "zh": "“佩里戈尔松露”是黑孢块菌的常用名称，但它在法国的产地并不限于佩里戈尔。沃克吕兹和东南部其他地区也发挥着重要作用。冬季，专业市场会聚集生产者、中间商、餐馆经营者和普通消费者。松露会在市场上接受检查，以确认成熟度、香气、硬度和整体状态。价格会随着收成、品质和时期大幅变化，因此书中印出的数字很快就会过时。种植结果仍不确定，因为种下带菌根的树木并不能保证稳定产量。干旱、温度和地块维护都会影响结果。这种稀缺性既解释了产品的价值，也解释了季节性市场的特殊气氛。",
+      "zhSentences": [
+        "“佩里戈尔松露”是黑孢块菌的常用名称，但它在法国的产地并不限于佩里戈尔。",
+        "沃克吕兹和东南部其他地区也发挥着重要作用。",
+        "冬季，专业市场会聚集生产者、中间商、餐馆经营者和普通消费者。",
+        "松露会在市场上接受检查，以确认成熟度、香气、硬度和整体状态。",
+        "价格会随着收成、品质和时期大幅变化，因此书中印出的数字很快就会过时。",
+        "种植结果仍不确定，因为种下带菌根的树木并不能保证稳定产量。",
+        "干旱、温度和地块维护都会影响结果。",
+        "这种稀缺性既解释了产品的价值，也解释了季节性市场的特殊气氛。"
+      ]
+    },
+    {
+      "title": "Parfumer plutôt que remplir",
+      "fr": "La truffe s’utilise en petite quantité, car son intérêt principal réside dans son parfum. On la brosse avec soin et on la tranche finement sur des œufs, des pâtes, une purée ou une volaille. Les matières grasses captent bien ses composés aromatiques : beurre, crème, fromage et jaune d’œuf sont donc des partenaires classiques. Enfermer une truffe fraîche avec des œufs peut parfumer ceux-ci à travers leur coquille poreuse, mais il faut conserver l’ensemble correctement au froid et éviter une humidité excessive. Une cuisson longue détruit une partie des arômes ; on ajoute souvent les lamelles à la fin ou on utilise doucement les parures dans une sauce. Les huiles dites « à la truffe » n’offrent pas toujours le même parfum qu’une truffe fraîche, car certaines reposent surtout sur des arômes ajoutés.",
+      "zh": "松露只需少量使用，因为它最重要的价值在于香气。人们会仔细刷净松露，再切成薄片，放在鸡蛋、意面、土豆泥或禽肉上。脂肪能很好地吸收松露的芳香成分，因此黄油、奶油、奶酪和蛋黄都是经典搭配。把新鲜松露与鸡蛋密封存放，可以让香气穿过多孔蛋壳进入鸡蛋；但必须正确冷藏，并避免湿度过高。长时间烹煮会破坏一部分香气，因此薄片常在最后加入，边角料则会被轻柔地用于酱汁。所谓“松露油”并不总能提供与鲜松露相同的香气，因为有些产品主要依赖额外添加的香料。",
+      "zhSentences": [
+        "松露只需少量使用，因为它最重要的价值在于香气。",
+        "人们会仔细刷净松露，再切成薄片，放在鸡蛋、意面、土豆泥或禽肉上。",
+        "脂肪能很好地吸收松露的芳香成分，因此黄油、奶油、奶酪和蛋黄都是经典搭配。",
+        "把新鲜松露与鸡蛋密封存放，可以让香气穿过多孔蛋壳进入鸡蛋；但必须正确冷藏，并避免湿度过高。",
+        "长时间烹煮会破坏一部分香气，因此薄片常在最后加入，边角料则会被轻柔地用于酱汁。",
+        "所谓“松露油”并不总能提供与鲜松露相同的香气，因为有些产品主要依赖额外添加的香料。"
+      ]
+    }
+  ],
+  "highlights": [
+    "qualifiait la truffe de",
+    "à la fin de",
+    "à l’aide de",
+    "La plupart des",
+    "On trouve également",
+    "Tout comme les",
+    "se marie bien aux",
+    "pendant 24 heures"
+  ],
+  "sentenceTranslations": [
+    "《味觉生理学》作者布里亚-萨瓦兰把松露**称为**“厨房的钻石”。",
+    "自中世纪以来，法国人便认识这种在地下生长、与某些树根混在一起的蘑菇。",
+    "人们**在秋末**或冬季采集松露，借助松露犬、能靠气味找到它们的猪，甚至**借助**一些喜爱松露的苍蝇。",
+    "法国松露**大多**来自普罗旺斯，但最受追捧的是香气极浓的黑松露，也叫佩里戈尔松露。",
+    "在意大利、西班牙以及中国喜马拉雅山脚下**也能找到**松露。",
+    "**正如**钻石一样，松露也有价格：佩里戈尔松露每公斤价值五百至一千欧元。",
+    "一颗松露重二十至一百克，但有时也能找到重逾一磅的。",
+    "松露的细腻风味**很适合搭配**肉类菜肴，尤其是野味，或搭配鹅肝酱——另一种佩里戈尔特色。",
+    "松露煎蛋的做法很简单：把松露与几枚新鲜鸡蛋放在一起**保存二十四小时**，松露香气便会被鸡蛋吸收，并在烹饪时美妙地释放出来。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/truffes/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 6.87
+      },
+      {
+        "start": 6.87,
+        "end": 14.132
+      },
+      {
+        "start": 14.132,
+        "end": 22.779
+      },
+      {
+        "start": 22.779,
+        "end": 31.817
+      },
+      {
+        "start": 31.817,
+        "end": 37.773
+      },
+      {
+        "start": 37.773,
+        "end": 44.356
+      },
+      {
+        "start": 44.356,
+        "end": 50.416
+      },
+      {
+        "start": 50.416,
+        "end": 58.697
+      },
+      {
+        "start": 58.697,
+        "end": 69.851
+      }
+    ]
+  }
+}

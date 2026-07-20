@@ -1,0 +1,112 @@
+{
+  "id": "republique",
+  "title": "République",
+  "chineseTitle": "共和国",
+  "level": "B1",
+  "topic": "history",
+  "summary": "从国家格言到世俗原则，理解法国公共生活的核心语汇。",
+  "groups": [
+    [
+      "Pour mieux comprendre la société française, ses débats et ses polémiques, il faut les examiner à la lumière des principes républicains qui constituent l’identité politique du pays.",
+      "Ces principes, fondés sur les valeurs de justice et de démocratie, favorisent un État interventionniste et intégrationniste.",
+      "C’est sous la Révolution que la République française est établie sur la base de la Déclaration des droits de l’homme et du citoyen, de 1789, que résume la devise nationale : Liberté, Égalité, Fraternité.",
+      "Aujourd’hui, la France est définie par le premier article de la Constitution de 1958 comme une « République indivisible, laïque, démocratique et sociale »."
+    ],
+    [
+      "La République est indivisible : les lois sont formulées par les représentants du peuple, le Parlement, elles s’appliquent à tous et sur tout le territoire français ; les citoyens sont égaux et bénéficient des mêmes droits, quelles que soient leur couleur, leur origine, leur religion."
+    ],
+    [
+      "La République est laïque : l’État est neutre, il ne favorise ou ne finance aucun culte religieux mais garantit aux citoyens la liberté de conscience et de croyance ; toute démonstration d’appartenance religieuse par ceux qui servent l’État, les fonctionnaires, est interdite et les signes religieux ostentatoires dans les établissements scolaires sont proscrits depuis 2004."
+    ]
+  ],
+  "highlights": [
+    "à la lumière de",
+    "fondés sur",
+    "sur la base de",
+    "s’appliquent à",
+    "quelles que soient",
+    "la liberté de conscience"
+  ],
+  "sentenceTranslations": [
+    "为了更好理解法国社会及其辩论和争议，应当**依据**构成国家政治身份的共和国原则加以考察。",
+    "这些原则**建立在正义与民主价值之上**，支持一个积极干预并推动融入的国家。",
+    "法国共和国正是在大革命期间**以1789年《人权和公民权宣言》为基础**建立；国家格言“自由、平等、博爱”概括了这份宣言。",
+    "今天，1958年宪法第一条把法国定义为“不可分割、世俗、民主和社会的共和国”。",
+    "共和国不可分割：法律由人民代表——议会——制定，**适用于**所有人和法国全境；公民平等并享有相同权利，**无论**其肤色、出身或宗教为何。",
+    "共和国是世俗的：国家保持中立，不偏袒或资助任何宗教，但保障公民的**良心自由**与信仰自由；为国家服务的公务员不得展示宗教归属，学校中引人注目的宗教标志自2004年起受到禁止。"
+  ],
+  "culture": [
+    {
+      "title": "Cinq Républiques, une histoire discontinue",
+      "fr": "La Première République est proclamée en 1792, mais la France n’est pas restée républicaine sans interruption depuis cette date. Empires, monarchies et régimes provisoires se succèdent avant que la Troisième République ne s’installe durablement à partir de 1870. La Quatrième naît après la Seconde Guerre mondiale, puis la crise de 1958 conduit à la Cinquième République actuelle. Numéroter les Républiques rappelle donc plusieurs constitutions et plusieurs équilibres du pouvoir. Les institutions changent, mais certains mots traversent les régimes : citoyen, souveraineté nationale, suffrage, droits et intérêt général. Parler de « la République » au singulier peut exprimer un idéal commun ; l’histoire oblige cependant à demander de quelle période, de quelle Constitution et de quelles pratiques il s’agit.",
+      "zhSentences": [
+        "第一共和国于1792年宣布成立，但法国从那以后并未不间断地保持共和制。",
+        "帝国、君主制和临时政权相继出现，直到1870年后第三共和国才长期稳定。",
+        "第四共和国诞生于二战后，1958年危机又带来今天的第五共和国。",
+        "为共和国编号，提醒人们存在多部宪法和多种权力平衡。",
+        "制度会改变，但一些词跨越不同政体：公民、国家主权、选举权、权利与公共利益。",
+        "用单数说“共和国”可以表达共同理想；历史则要求追问具体指哪个时期、哪部宪法和哪些实践。"
+      ],
+      "zh": "第一共和国于1792年宣布成立，但法国从那以后并未不间断地保持共和制。帝国、君主制和临时政权相继出现，直到1870年后第三共和国才长期稳定。第四共和国诞生于二战后，1958年危机又带来今天的第五共和国。为共和国编号，提醒人们存在多部宪法和多种权力平衡。制度会改变，但一些词跨越不同政体：公民、国家主权、选举权、权利与公共利益。用单数说“共和国”可以表达共同理想；历史则要求追问具体指哪个时期、哪部宪法和哪些实践。"
+    },
+    {
+      "title": "Liberté, Égalité, Fraternité",
+      "fr": "Les trois mots de la devise apparaissent pendant la Révolution, mais leur association et leur statut officiel se fixent progressivement. La liberté protège la possibilité d’agir, de penser et de s’exprimer dans les limites de la loi. L’égalité affirme que les citoyens ont les mêmes droits, sans promettre que toutes les situations économiques seront identiques. La fraternité insiste sur le lien, la solidarité et les devoirs envers les autres. Dans la vie publique, ces valeurs peuvent entrer en tension : une liberté individuelle peut-elle accroître une inégalité, et jusqu’où la solidarité doit-elle être organisée ? La devise ne donne pas automatiquement la réponse. Elle fournit plutôt un langage commun pour discuter des politiques, critiquer les institutions et rappeler que la démocratie ne se réduit pas au vote.",
+      "zhSentences": [
+        "“自由、平等、博爱”三个词在大革命时期出现，但它们的组合和官方地位是逐渐确定的。",
+        "自由保护人在法律范围内行动、思考与表达的可能。",
+        "平等确认公民拥有相同权利，却不承诺所有人的经济处境完全一样。",
+        "博爱强调联系、团结与对他人的责任。",
+        "在公共生活中，这些价值可能产生张力：个人自由会不会加剧不平等，社会团结又应组织到什么程度？",
+        "格言不会自动给出答案。",
+        "它更像共同语言，用来讨论政策、批评制度，并提醒人们民主不只是投票。"
+      ],
+      "zh": "“自由、平等、博爱”三个词在大革命时期出现，但它们的组合和官方地位是逐渐确定的。自由保护人在法律范围内行动、思考与表达的可能。平等确认公民拥有相同权利，却不承诺所有人的经济处境完全一样。博爱强调联系、团结与对他人的责任。在公共生活中，这些价值可能产生张力：个人自由会不会加剧不平等，社会团结又应组织到什么程度？格言不会自动给出答案。它更像共同语言，用来讨论政策、批评制度，并提醒人们民主不只是投票。"
+    },
+    {
+      "title": "Comprendre la laïcité avec précision",
+      "fr": "La laïcité garantit d’abord la liberté de conscience : chacun peut croire, ne pas croire ou changer de conviction. L’État et ses agents doivent rester neutres dans l’exercice du service public, mais les simples usagers ne sont pas soumis exactement aux mêmes obligations que les fonctionnaires. La loi de 1905 organise la séparation des Églises et de l’État, avec une histoire et certaines exceptions territoriales. Depuis 2004, les élèves des écoles, collèges et lycées publics ne peuvent porter des signes ou tenues manifestant ostensiblement une appartenance religieuse. Cette règle précise ne signifie pas que toute expression religieuse est interdite partout dans l’espace public. Distinguer agents, usagers, élèves et citoyens évite de transformer la laïcité en slogan vague et aide à comprendre les débats français.",
+      "zhSentences": [
+        "世俗原则首先保障良心自由：每个人都可以信教、不信教或改变信念。",
+        "国家及其工作人员在履行公共服务时必须保持中立，但普通服务使用者并不承担与公务员完全相同的义务。",
+        "1905年法律组织教会与国家分离，同时带有特定历史和部分地域例外。",
+        "自2004年起，公立小学、初中和高中学生不得佩戴明显显示宗教归属的标志或服装。",
+        "这项具体规则并不表示公共空间中的所有宗教表达都被禁止。",
+        "区分公务人员、公共服务使用者、学生与公民，可以避免把世俗原则变成含混口号，也有助于理解法国争论。"
+      ],
+      "zh": "世俗原则首先保障良心自由：每个人都可以信教、不信教或改变信念。国家及其工作人员在履行公共服务时必须保持中立，但普通服务使用者并不承担与公务员完全相同的义务。1905年法律组织教会与国家分离，同时带有特定历史和部分地域例外。自2004年起，公立小学、初中和高中学生不得佩戴明显显示宗教归属的标志或服装。这项具体规则并不表示公共空间中的所有宗教表达都被禁止。区分公务人员、公共服务使用者、学生与公民，可以避免把世俗原则变成含混口号，也有助于理解法国争论。"
+    }
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/republique/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 9.12
+      },
+      {
+        "start": 9.12,
+        "end": 16.344
+      },
+      {
+        "start": 16.344,
+        "end": 28.488
+      },
+      {
+        "start": 28.488,
+        "end": 38.352
+      },
+      {
+        "start": 38.352,
+        "end": 52.272
+      },
+      {
+        "start": 52.272,
+        "end": 70.056
+      }
+    ]
+  }
+}

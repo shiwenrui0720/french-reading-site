@@ -1,0 +1,120 @@
+{
+  "id": "fromages",
+  "title": "Fromages",
+  "chineseTitle": "奶酪",
+  "level": "B1",
+  "topic": "food",
+  "summary": "从产地认证到餐桌顺序，理解法国奶酪文化。",
+  "groups": [
+    [
+      "Avec le pain et le vin, le fromage constitue le troisième côté du « triangle sacré » de la gastronomie française, considérée dans son aspect le plus élémentaire.",
+      "On peut en effet concevoir en France un excellent déjeuner composé uniquement de ces trois éléments, avec peut-être en plus quelques olives noires et une salade verte bien assaisonnée."
+    ],
+    [
+      "Il existe près de quatre cents variétés de fromages en France, chaque région en produit, selon des méthodes et des traditions particulières : le camembert en Normandie, le brie à Meaux, le cantal en Auvergne, le roquefort en Aveyron...",
+      "Comme pour les vins, certains fromages reçoivent le label d’Appellation d’Origine Contrôlée (AOC), qui garantit la qualité de leur fabrication.",
+      "On utilise trois types de lait, celui de la vache, celui de la chèvre et, moins souvent, celui de la brebis."
+    ],
+    [
+      "Dans un menu classique, le fromage arrive en quatrième position, après l’entrée, le plat principal et la salade, juste avant le dessert.",
+      "Plusieurs types sont alors présentés sur un plateau, on les déguste avec du pain, généralement du plus doux au plus corsé."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Terroir et appellations",
+      "fr": "Un fromage français raconte souvent un territoire précis : climat, pâturages, race animale, gestes de fabrication et durée d’affinage. Les appellations d’origine protègent ce lien. Pour porter un nom comme Roquefort, Comté ou Camembert de Normandie, un produit doit respecter un cahier des charges et une zone géographique définie. Le sigle européen AOP, appellation d’origine protégée, est aujourd’hui central ; l’ancien terme français AOC reste très présent dans la langue courante. Cette protection ne signifie pas que tous les fromages sans appellation sont médiocres. Elle garantit plutôt une origine et une méthode collectivement reconnues. Les producteurs fermiers, les coopératives et les laiteries peuvent tous participer à cette diversité. Lire l’étiquette permet de distinguer le lieu de fabrication, le type de lait et parfois le traitement thermique.",
+      "zh": "一种法国奶酪往往讲述着某片具体土地的故事：气候、牧场、动物品种、制作手法和熟成时间。原产地名称制度保护的正是这种联系。产品若要使用罗克福、孔泰或诺曼底卡芒贝尔这样的名称，就必须遵守一套规范，并产自划定的地理区域。如今，欧洲的 AOP 标志——即“受保护原产地名称”——居于核心地位；较早的法国术语 AOC 在日常语言中仍很常见。这种保护并不意味着所有没有原产地名称的奶酪都品质低劣。它保障的是一种由集体认可的来源和制作方法。农场生产者、合作社和乳品厂都可以参与构成这种多样性。阅读标签可以辨别制作地点、奶源种类，有时还能看出是否经过热处理。",
+      "zhSentences": [
+        "一种法国奶酪往往讲述着某片具体土地的故事：气候、牧场、动物品种、制作手法和熟成时间。",
+        "原产地名称制度保护的正是这种联系。",
+        "产品若要使用罗克福、孔泰或诺曼底卡芒贝尔这样的名称，就必须遵守一套规范，并产自划定的地理区域。",
+        "如今，欧洲的 AOP 标志——即“受保护原产地名称”——居于核心地位；较早的法国术语 AOC 在日常语言中仍很常见。",
+        "这种保护并不意味着所有没有原产地名称的奶酪都品质低劣。",
+        "它保障的是一种由集体认可的来源和制作方法。",
+        "农场生产者、合作社和乳品厂都可以参与构成这种多样性。",
+        "阅读标签可以辨别制作地点、奶源种类，有时还能看出是否经过热处理。"
+      ]
+    },
+    {
+      "title": "Trois laits, plusieurs familles",
+      "fr": "Le lait de vache domine de nombreuses régions, mais le lait de chèvre est particulièrement visible dans la vallée de la Loire et le Poitou, tandis que le lait de brebis caractérise notamment le Roquefort et des fromages des Pyrénées ou de Corse. Au-delà de l’animal, les familles de texture aident à se repérer : pâtes molles à croûte fleurie, comme le brie ; croûtes lavées, souvent plus puissantes ; pâtes pressées, comme le comté ; bleus persillés ; chèvres frais ou affinés. L’odeur ne prédit pas toujours la force en bouche. Un fromage très parfumé peut être doux, et un petit chèvre discret peut devenir piquant avec l’âge. Le rôle de l’affineur est justement de conduire cette évolution dans une cave où température, humidité et soins sont contrôlés.",
+      "zh": "牛奶在许多地区占主导地位，但山羊奶在卢瓦尔河谷和普瓦图尤其常见；绵羊奶则特别体现于罗克福，以及比利牛斯和科西嘉的一些奶酪。除了动物种类，还可以通过质地家族来辨别：如布里奶酪一类的白霉软质奶酪、通常味道更强的洗皮奶酪、孔泰一类的压制奶酪、蓝纹奶酪，以及新鲜或熟成的山羊奶酪。气味并不总能预示入口后的味道强度。一种气味浓郁的奶酪可能口感温和，而一小块看似低调的山羊奶酪会随着熟成变得辛辣。熟成师的职责，正是在温度、湿度和护理方式都受到控制的地窖里引导这种变化。",
+      "zhSentences": [
+        "牛奶在许多地区占主导地位，但山羊奶在卢瓦尔河谷和普瓦图尤其常见；绵羊奶则特别体现于罗克福，以及比利牛斯和科西嘉的一些奶酪。",
+        "除了动物种类，还可以通过质地家族来辨别：如布里奶酪一类的白霉软质奶酪、通常味道更强的洗皮奶酪、孔泰一类的压制奶酪、蓝纹奶酪，以及新鲜或熟成的山羊奶酪。",
+        "气味并不总能预示入口后的味道强度。",
+        "一种气味浓郁的奶酪可能口感温和，而一小块看似低调的山羊奶酪会随着熟成变得辛辣。",
+        "熟成师的职责，正是在温度、湿度和护理方式都受到控制的地窖里引导这种变化。"
+      ]
+    },
+    {
+      "title": "Le plateau et son ordre",
+      "fr": "Dans un repas traditionnel, le plateau de fromages arrive après le plat principal et avant le dessert. On en choisit généralement quelques-uns plutôt que de tout goûter. Une règle pratique consiste à commencer par les saveurs les plus douces, puis à aller vers les pâtes plus puissantes et les bleus. On coupe le fromage de manière à partager équitablement la croûte et le cœur : une pointe triangulaire se coupe dans la longueur, tandis qu’un grand morceau peut être découpé en tranches parallèles. Le pain accompagne naturellement la dégustation ; les crackers très parfumés risquent de masquer les arômes. Dans la vie quotidienne, ces codes sont beaucoup plus souples. Un morceau de fromage peut terminer un déjeuner rapide, garnir un sandwich ou devenir le centre d’un repas simple avec salade et pain.",
+      "zh": "在传统餐序中，奶酪拼盘位于主菜之后、甜点之前。人们通常挑选其中几种，而不会把所有奶酪都尝一遍。一个实用原则是先吃味道最温和的，再逐步品尝风味更强的奶酪和蓝纹奶酪。切奶酪时应公平分享外皮和中心：三角形尖块沿长度方向切，而大块奶酪可以平行切片。面包自然适合搭配奶酪；香味过重的饼干可能会掩盖奶酪本身的香气。在日常生活中，这些规矩要灵活得多。一块奶酪可以结束一顿简便午餐、夹进三明治，也可以与沙拉和面包一起成为简单一餐的中心。",
+      "zhSentences": [
+        "在传统餐序中，奶酪拼盘位于主菜之后、甜点之前。",
+        "人们通常挑选其中几种，而不会把所有奶酪都尝一遍。",
+        "一个实用原则是先吃味道最温和的，再逐步品尝风味更强的奶酪和蓝纹奶酪。",
+        "切奶酪时应公平分享外皮和中心：三角形尖块沿长度方向切，而大块奶酪可以平行切片。",
+        "面包自然适合搭配奶酪；香味过重的饼干可能会掩盖奶酪本身的香气。",
+        "在日常生活中，这些规矩要灵活得多。",
+        "一块奶酪可以结束一顿简便午餐、夹进三明治，也可以与沙拉和面包一起成为简单一餐的中心。"
+      ]
+    }
+  ],
+  "highlights": [
+    "constitue le troisième côté",
+    "On peut en effet",
+    "selon des méthodes",
+    "Comme pour les vins",
+    "On utilise",
+    "juste avant le dessert",
+    "du plus doux au plus corsé"
+  ],
+  "sentenceTranslations": [
+    "面包、葡萄酒和奶酪构成法国最基本美食观中的“神圣三角”的**第三边**。",
+    "**确实可以**想象在法国吃一顿极好的午餐，只包括这三样东西，或许再加一些黑橄榄和调味得当的绿沙拉。",
+    "法国有近四百种奶酪，每个地区都按照特有的**方法**和传统生产：诺曼底的卡芒贝尔、莫城的布里、奥弗涅的康塔尔、阿韦龙的罗克福等。",
+    "**和葡萄酒一样**，一些奶酪会获得 AOC 原产地控制名称标签，它保证制作质量。",
+    "**人们使用**三种奶：牛奶、山羊奶，以及较少见的绵羊奶。",
+    "在经典菜单中，奶酪排在前菜、主菜和沙拉之后，**甜点之前**第四道上桌。",
+    "这时会在拼盘上摆出几种奶酪，人们配面包品尝，通常从最温和的吃到**味道最浓的**。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/fromages/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 9.038
+      },
+      {
+        "start": 9.038,
+        "end": 18.756
+      },
+      {
+        "start": 18.756,
+        "end": 32.366
+      },
+      {
+        "start": 32.366,
+        "end": 39.628
+      },
+      {
+        "start": 39.628,
+        "end": 45.74
+      },
+      {
+        "start": 45.74,
+        "end": 54.361
+      },
+      {
+        "start": 54.361,
+        "end": 60.891
+      }
+    ]
+  }
+}

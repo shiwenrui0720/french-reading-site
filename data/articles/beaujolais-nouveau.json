@@ -1,0 +1,140 @@
+{
+  "id": "beaujolais-nouveau",
+  "title": "Beaujolais nouveau",
+  "chineseTitle": "博若莱新酒",
+  "level": "B1",
+  "topic": "food",
+  "summary": "每年十一月，全球一起迎接一款年轻、轻盈的葡萄酒。",
+  "groups": [
+    [
+      "Le vin a une fête, c’est celle du Beaujolais nouveau.",
+      "Cette fête a lieu chaque année dans le cadre d’une stricte législation, d’un rituel méticuleusement réglé et d’une organisation commerciale de grande envergure.",
+      "Le troisième jeudi du mois de novembre, des millions de bouteilles de beaujolais nouveau sont livrées dans les bars et restaurants de France et partout sur la planète.",
+      "Des panneaux et des affiches proclament alors que « le Beaujolais Nouveau est arrivé ! »"
+    ],
+    [
+      "La particularité du beaujolais est qu’il est bu très jeune, immédiatement après sa fabrication.",
+      "Il est léger, tendre et fruité, d’un rouge transparent, il contient très peu de tanins et c’est pourquoi tout le monde l’apprécie.",
+      "On le déguste au son de l’accordéon et des chansons.",
+      "C’est un vin qui réunit, qui appelle à la fraternité et aux agapes joyeuses."
+    ],
+    [
+      "Sur tous les continents, l’arrivée du nouveau cru est célébrée autant qu’en France.",
+      "En Inde, on transporte les caisses de beaujolais à dos d’éléphant, les Américains associent désormais le beaujolais au Thanksgiving Day, alors qu’à Hakone au Japon, un hôtel organise des bains au beaujolais auxquels sont conviés les résidents."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Un rendez-vous de novembre",
+      "fr": "Le Beaujolais nouveau est mis en vente chaque année le troisième jeudi de novembre. Cette date commune transforme un produit régional en événement collectif : caves, bistrots et restaurants peuvent ouvrir les bouteilles au même moment. Le vin vient du Beaujolais, au nord de Lyon, une région de collines où le gamay est le cépage emblématique. Contrairement aux vins destinés à vieillir, ce vin primeur cherche surtout la fraîcheur, le fruit et la facilité. On le boit dans les semaines ou les mois qui suivent sa production. Les affiches annonçant son arrivée font partie du décor de novembre. Pour beaucoup de consommateurs, la fête compte presque autant que la dégustation elle-même : elle célèbre la nouvelle récolte et le retour d’un rituel saisonnier.",
+      "zh": "博若莱新酒每年在十一月的第三个星期四上市。这个共同日期把一种地方产品变成集体活动：酒窖、小酒馆和餐厅可以在同一时刻开瓶。这种酒来自里昂以北的博若莱丘陵产区，佳美葡萄是那里的代表性品种。与用于陈年的葡萄酒不同，这种新酒主要追求新鲜、果香和易饮。人们通常在酿成后的几周或几个月内饮用。宣告新酒到来的海报也成了十一月街景的一部分。对许多消费者来说，节庆几乎和品尝本身同样重要：它庆祝新收成，也庆祝一个季节性仪式的回归。",
+      "zhSentences": [
+        "博若莱新酒每年在十一月的第三个星期四上市。",
+        "这个共同日期把一种地方产品变成集体活动：酒窖、小酒馆和餐厅可以在同一时刻开瓶。",
+        "这种酒来自里昂以北的博若莱丘陵产区，佳美葡萄是那里的代表性品种。",
+        "与用于陈年的葡萄酒不同，这种新酒主要追求新鲜、果香和易饮。",
+        "人们通常在酿成后的几周或几个月内饮用。",
+        "宣告新酒到来的海报也成了十一月街景的一部分。",
+        "对许多消费者来说，节庆几乎和品尝本身同样重要：它庆祝新收成，也庆祝一个季节性仪式的回归。"
+      ]
+    },
+    {
+      "title": "Le fruit avant la garde",
+      "fr": "Pour obtenir son style très fruité, le Beaujolais nouveau est souvent élaboré par une méthode proche de la macération carbonique. Des grappes entières fermentent dans une cuve où l’oxygène est limité, ce qui favorise des arômes immédiats de fruits rouges, parfois de banane ou de bonbon. Cette technique donne peu de tanins et une couleur vive. Le résultat n’a pas vocation à représenter tous les vins du Beaujolais : la région produit aussi des beaujolais-villages et des crus plus structurés, comme Morgon, Fleurie ou Moulin-à-Vent. Ceux-ci expriment des terroirs précis et peuvent évoluer plusieurs années. Comprendre cette différence évite de réduire toute une région au seul vin primeur, même si celui-ci reste son ambassadeur le plus populaire.",
+      "zh": "为了获得非常浓郁的果香风格，博若莱新酒常采用近似二氧化碳浸渍法的工艺酿造。整串葡萄在氧气受限的酒槽中发酵，从而迅速形成红色水果的香气，有时还会出现香蕉或糖果般的气息。这种工艺会带来较少的单宁和鲜亮的颜色。这种新酒并不能代表博若莱的所有葡萄酒：该地区还生产博若莱村庄级葡萄酒以及结构更完整的特级村酒，如 Morgon、Fleurie 和 Moulin-à-Vent。这些酒能够表现具体的风土，并可在数年间继续发展。理解这种差别，就不会把整个产区简化成一种新酒，尽管后者仍是它最受欢迎的形象大使。",
+      "zhSentences": [
+        "为了获得非常浓郁的果香风格，博若莱新酒常采用近似二氧化碳浸渍法的工艺酿造。",
+        "整串葡萄在氧气受限的酒槽中发酵，从而迅速形成红色水果的香气，有时还会出现香蕉或糖果般的气息。",
+        "这种工艺会带来较少的单宁和鲜亮的颜色。",
+        "这种新酒并不能代表博若莱的所有葡萄酒：该地区还生产博若莱村庄级葡萄酒以及结构更完整的特级村酒，如 Morgon、Fleurie 和 Moulin-à-Vent。",
+        "这些酒能够表现具体的风土，并可在数年间继续发展。",
+        "理解这种差别，就不会把整个产区简化成一种新酒，尽管后者仍是它最受欢迎的形象大使。"
+      ]
+    },
+    {
+      "title": "Une fête devenue mondiale",
+      "fr": "La diffusion internationale du Beaujolais nouveau doit beaucoup à une campagne commerciale simple et mémorable : une date unique, une phrase facile à traduire et un vin accessible. À partir de la seconde moitié du vingtième siècle, les bouteilles ont voyagé rapidement vers l’Europe, l’Amérique et surtout l’Asie. Au Japon, les célébrations ont parfois pris des formes spectaculaires, ce qui a renforcé l’image festive du produit. Cette mondialisation montre comment une tradition peut être à la fois locale et construite par le commerce. Aujourd’hui, certains producteurs cherchent aussi à présenter le vin avec davantage de précision : méthodes de culture, parcelles, travail artisanal et respect du millésime. Derrière le slogan, il y a donc des vignerons, des villages et une vraie diversité de styles.",
+      "zh": "博若莱新酒的国际传播很大程度上得益于一场简单而令人难忘的营销：统一的日期、容易翻译的口号和亲切易饮的葡萄酒。从二十世纪后半叶开始，这些酒瓶迅速运往欧洲、美洲，尤其是亚洲。在日本，庆祝活动有时采取十分壮观的形式，进一步强化了这种产品的节庆形象。这种全球化说明，一项传统可以既具有地方性，又由商业活动共同塑造。如今，一些生产者也试图更精确地介绍自己的酒，包括种植方式、地块、手工工作以及对年份特征的尊重。因此，在那句口号背后，还有酿酒人、村庄和真正多样的风格。",
+      "zhSentences": [
+        "博若莱新酒的国际传播很大程度上得益于一场简单而令人难忘的营销：统一的日期、容易翻译的口号和亲切易饮的葡萄酒。",
+        "从二十世纪后半叶开始，这些酒瓶迅速运往欧洲、美洲，尤其是亚洲。",
+        "在日本，庆祝活动有时采取十分壮观的形式，进一步强化了这种产品的节庆形象。",
+        "这种全球化说明，一项传统可以既具有地方性，又由商业活动共同塑造。",
+        "如今，一些生产者也试图更精确地介绍自己的酒，包括种植方式、地块、手工工作以及对年份特征的尊重。",
+        "因此，在那句口号背后，还有酿酒人、村庄和真正多样的风格。"
+      ]
+    }
+  ],
+  "highlights": [
+    "chaque année",
+    "dans le cadre d’une",
+    "Le troisième jeudi",
+    "partout sur la planète",
+    "immédiatement après",
+    "c’est pourquoi",
+    "au son de",
+    "appelle à",
+    "Sur tous les continents",
+    "autant qu’en France"
+  ],
+  "sentenceTranslations": [
+    "葡萄酒也有节日，那就是博若莱新酒节。",
+    "这一节日**每年**都在**严格法规、精心安排的仪式和大规模商业组织的框架中**举行。",
+    "十一月的**第三个星期四**，数百万瓶博若莱新酒会被送往法国的酒吧、餐厅以及**世界各地**。",
+    "此时，招牌和海报会宣告：“博若莱新酒到了！”",
+    "博若莱的特点是酒非常年轻，**刚酿成后不久**就饮用。",
+    "它轻盈、柔和、果香浓郁，呈透明红色，单宁很少，**这就是为什么**人人都喜欢它。",
+    "人们伴着手风琴和歌曲的声音**品尝它**。",
+    "这是一种让人相聚、**呼唤**友爱和欢乐宴饮的酒。",
+    "**在所有大洲**，新年份酒的到来都受到庆祝，热闹程度**不亚于法国**。",
+    "在印度，人们用大象驮运博若莱酒箱；美国人如今把它与感恩节联系起来；而日本箱根的一家酒店还举办博若莱酒浴，邀请住客参加。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/beaujolais-nouveau/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 3.265
+      },
+      {
+        "start": 3.265,
+        "end": 11.624
+      },
+      {
+        "start": 11.624,
+        "end": 20.428
+      },
+      {
+        "start": 20.428,
+        "end": 25.287
+      },
+      {
+        "start": 25.287,
+        "end": 30.72
+      },
+      {
+        "start": 30.72,
+        "end": 37.904
+      },
+      {
+        "start": 37.904,
+        "end": 40.986
+      },
+      {
+        "start": 40.986,
+        "end": 45.636
+      },
+      {
+        "start": 45.636,
+        "end": 50.547
+      },
+      {
+        "start": 50.547,
+        "end": 62.433
+      }
+    ]
+  }
+}

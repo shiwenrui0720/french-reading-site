@@ -1,0 +1,138 @@
+{
+  "id": "legion-honneur",
+  "title": "Légion d’honneur",
+  "chineseTitle": "法国荣誉军团勋章",
+  "level": "B1",
+  "topic": "history",
+  "summary": "共和国最高荣誉如何表彰军事功绩与公共贡献。",
+  "groups": [
+    [
+      "La plus haute des distinctions françaises a été créée en 1802 par le Premier consul Bonaparte, futur empereur Napoléon Ier.",
+      "Pour lui, la Légion d’honneur, parfois appelée la « croix des braves », devait « récompenser les militaires mais aussi les services et vertus civils ».",
+      "Cette récompense, dont la devise est « Honneur et Patrie », est décernée par le président de la République."
+    ],
+    [
+      "Il existe trois grades et deux dignités dans la hiérarchie de cette distinction : Chevalier, Officier, Commandeur, puis Grand Officier et Grand’Croix.",
+      "Parmi les récipiendaires de la plus haute distinction, très rarement attribuée, figurent Louis Pasteur, Gustave Eiffel, Claude Lévi-Strauss et l’abbé Pierre.",
+      "Selon un décret du général de Gaulle, le nombre des « légionnaires vivants » de tous grades, français ou non français, ne peut pas dépasser 125 000.",
+      "Les deux tiers de ces légionnaires sont des militaires, le reste est composé de civils."
+    ],
+    [
+      "Les femmes constituent actuellement 10 % seulement du corps de la Légion d’honneur.",
+      "Toutefois, le nombre de femmes ayant reçu cette distinction est en forte augmentation depuis ces vingt dernières années.",
+      "Certains nominés notoires ont choisi de ne pas accepter cet honneur, comme George Sand, Guy de Maupassant, Pierre et Marie Curie, Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Catherine Deneuve, Brigitte Bardot."
+    ]
+  ],
+  "highlights": [
+    "a été créée en 1802 par",
+    "est décernée par",
+    "Il existe",
+    "ne peut pas dépasser",
+    "est composé de",
+    "Toutefois",
+    "ont choisi de"
+  ],
+  "sentenceTranslations": [
+    "法国最高等级的勋章于1802年**由第一执政波拿巴——后来的拿破仑一世皇帝——创立**。",
+    "对他而言，荣誉军团勋章有时被称为“勇士十字”，应当“奖励军人，也奖励公民服务与美德”。",
+    "这项以“荣誉与祖国”为格言的荣誉，**由共和国总统授予**。",
+    "这一荣誉的等级体系**包括**三个级别与两个尊位：骑士、军官、司令，随后是大军官和大十字。",
+    "极少授予的最高级别获得者包括路易·巴斯德、古斯塔夫·埃菲尔、克洛德·列维-斯特劳斯和皮埃尔神父。",
+    "根据戴高乐将军的一项法令，所有级别、法国籍或非法国籍的“在世荣誉军团成员”人数**不得超过**125000人。",
+    "这些成员中三分之二是军人，其余**由平民组成**。",
+    "女性当时仅占荣誉军团成员总数的10%。",
+    "**不过**，此前二十年间获得这一荣誉的女性人数大幅增加。",
+    "一些知名被提名者**选择不接受**这项荣誉，例如乔治·桑、居伊·德·莫泊桑、皮埃尔与玛丽·居里、让-保罗·萨特、西蒙娜·德·波伏娃、阿尔贝·加缪、凯瑟琳·德纳芙和碧姬·芭铎。"
+  ],
+  "culture": [
+    {
+      "title": "Une distinction née après la Révolution",
+      "fr": "La Révolution française avait supprimé les anciens ordres liés à la monarchie et aux privilèges de naissance. Bonaparte crée la Légion d’honneur pour récompenser des services individuels tout en organisant une nouvelle élite du mérite. La distinction concerne les militaires, mais aussi les scientifiques, artistes, enseignants, entrepreneurs, fonctionnaires ou bénévoles. Elle n’accorde pas un titre de noblesse et ne se transmet pas aux enfants. Le président de la République est le grand maître de l’ordre, tandis qu’une administration examine les propositions et prépare les nominations. Recevoir la décoration suppose donc une procédure, des critères et une cérémonie. Ce système traduit une tension durable : la République proclame l’égalité, mais elle choisit aussi de distinguer publiquement certaines contributions exceptionnelles.",
+      "zhSentences": [
+        "法国大革命曾废除与君主制和出生特权相连的旧勋章体系。",
+        "波拿巴创立荣誉军团，以奖励个人贡献，同时组织一套以功绩为基础的新精英制度。",
+        "这一荣誉面向军人，也面向科学家、艺术家、教师、企业家、公务员或志愿者。",
+        "它不授予贵族头衔，也不能传给子女。",
+        "共和国总统是勋章体系的最高主持者，行政机构则审查提议并准备任命。",
+        "获得勋章因此需要程序、标准与仪式。",
+        "这一制度体现出持久张力：共和国宣告平等，同时又选择公开表彰某些杰出贡献。"
+      ],
+      "zh": "法国大革命曾废除与君主制和出生特权相连的旧勋章体系。波拿巴创立荣誉军团，以奖励个人贡献，同时组织一套以功绩为基础的新精英制度。这一荣誉面向军人，也面向科学家、艺术家、教师、企业家、公务员或志愿者。它不授予贵族头衔，也不能传给子女。共和国总统是勋章体系的最高主持者，行政机构则审查提议并准备任命。获得勋章因此需要程序、标准与仪式。这一制度体现出持久张力：共和国宣告平等，同时又选择公开表彰某些杰出贡献。"
+    },
+    {
+      "title": "Grades, promotions et cérémonial",
+      "fr": "On entre normalement dans l’ordre au grade de chevalier. Une promotion vers officier ou commandeur demande de nouveaux services et un certain temps, tandis que les dignités de grand officier et de grand-croix restent exceptionnelles. La décoration change selon le rang, mais elle conserve l’étoile blanche, la couronne végétale et le ruban rouge facilement reconnaissable. Lors d’une remise, une personne habilitée prononce une formule officielle et fixe l’insigne sur le vêtement du récipiendaire. Être nommé ne suffit pas toujours : la réception marque l’entrée effective dans l’ordre. Les listes publiées à certaines dates donnent une visibilité nationale aux parcours récompensés. Derrière le mot unique de « médaille », il existe donc une hiérarchie, un vocabulaire et des gestes précis.",
+      "zhSentences": [
+        "通常人们先以骑士级进入荣誉军团。",
+        "晋升军官或司令需要新的贡献和一定年限，大军官与大十字尊位则非常少见。",
+        "装饰会随级别变化，但都保留容易辨认的白色星章、植物冠饰和红色绶带。",
+        "授勋时，有资格的人员会说出正式用语，并把徽章别在受勋者服装上。",
+        "仅被任命有时还不够：正式授勋才标志着真正进入该体系。",
+        "特定日期公布的名单，会让获奖者的经历得到全国关注。",
+        "因此，一个简单的“勋章”背后其实有等级、专门词汇和明确仪式。"
+      ],
+      "zh": "通常人们先以骑士级进入荣誉军团。晋升军官或司令需要新的贡献和一定年限，大军官与大十字尊位则非常少见。装饰会随级别变化，但都保留容易辨认的白色星章、植物冠饰和红色绶带。授勋时，有资格的人员会说出正式用语，并把徽章别在受勋者服装上。仅被任命有时还不够：正式授勋才标志着真正进入该体系。特定日期公布的名单，会让获奖者的经历得到全国关注。因此，一个简单的“勋章”背后其实有等级、专门词汇和明确仪式。"
+    },
+    {
+      "title": "Lire avec la date du livre",
+      "fr": "Les chiffres donnés dans le texte sur le nombre de membres, la part des militaires ou celle des femmes reflètent l’époque de publication du manuel. Les règles, les effectifs et la politique de parité peuvent évoluer par décret et par pratique. Il serait donc trompeur de présenter automatiquement ces pourcentages comme des données actuelles. Le principe général reste valable : l’ordre est contingenté, les nominations sont encadrées et les pouvoirs publics ont cherché à mieux représenter les femmes et la diversité des formes d’engagement. Pour une statistique récente, il faut consulter le site officiel de la Grande Chancellerie. Cette précaution est utile pour toute lecture documentaire : une institution peut être ancienne, mais les nombres qui la décrivent ont toujours une date.",
+      "zhSentences": [
+        "正文关于成员数量、军人比例和女性比例的数字，反映的是教材出版时的情况。",
+        "规则、人数与性别平衡政策都可能通过法令和实践发生变化。",
+        "因此，不能自动把这些百分比当作当前数据。",
+        "总体原则仍然成立：勋章名额受到限制，任命受程序规范，公共部门也一直努力更好地体现女性与不同形式的社会贡献。",
+        "要获得近期统计，应查阅荣誉军团大法官署的官方网站。",
+        "这种谨慎适用于所有资料阅读：一项制度可能很古老，但描述它的数字永远带有日期。"
+      ],
+      "zh": "正文关于成员数量、军人比例和女性比例的数字，反映的是教材出版时的情况。规则、人数与性别平衡政策都可能通过法令和实践发生变化。因此，不能自动把这些百分比当作当前数据。总体原则仍然成立：勋章名额受到限制，任命受程序规范，公共部门也一直努力更好地体现女性与不同形式的社会贡献。要获得近期统计，应查阅荣誉军团大法官署的官方网站。这种谨慎适用于所有资料阅读：一项制度可能很古老，但描述它的数字永远带有日期。"
+    }
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/legion-honneur/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 6.864
+      },
+      {
+        "start": 6.864,
+        "end": 15.192
+      },
+      {
+        "start": 15.192,
+        "end": 21.408
+      },
+      {
+        "start": 21.408,
+        "end": 29.856
+      },
+      {
+        "start": 29.856,
+        "end": 38.496
+      },
+      {
+        "start": 38.496,
+        "end": 47.256
+      },
+      {
+        "start": 47.256,
+        "end": 51.792
+      },
+      {
+        "start": 51.792,
+        "end": 55.968
+      },
+      {
+        "start": 55.968,
+        "end": 61.8
+      },
+      {
+        "start": 61.8,
+        "end": 74.424
+      }
+    ]
+  }
+}

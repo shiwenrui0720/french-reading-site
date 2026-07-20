@@ -1,0 +1,126 @@
+{
+  "id": "napoleon",
+  "title": "Napoléon",
+  "chineseTitle": "拿破仑",
+  "level": "B1",
+  "topic": "history",
+  "summary": "帝国虽短暂，拿破仑时代的法律、行政与记忆却延续至今。",
+  "groups": [
+    [
+      "Les Français manquent-ils de constance ?",
+      "Ils renversent puis décapitent un roi en 1792 et douze ans plus tard, ils couronnent leur nouvel empereur, plus puissant et plus grand encore que le plus fameux de leurs rois, Louis XIV."
+    ],
+    [
+      "La Révolution, de 1789 à 1799, a été faite par le peuple, mais le pouvoir reste le privilège de brillants tacticiens, et Napoléon est assurément l’un d’eux.",
+      "Né sur la magnifique île de la Corse, le général Bonaparte a remis de l’ordre dans les affaires de la France, sérieusement éprouvée par dix ans d’agitation révolutionnaire.",
+      "Il restaure la grandeur et la fierté nationales en bâtissant un vaste empire européen, allant même combattre les Anglais en Égypte.",
+      "Un vaste empire mais éphémère : Waterloo, le nom de la gare londonienne où arrivaient jusqu’à récemment les trains Eurostar en provenance de Paris, est synonyme de catastrophe et d’humiliation pour tous les Français."
+    ],
+    [
+      "Mais de l’ère napoléonienne reste un héritage vital : un Code civil encore en usage aujourd’hui, des structures administratives toujours valides, des grandes écoles qui forment l’élite française, un système monétaire, la Banque de France, la Légion d’honneur, l’église de la Madeleine à Paris, le Pont de pierre à Bordeaux…",
+      "Il reste aussi le tombeau de l’empereur aux Invalides et les somptueux tableaux de David au musée du Louvre, célébrant une gloire passée."
+    ]
+  ],
+  "highlights": [
+    "douze ans plus tard",
+    "a été faite par",
+    "a remis de l’ordre",
+    "en bâtissant",
+    "est synonyme de",
+    "en usage",
+    "Il reste"
+  ],
+  "sentenceTranslations": [
+    "法国人是否缺乏一贯性？",
+    "他们在1792年推翻并斩首一位国王，**十二年后**却又为新皇帝加冕；他的权力与伟大甚至超过最著名的国王路易十四。",
+    "1789至1799年的大革命**由人民完成**，但权力仍是卓越策略家的特权，拿破仑无疑就是其中之一。",
+    "波拿巴将军出生在美丽的科西嘉岛，他为经历十年革命动荡、遭受重创的法国事务**恢复了秩序**。",
+    "他**通过建立**庞大的欧洲帝国，恢复国家的伟大与自豪，甚至前往埃及同英国人作战。",
+    "帝国庞大却短暂：滑铁卢也是伦敦一座火车站的名称，不久前来自巴黎的欧洲之星列车还抵达那里；对所有法国人来说，它都**意味着**灾难与屈辱。",
+    "但拿破仑时代留下了重要遗产：至今仍**在使用的**《民法典》、依然有效的行政结构、培养法国精英的大学校、货币体系、法兰西银行、荣誉军团、巴黎玛德莱娜教堂和波尔多石桥……",
+    "**还留下了**荣军院中的皇帝陵墓，以及卢浮宫里大卫那些歌颂昔日荣耀的华丽画作。"
+  ],
+  "culture": [
+    {
+      "title": "De Bonaparte à l’empereur",
+      "fr": "Né en Corse en 1769, Bonaparte progresse rapidement dans l’armée pendant la Révolution. Ses victoires lui donnent une réputation nationale, puis il prend le pouvoir par le coup d’État du 18 Brumaire en 1799. D’abord Premier consul, il concentre progressivement l’autorité avant de devenir empereur des Français en 1804. Le couronnement ne signifie pas un simple retour à l’ancienne monarchie : le régime conserve certains acquis révolutionnaires, comme l’égalité juridique masculine, tout en limitant les libertés politiques. Napoléon utilise le plébiscite, l’administration, la censure et la gloire militaire pour légitimer son pouvoir. Son parcours montre ainsi comment une révolution peut produire un régime autoritaire qui se présente néanmoins comme son héritier et son stabilisateur.",
+      "zhSentences": [
+        "1769年出生于科西嘉的波拿巴在大革命时期迅速升迁。",
+        "军事胜利为他带来全国声望，随后他通过1799年雾月十八日政变夺取权力。",
+        "他先任第一执政，逐渐集中权力，并于1804年成为法国人的皇帝。",
+        "加冕并不等于简单恢复旧君主制：政权保留男性法律平等等部分革命成果，同时限制政治自由。",
+        "拿破仑利用公民投票、行政体系、审查和军事荣耀使权力正当化。",
+        "他的经历说明，一场革命如何产生威权政体，而这个政体仍自称是革命的继承者与稳定者。"
+      ],
+      "zh": "1769年出生于科西嘉的波拿巴在大革命时期迅速升迁。军事胜利为他带来全国声望，随后他通过1799年雾月十八日政变夺取权力。他先任第一执政，逐渐集中权力，并于1804年成为法国人的皇帝。加冕并不等于简单恢复旧君主制：政权保留男性法律平等等部分革命成果，同时限制政治自由。拿破仑利用公民投票、行政体系、审查和军事荣耀使权力正当化。他的经历说明，一场革命如何产生威权政体，而这个政体仍自称是革命的继承者与稳定者。"
+    },
+    {
+      "title": "Le Code civil et ses contradictions",
+      "fr": "Promulgué en 1804, le Code civil rassemble et unifie des règles qui variaient auparavant selon les régions. Il affirme la propriété, le contrat et l’égalité des hommes devant la loi, ce qui favorise une administration juridique commune. Son influence dépasse largement la France et inspire d’autres pays. Mais le texte renforce aussi l’autorité du mari et du père, réduit les droits des femmes mariées et organise une famille profondément inégalitaire. Dire qu’il est « encore en usage » ne signifie donc pas que chaque article de 1804 s’applique aujourd’hui. Le code a été continuellement modifié par des lois et par l’évolution de la société. Son importance tient autant à sa structure durable qu’aux combats nécessaires pour transformer les règles qu’il contenait.",
+      "zhSentences": [
+        "1804年颁布的《民法典》汇集并统一了此前因地区而异的规则。",
+        "它确认财产权、契约与男性在法律面前平等，推动了共同司法行政。",
+        "其影响远超法国，并启发其他国家。",
+        "但原文也强化丈夫和父亲的权威，削弱已婚女性权利，组织起深度不平等的家庭。",
+        "说它“至今仍在使用”，并不表示1804年的每一条今天仍然适用。",
+        "法律体系不断由新法律和社会演变加以修改。",
+        "其重要性既来自持久结构，也来自改变原有规则所经历的斗争。"
+      ],
+      "zh": "1804年颁布的《民法典》汇集并统一了此前因地区而异的规则。它确认财产权、契约与男性在法律面前平等，推动了共同司法行政。其影响远超法国，并启发其他国家。但原文也强化丈夫和父亲的权威，削弱已婚女性权利，组织起深度不平等的家庭。说它“至今仍在使用”，并不表示1804年的每一条今天仍然适用。法律体系不断由新法律和社会演变加以修改。其重要性既来自持久结构，也来自改变原有规则所经历的斗争。"
+    },
+    {
+      "title": "Pourquoi Napoléon divise-t-il encore ?",
+      "fr": "Pour certains, Napoléon représente l’efficacité de l’État, le mérite, la grandeur militaire et la diffusion de principes juridiques modernes. Pour d’autres, il incarne la guerre permanente, l’autoritarisme, les pertes humaines et le rétablissement de l’esclavage dans les colonies françaises en 1802. Les monuments, les commémorations et les expositions rendent ces lectures concurrentes visibles. Admirer une réforme administrative n’oblige pas à célébrer toutes les conquêtes ; condamner les violences n’empêche pas d’étudier l’héritage institutionnel. Cette séparation est essentielle pour sortir du choix entre héros parfait et tyran absolu. L’histoire de Napoléon traverse l’Europe, la Méditerranée et les colonies. Elle demande donc de croiser les points de vue français avec ceux des populations conquises, alliées, déplacées ou réduites en esclavage.",
+      "zhSentences": [
+        "对一些人而言，拿破仑代表国家效率、功绩、军事荣耀和现代法律原则的传播。",
+        "对另一些人而言，他象征持续战争、威权统治、人员损失，以及1802年在法国殖民地恢复奴隶制。",
+        "纪念碑、纪念活动和展览让这些竞争性解读变得可见。",
+        "欣赏某项行政改革不等于必须歌颂所有征服；谴责暴力也不妨碍研究制度遗产。",
+        "这种区分有助于摆脱“完美英雄”与“绝对暴君”的二选一。",
+        "拿破仑历史横跨欧洲、地中海和殖民地。",
+        "因此需要把法国视角同被征服、结盟、迁移或沦为奴隶的人群视角相互对照。"
+      ],
+      "zh": "对一些人而言，拿破仑代表国家效率、功绩、军事荣耀和现代法律原则的传播。对另一些人而言，他象征持续战争、威权统治、人员损失，以及1802年在法国殖民地恢复奴隶制。纪念碑、纪念活动和展览让这些竞争性解读变得可见。欣赏某项行政改革不等于必须歌颂所有征服；谴责暴力也不妨碍研究制度遗产。这种区分有助于摆脱“完美英雄”与“绝对暴君”的二选一。拿破仑历史横跨欧洲、地中海和殖民地。因此需要把法国视角同被征服、结盟、迁移或沦为奴隶的人群视角相互对照。"
+    }
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/napoleon/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 2.352
+      },
+      {
+        "start": 2.352,
+        "end": 12.216
+      },
+      {
+        "start": 12.216,
+        "end": 22.656
+      },
+      {
+        "start": 22.656,
+        "end": 31.296
+      },
+      {
+        "start": 31.296,
+        "end": 38.04
+      },
+      {
+        "start": 38.04,
+        "end": 48.864
+      },
+      {
+        "start": 48.864,
+        "end": 65.544
+      },
+      {
+        "start": 65.544,
+        "end": 71.952
+      }
+    ]
+  }
+}

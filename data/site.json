@@ -1,0 +1,81 @@
+{
+  "topics": [
+    {
+      "id": "food",
+      "fr": "Alimentation, gastronomie",
+      "zh": "食物、美味",
+      "total": 14
+    },
+    {
+      "id": "people",
+      "fr": "Célébrités",
+      "zh": "名人",
+      "total": 12
+    },
+    {
+      "id": "history",
+      "fr": "Histoire, institutions",
+      "zh": "历史、制度",
+      "total": 13
+    },
+    {
+      "id": "work",
+      "fr": "Industrie, éducation, travail",
+      "zh": "工业、教育、工作",
+      "total": 12
+    },
+    {
+      "id": "culture",
+      "fr": "Langue, médias, culture",
+      "zh": "语言、媒体、文化",
+      "total": 15
+    },
+    {
+      "id": "daily",
+      "fr": "Vie quotidienne",
+      "zh": "日常生活",
+      "total": 14
+    }
+  ],
+  "articleOrder": [
+    "aperitif",
+    "beaujolais-nouveau",
+    "cafe-croissant",
+    "champagne",
+    "chefs",
+    "escargots-grenouilles",
+    "frites",
+    "fromages",
+    "macarons",
+    "perrier",
+    "soupe-oignon",
+    "truffes",
+    "vache-qui-rit",
+    "vins-eaux",
+    "abbe-pierre",
+    "brigitte-bardot",
+    "belmondo-delon",
+    "les-bleus",
+    "coco-chanel",
+    "coluche",
+    "catherine-deneuve",
+    "serge-gainsbourg",
+    "yannick-noah",
+    "edith-piaf",
+    "yves-saint-laurent",
+    "philippe-starck",
+    "academie-francaise",
+    "asterix-obelix",
+    "chateaux-loire",
+    "clocher",
+    "coq",
+    "charles-de-gaulle",
+    "jeanne-darc",
+    "legion-honneur",
+    "mai-68",
+    "marianne",
+    "marseillaise",
+    "napoleon",
+    "republique"
+  ]
+}

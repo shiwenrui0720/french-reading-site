@@ -1,0 +1,131 @@
+{
+  "id": "aperitif",
+  "title": "Apéritif",
+  "chineseTitle": "开胃酒",
+  "level": "A2",
+  "topic": "food",
+  "summary": "餐前相聚，也是一种法国式社交时间。",
+  "groups": [
+    [
+      "L’apéritif, qu’on appelle aussi l’apéro, est avant tout un rituel social, il a lieu avant les repas, déjeuner ou dîner.",
+      "On prend l’apéro au café ou à la maison, avec des amis, en famille."
+    ],
+    [
+      "Le prétexte de l’apéritif est d’ouvrir l’appétit, de préparer au plaisir du repas.",
+      "Les boissons traditionnelles sont le pastis, le martini, le porto, le kir (mélange de vin blanc et de sirop de cassis), des cocktails ou tout simplement un jus de fruits pour ceux qui ne boivent pas d’alcool.",
+      "Les boissons sont servies avec des cacahuètes, des petits biscuits salés, des olives ou toutes sortes de bouchées imaginées par les hôtes.",
+      "Parfois, l’apéro peut même se substituer au repas."
+    ],
+    [
+      "On arrive chez des amis « à l’heure de l’apéro », c’est-à-dire bien avant le repas.",
+      "Ce moment passé ensemble est l’occasion de conversations générales et détendues entre les convives ; mais si la discussion touche un sujet controversé, comme c’est souvent le cas, les débats peuvent devenir rapidement animés et bruyants."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Un temps pour se retrouver",
+      "fr": "En France, l’apéritif n’est pas seulement une boisson prise avant le repas : c’est un moment de relation. On dit souvent « prendre l’apéro » ou simplement « faire un apéro » pour inviter des amis, des voisins ou la famille à se retrouver après le travail ou avant le dîner. La table est généralement simple : quelques verres, des chips, des olives, des noix ou un peu de fromage suffisent. L’idée principale est de parler sans se presser et de laisser la soirée commencer doucement. Dans beaucoup de familles, l’apéro marque la transition entre la journée privée et le temps partagé. Il peut durer vingt minutes ou beaucoup plus longtemps, selon les personnes et l’occasion. Aujourd’hui, des boissons sans alcool y trouvent aussi naturellement leur place.",
+      "zh": "在法国，开胃酒不只是正餐前喝的一杯饮料，更是一段维系关系的时间。人们常说“喝开胃酒”或简单地说“办一场 apéro”，邀请朋友、邻居或家人在下班后或晚餐前相聚。桌面通常很简单：几杯饮料、薯片、橄榄、坚果或少量奶酪就足够了。最重要的是不慌不忙地聊天，让夜晚徐徐展开。在许多家庭中，apéro 标志着个人的一天向共享时光的过渡。它可以持续二十分钟，也可以久得多，具体取决于参与者和场合。如今，无酒精饮料也自然而然地在其中占有一席之地。",
+      "zhSentences": [
+        "在法国，开胃酒不只是正餐前喝的一杯饮料，更是一段维系关系的时间。",
+        "人们常说“喝开胃酒”或简单地说“办一场 apéro”，邀请朋友、邻居或家人在下班后或晚餐前相聚。",
+        "桌面通常很简单：几杯饮料、薯片、橄榄、坚果或少量奶酪就足够了。",
+        "最重要的是不慌不忙地聊天，让夜晚徐徐展开。",
+        "在许多家庭中，apéro 标志着个人的一天向共享时光的过渡。",
+        "它可以持续二十分钟，也可以久得多，具体取决于参与者和场合。",
+        "如今，无酒精饮料也自然而然地在其中占有一席之地。"
+      ]
+    },
+    {
+      "title": "Des goûts régionaux",
+      "fr": "Les boissons de l’apéritif varient beaucoup d’une région française à l’autre. En Provence, le pastis anisé est très connu et se boit souvent allongé d’eau fraîche. En Bourgogne, le kir associe du vin blanc et de la crème de cassis ; son nom rappelle un chanoine de Dijon qui l’a popularisé. En Alsace, une bière locale et un bretzel peuvent très bien ouvrir le repas. Ailleurs, on choisit un verre de vin, du cidre, un vermouth ou un jus de fruits. Les petites choses à manger racontent aussi un territoire : gougères au fromage, tapenade, charcuterie, radis avec du beurre, ou crackers maison. Il n’existe donc pas un seul apéritif français, mais une multitude de façons locales de recevoir.",
+      "zh": "法国各地区的开胃酒饮品差异很大。在普罗旺斯，茴香味的 pastis 很有名，饮用时常兑入凉水。在勃艮第，kir 由白葡萄酒和黑加仑甜酒调成；它的名字让人想起那位曾推广这种饮品的第戎教士。在阿尔萨斯，一杯本地啤酒配一个椒盐卷饼也很适合为正餐开场。在其他地方，人们会选择一杯葡萄酒、苹果酒、味美思或果汁。搭配的小食同样诉说着地方特色：奶酪泡芙、橄榄酱、冷切肉、黄油配小萝卜或自制饼干。因此，并不存在唯一一种法国开胃酒，而是有许多地方性的待客方式。",
+      "zhSentences": [
+        "法国各地区的开胃酒饮品差异很大。",
+        "在普罗旺斯，茴香味的 pastis 很有名，饮用时常兑入凉水。",
+        "在勃艮第，kir 由白葡萄酒和黑加仑甜酒调成；它的名字让人想起那位曾推广这种饮品的第戎教士。",
+        "在阿尔萨斯，一杯本地啤酒配一个椒盐卷饼也很适合为正餐开场。",
+        "在其他地方，人们会选择一杯葡萄酒、苹果酒、味美思或果汁。",
+        "搭配的小食同样诉说着地方特色：奶酪泡芙、橄榄酱、冷切肉、黄油配小萝卜或自制饼干。",
+        "因此，并不存在唯一一种法国开胃酒，而是有许多地方性的待客方式。"
+      ]
+    },
+    {
+      "title": "Partager sans obligation",
+      "fr": "L’apéro obéit à des codes souples plutôt qu’à des règles strictes. Quand on arrive chez quelqu’un, on peut apporter une bouteille, des fleurs ou quelque chose à grignoter, mais le plus important est la présence. Au moment de lever son verre, on entend souvent « À votre santé ! », « Santé ! » ou « Tchin-tchin ! ». Il est poli de proposer aussi une boisson sans alcool et de ne jamais insister si une personne ne souhaite pas boire. Le mot « apéro dînatoire » désigne une version plus abondante, avec assez de petites portions pour remplacer le dîner. Ce format permet de circuler et de parler avec plusieurs personnes. L’apéro résume ainsi une idée française de convivialité : manger et boire comptent, mais ils servent surtout à créer une atmosphère commune.",
+      "zh": "apéro 遵循的是灵活习惯，而不是严格规则。到别人家做客时，可以带一瓶饮料、鲜花或一些零食，但最重要的是人的到场。举杯时，人们常会说“祝您健康！”、“干杯！”或“Tchin-tchin！”。礼貌的做法是同时提供无酒精饮料；如果有人不想喝酒，也绝不应勉强。“apéro dînatoire”指更丰盛的版本，其中的小份食物多到足以代替晚餐。这种形式让人可以四处走动，与多个人交谈。因此，apéro 凝缩了一种法国式欢聚观念：吃喝固然重要，但它们首先是为了营造共同的氛围。",
+      "zhSentences": [
+        "apéro 遵循的是灵活习惯，而不是严格规则。",
+        "到别人家做客时，可以带一瓶饮料、鲜花或一些零食，但最重要的是人的到场。",
+        "举杯时，人们常会说“祝您健康！”、“干杯！”或“Tchin-tchin！”。",
+        "礼貌的做法是同时提供无酒精饮料；如果有人不想喝酒，也绝不应勉强。",
+        "“apéro dînatoire”指更丰盛的版本，其中的小份食物多到足以代替晚餐。",
+        "这种形式让人可以四处走动，与多个人交谈。",
+        "因此，apéro 凝缩了一种法国式欢聚观念：吃喝固然重要，但它们首先是为了营造共同的氛围。"
+      ]
+    }
+  ],
+  "highlights": [
+    "avant tout",
+    "a lieu",
+    "prend l’apéro",
+    "ouvrir l’appétit",
+    "tout simplement",
+    "toutes sortes de",
+    "se substituer au repas",
+    "à l’heure de l’apéro",
+    "l’occasion de",
+    "comme c’est souvent le cas",
+    "devenir rapidement animés et bruyants"
+  ],
+  "sentenceTranslations": [
+    "开胃酒，也叫 apéro，**首先**是一种社交仪式；它**在午餐或晚餐前进行**。",
+    "人们会在咖啡馆或家里，和朋友、家人一起**喝开胃酒**。",
+    "开胃酒的目的在于**打开食欲**，为享受正餐作准备。",
+    "传统饮品有茴香酒、马提尼、波特酒、基尔酒（白葡萄酒加黑加仑糖浆）、鸡尾酒，或**干脆**给不喝酒的人准备果汁。",
+    "饮料会配花生、咸饼干、橄榄，或主人准备的**各种各样的**小食。",
+    "有时，apéro 甚至可以**代替正餐**。",
+    "人们会在**开胃酒时间**去朋友家，也就是在正餐很早之前到达。",
+    "这段共同度过的时间**是进行**轻松闲谈的机会；但如果话题涉及争议，**正如常常发生的那样**，讨论可能**很快变得热烈而嘈杂**。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/aperitif/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 7.105
+      },
+      {
+        "start": 7.105,
+        "end": 11.572
+      },
+      {
+        "start": 11.572,
+        "end": 17.241
+      },
+      {
+        "start": 17.241,
+        "end": 29.257
+      },
+      {
+        "start": 29.257,
+        "end": 36.937
+      },
+      {
+        "start": 36.937,
+        "end": 40.49
+      },
+      {
+        "start": 40.49,
+        "end": 44.8
+      },
+      {
+        "start": 44.8,
+        "end": 57.26
+      }
+    ]
+  }
+}

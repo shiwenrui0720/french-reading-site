@@ -1,0 +1,125 @@
+{
+  "id": "escargots-grenouilles",
+  "title": "Escargots et grenouilles",
+  "chineseTitle": "蜗牛与青蛙",
+  "level": "B2",
+  "topic": "food",
+  "summary": "两种被外国人视为“典型法国菜”的食材。",
+  "groups": [
+    [
+      "Le seul lien que l’on peut établir entre des animaux aussi différents que l’escargot et la grenouille, c’est qu’ils sont tous deux associés à la gastronomie française, à la fois dans son raffinement et dans son excentricité.",
+      "De la grenouille, seules les cuisses sont dégustées.",
+      "On les fait frire avec de la panure, du sel et des oignons.",
+      "Les os de grenouilles sont aussi fins que des arêtes de poisson et il faut faire très attention à ne pas les avaler.",
+      "Quant aux escargots, un mets gastronomique typiquement bourguignon, la recette est très élaborée, elle nécessite plus de huit jours de préparation, puis on les frit à la poêle avec une persillade.",
+      "En fait, ce sont surtout les touristes de passage en France qui désirent faire l’expérience des grenouilles ou des escargots, car les Français en mangent plutôt rarement.",
+      "L’idée de consommer des animaux aussi exotiques semble incongrue pour beaucoup d’entre eux et c’est vrai que les prix pratiqués dans les restaurants qui en proposent découragent un peu.",
+      "Pourtant, il faut reconnaître que ces batraciens et ces gastéropodes ont réussi à définir la cuisine française de manière remarquable."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "L’escargot de Bourgogne",
+      "fr": "Les escargots à la bourguignonne sont servis dans leur coquille avec un beurre abondamment parfumé à l’ail et au persil. On les mange à l’aide d’une pince qui tient la coquille et d’une petite fourchette. Le nom du plat évoque la Bourgogne, mais l’origine précise des escargots vendus et préparés peut varier. Avant la cuisson, leur préparation demande des étapes sanitaires et culinaires rigoureuses ; à la maison, beaucoup de consommateurs achètent donc un produit déjà préparé. Le plat apparaît surtout pendant les fêtes ou dans les restaurants traditionnels. Son goût vient autant du beurre persillé que de l’animal lui-même. Pour un visiteur, le geste inhabituel fait partie de l’expérience, mais pour de nombreux Français, ce n’est pas un aliment du quotidien.",
+      "zh": "勃艮第式蜗牛连壳上桌，配有大量以大蒜和欧芹调味的黄油。食用时要用一把夹子夹住外壳，再用一把小叉子取肉。菜名让人想到勃艮第，但售卖和烹制的蜗牛具体来自哪里可能各不相同。烹饪之前，它们需要经过严格的卫生与食材处理步骤；因此在家中，许多消费者会购买已经处理好的产品。这道菜主要出现在节庆期间或传统餐厅中。它的味道既来自欧芹黄油，也来自蜗牛本身。对游客而言，陌生的食用动作是体验的一部分；但对许多法国人来说，它并不是日常食物。",
+      "zhSentences": [
+        "勃艮第式蜗牛连壳上桌，配有大量以大蒜和欧芹调味的黄油。",
+        "食用时要用一把夹子夹住外壳，再用一把小叉子取肉。",
+        "菜名让人想到勃艮第，但售卖和烹制的蜗牛具体来自哪里可能各不相同。",
+        "烹饪之前，它们需要经过严格的卫生与食材处理步骤；因此在家中，许多消费者会购买已经处理好的产品。",
+        "这道菜主要出现在节庆期间或传统餐厅中。",
+        "它的味道既来自欧芹黄油，也来自蜗牛本身。",
+        "对游客而言，陌生的食用动作是体验的一部分；但对许多法国人来说，它并不是日常食物。"
+      ]
+    },
+    {
+      "title": "Les cuisses de grenouille",
+      "fr": "Les cuisses de grenouille sont associées à plusieurs cuisines régionales françaises, notamment autour de la Dombes, une zone d’étangs située au nord-est de Lyon. Elles peuvent être farinées, sautées au beurre, préparées avec du persil et de l’ail, ou servies dans une sauce. Leur chair délicate est souvent comparée à celle du poulet ou du poisson. La consommation reste occasionnelle et les approvisionnements sont aujourd’hui largement internationaux. Les questions de protection des espèces, de traçabilité et de bien-être animal ont rendu le sujet plus sensible. Parler de ce plat permet donc d’aller au-delà de la curiosité gastronomique : il faut aussi considérer l’origine du produit et les règles qui encadrent sa commercialisation. La tradition existe, mais elle n’est ni uniforme ni quotidienne.",
+      "zh": "蛙腿与法国多个地方菜系有关，尤其是里昂东北部、遍布池塘的栋布地区。它们可以裹粉、用黄油煎、配欧芹和大蒜烹制，也可以佐酱汁上桌。其细嫩肉质常被拿来与鸡肉或鱼肉比较。蛙腿仍只偶尔食用，而如今的供应在很大程度上来自国际市场。物种保护、来源追踪和动物福利问题使这个话题变得更加敏感。因此，谈论这道菜不能只停留在猎奇式的美食体验，还要考虑产品来源以及规范其销售的规则。这项传统确实存在，但它既不遍及所有地区，也不是日常习惯。",
+      "zhSentences": [
+        "蛙腿与法国多个地方菜系有关，尤其是里昂东北部、遍布池塘的栋布地区。",
+        "它们可以裹粉、用黄油煎、配欧芹和大蒜烹制，也可以佐酱汁上桌。",
+        "其细嫩肉质常被拿来与鸡肉或鱼肉比较。",
+        "蛙腿仍只偶尔食用，而如今的供应在很大程度上来自国际市场。",
+        "物种保护、来源追踪和动物福利问题使这个话题变得更加敏感。",
+        "因此，谈论这道菜不能只停留在猎奇式的美食体验，还要考虑产品来源以及规范其销售的规则。",
+        "这项传统确实存在，但它既不遍及所有地区，也不是日常习惯。"
+      ]
+    },
+    {
+      "title": "Un stéréotype culinaire",
+      "fr": "À l’étranger, les Français sont parfois surnommés « mangeurs de grenouilles ». Ce cliché fonctionne parce qu’un aliment rare et visible résume facilement une culture entière. Pourtant, les habitudes réelles sont beaucoup plus ordinaires : pâtes, légumes, poulet, sandwiches ou plats familiaux occupent davantage les tables quotidiennes. Les escargots et les grenouilles jouent plutôt le rôle de spécialités patrimoniales, de plats de fête ou d’expériences touristiques. Le même mécanisme existe pour d’autres pays, réduits à un aliment spectaculaire. Pour comprendre une culture alimentaire, il est utile de distinguer trois choses : ce que les habitants mangent souvent, ce qu’ils servent lors d’occasions particulières et ce que les visiteurs imaginent typique. Cette distinction rend la découverte plus juste et souvent plus intéressante.",
+      "zh": "在国外，法国人有时被戏称为“吃青蛙的人”。这种刻板印象之所以容易传播，是因为一种罕见而醒目的食物很容易被用来概括整个文化。然而，真实的饮食习惯普通得多：意大利面、蔬菜、鸡肉、三明治和家庭菜肴更常出现在日常餐桌上。蜗牛和青蛙更多扮演传统特色菜、节庆食品或旅游体验的角色。同样的机制也发生在其他国家，它们也会被简化为一种引人注目的食物。要理解一种饮食文化，最好区分三件事：居民经常吃什么、特殊场合会端上什么，以及游客想象中什么最典型。这种区分会让文化发现更加准确，而且往往更加有趣。",
+      "zhSentences": [
+        "在国外，法国人有时被戏称为“吃青蛙的人”。",
+        "这种刻板印象之所以容易传播，是因为一种罕见而醒目的食物很容易被用来概括整个文化。",
+        "然而，真实的饮食习惯普通得多：意大利面、蔬菜、鸡肉、三明治和家庭菜肴更常出现在日常餐桌上。",
+        "蜗牛和青蛙更多扮演传统特色菜、节庆食品或旅游体验的角色。",
+        "同样的机制也发生在其他国家，它们也会被简化为一种引人注目的食物。",
+        "要理解一种饮食文化，最好区分三件事：居民经常吃什么、特殊场合会端上什么，以及游客想象中什么最典型。",
+        "这种区分会让文化发现更加准确，而且往往更加有趣。"
+      ]
+    }
+  ],
+  "highlights": [
+    "à la fois",
+    "De la grenouille",
+    "il faut faire très attention à",
+    "Quant aux",
+    "plus de huit jours de préparation",
+    "En fait",
+    "de passage",
+    "plutôt rarement",
+    "il faut reconnaître que"
+  ],
+  "sentenceTranslations": [
+    "蜗牛和青蛙这两种非常不同的动物，唯一的联系是它们都与法国美食相关，**既体现其精致，也体现其奇异**。",
+    "**青蛙**只食用腿部。",
+    "人们把蛙腿裹上面包糠、盐和洋葱后油炸。",
+    "青蛙骨头和鱼刺一样细，**一定要非常小心不要**吞下去。",
+    "**至于蜗牛**，这种典型勃艮第美食的做法很复杂，**需要八天以上的准备**，之后再用欧芹蒜蓉调料在锅中煎制。",
+    "**事实上**，主要是**到法国旅行的**游客想尝试青蛙或蜗牛，因为法国人自己吃得**相当少**。",
+    "对许多法国人来说，吃如此奇特的动物似乎不合常理；而提供这些菜的餐厅价格也确实有些令人却步。",
+    "不过，**必须承认**，这些两栖动物和腹足动物以引人注目的方式定义了法国料理。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/escargots-grenouilles/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 11.598
+      },
+      {
+        "start": 11.598,
+        "end": 14.785
+      },
+      {
+        "start": 14.785,
+        "end": 18.39
+      },
+      {
+        "start": 18.39,
+        "end": 24.111
+      },
+      {
+        "start": 24.111,
+        "end": 34.821
+      },
+      {
+        "start": 34.821,
+        "end": 43.311
+      },
+      {
+        "start": 43.311,
+        "end": 52.297
+      },
+      {
+        "start": 52.297,
+        "end": 60.082
+      }
+    ]
+  }
+}

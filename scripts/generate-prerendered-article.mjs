@@ -1,7 +1,7 @@
-import { access, mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
+import { access, mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { loadSiteData, ROOT } from './site-data.mjs';
 
-const ROOT = path.resolve(import.meta.dirname, '..');
 const BASE = '/french-reading-site';
 const BASE_URL = 'https://shiwenrui0720.github.io/french-reading-site';
 const articleId = process.argv[2];
@@ -10,15 +10,14 @@ if (!articleId) {
   throw new Error('Usage: node scripts/generate-prerendered-article.mjs <article-id>');
 }
 
-const source = await readFile(path.join(ROOT, 'index.html'), 'utf8');
-const dataMatch = source.match(/const BASE="\/french-reading-site",DATA=(\{.*?\});const app=/s);
+const source = await readFile(path.join(ROOT, 'src', 'index.template.html'), 'utf8');
 const styleMatch = source.match(/<style>([\s\S]*?)<\/style>/);
 
-if (!dataMatch || !styleMatch) {
-  throw new Error('Unable to read article data or styles from index.html');
+if (!styleMatch) {
+  throw new Error('Unable to read styles from src/index.template.html');
 }
 
-const data = JSON.parse(dataMatch[1]);
+const data = await loadSiteData();
 const article = data.articles.find((item) => item.id === articleId);
 const topic = data.topics.find((item) => item.id === article?.topic);
 
@@ -47,6 +46,18 @@ const emphasize = (sentence) => {
 };
 const richChinese = (translation) => escapeHtml(translation)
   .replace(/\*\*(.+?)\*\*/g, '<strong class="term">$1</strong>');
+
+const articleIndex = data.articleOrder.indexOf(article.id);
+const previousArticle = articleIndex > 0
+  ? data.articles.find((item) => item.id === data.articleOrder[articleIndex - 1])
+  : null;
+const nextArticle = articleIndex < data.articleOrder.length - 1
+  ? data.articles.find((item) => item.id === data.articleOrder[articleIndex + 1])
+  : null;
+const navigationLink = (target, label, className = '') => target
+  ? `<a class="article-nav-link ${className}" href="${BASE}/article/${target.id}/"><small>${label}</small><strong lang="fr">${escapeHtml(target.title)}</strong></a>`
+  : '<span></span>';
+const articleNavigation = `<nav class="article-navigation" aria-label="文章导航">${navigationLink(previousArticle, '← 上一篇')}<a class="article-topic-link" href="${BASE}/?topic=${encodeURIComponent(article.topic)}">返回“${escapeHtml(topic.zh)}”目录</a>${navigationLink(nextArticle, '下一篇 →', 'next')}</nav>`;
 
 const canonicalUrl = `${BASE_URL}/article/${article.id}/`;
 const imagePath = path.join(ROOT, 'images', `${article.id}-hero.webp`);
@@ -116,7 +127,7 @@ const html = `<!doctype html>
     <header class="topbar"><a class="brand" href="${BASE}/"><span class="brand-mark">F</span><span class="brand-word">France en textes</span></a><span class="top-note">文章阅读</span></header>
     <article>
       <header class="article-head article-head-visual"${hasImage ? ` style="--hero-image:url(${BASE}/images/${article.id}-hero.webp)"` : ''}>
-        <a class="back" href="${BASE}/">← 返回文章目录</a>
+        <a class="back" href="${BASE}/?topic=${encodeURIComponent(article.topic)}">← 返回“${escapeHtml(topic.zh)}”目录</a>
         <div class="article-meta"><span class="level">${article.level}</span><span>${escapeHtml(topic.fr)} · ${escapeHtml(topic.zh)}</span></div>
         <h1 lang="fr">${escapeHtml(article.title)}</h1>
         <p class="article-cn-title">${escapeHtml(article.chineseTitle)} · 法语点读</p>
@@ -134,6 +145,7 @@ const html = `<!doctype html>
         <p class="culture-intro">每段法语约 100–200 词；先读原文，再按句序对照中文，理解词语背后的生活方式。</p>
         ${cultureBlocks}
       </section>
+      ${articleNavigation}
     </article>
     <footer>Cliquer · Écouter · Répéter</footer>
   </main>
@@ -161,24 +173,4 @@ const outputDirectory = path.join(ROOT, 'article', article.id);
 await mkdir(outputDirectory, { recursive: true });
 await writeFile(path.join(outputDirectory, 'index.html'), html, 'utf8');
 
-const articleRoot = path.join(ROOT, 'article');
-const staticArticleIds = [];
-for (const entry of await readdir(articleRoot, { withFileTypes: true })) {
-  if (!entry.isDirectory()) continue;
-  try {
-    await access(path.join(articleRoot, entry.name, 'index.html'));
-    staticArticleIds.push(entry.name);
-  } catch {
-    // Ignore incomplete article directories.
-  }
-}
-
-staticArticleIds.sort();
-const today = new Date().toISOString().slice(0, 10);
-const urls = [`${BASE_URL}/`, ...staticArticleIds.map((id) => `${BASE_URL}/article/${id}/`)];
-const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',...urls.map((url) => `  <url><loc>${url}</loc><lastmod>${today}</lastmod></url>`),'</urlset>',''].join('\n');
-await writeFile(path.join(ROOT, 'sitemap.xml'), sitemap, 'utf8');
-await writeFile(path.join(ROOT, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${BASE_URL}/sitemap.xml\n`, 'utf8');
-
 console.log(`Generated prerendered article: article/${article.id}/index.html`);
-console.log(`Static articles in sitemap: ${staticArticleIds.length}`);

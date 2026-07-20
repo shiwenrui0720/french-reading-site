@@ -1,0 +1,131 @@
+{
+  "id": "macarons",
+  "title": "Macarons",
+  "chineseTitle": "马卡龙",
+  "level": "B1",
+  "topic": "food",
+  "summary": "从地方杏仁小饼到色彩缤纷的巴黎马卡龙。",
+  "groups": [
+    [
+      "L’une des pâtisseries françaises les plus célèbres produit un curieux effet : si tout le monde est d’accord sur son goût et sa texture, il est beaucoup plus délicat de dire à quoi elle ressemble.",
+      "Un macaron est sucré, croquant et fondant, il a un joli parfum d’amande, un cœur délicieusement tendre, mais quelle est sa forme, quelle est sa couleur ?"
+    ],
+    [
+      "On fabrique des macarons un peu partout en France et, même si les ingrédients restent toujours plus ou moins les mêmes, chaque région lui a donné une personnalité particulière.",
+      "Il faut de la poudre d’amande, des blancs d’œufs et du sucre pour faire des macarons, mais sur cette base, il existe des variations infinies.",
+      "Près de Nancy, le macaron de Boulay est rugueux et craquelé ; à Amiens, c’est une petite galette épaisse ; le macaron de Montmorillon, dans le sud-ouest, ressemble à une petite quiche ; dans le Pays basque, il est rond et lisse..."
+    ],
+    [
+      "Le macaron dit « parisien » est le plus surprenant, il est composé de deux coques bombées entre lesquelles est fourrée une « ganache ».",
+      "Leur petite collerette fait très chic, mais c’est surtout leurs couleurs vives et leurs saveurs qui séduisent : pistache, chocolat, café, vanille, framboise, noix de coco, menthe, citron, thé vert et bien d’autres...",
+      "Les macarons sont très tendance aujourd’hui, ils ont leur fête le 20 mars, jour du printemps, et un joaillier de la capitale s’est même inspiré de ces délicieuses mignardises pour créer une collection de bijoux."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Une famille de biscuits",
+      "fr": "Le mot macaron ne décrit pas une forme unique. Dans plusieurs villes françaises, il désigne un biscuit d’amande ancien, souvent sans garniture. À Nancy, Saint-Émilion, Amiens, Montmorillon ou au Pays basque, les recettes locales possèdent leur propre texture, leur histoire et parfois une maison qui les a rendues célèbres. Les ingrédients essentiels restent simples : amandes moulues, sucre et blancs d’œufs. Selon la proportion, la cuisson et le geste du pâtissier, le résultat devient moelleux, croquant, lisse ou craquelé. Ces macarons régionaux rappellent que la pâtisserie française ne vient pas seulement de Paris. Elle s’est construite dans des couvents, des boutiques familiales et des traditions urbaines très diverses. Le visiteur qui demande « un macaron » peut donc recevoir des gâteaux très différents selon l’endroit où il se trouve.",
+      "zh": "macaron 一词并不描述唯一一种形状。在法国多座城市中，它指一种古老的杏仁小饼，通常不带夹馅。在南锡、圣埃米利永、亚眠、蒙莫里永或巴斯克地区，地方配方各有自己的质地、历史，有时还有令它声名远扬的老店。核心原料仍然简单：杏仁粉、糖和蛋白。根据比例、烘烤方式和糕点师手法的不同，成品会柔软、酥脆、光滑或带裂纹。这些地方马卡龙提醒我们，法国糕点并非只来自巴黎。它是在修道院、家庭店铺和非常多样的城市传统中逐渐形成的。因此，游客在不同地方点“一只 macaron”，可能会得到非常不同的糕点。",
+      "zhSentences": [
+        "macaron 一词并不描述唯一一种形状。",
+        "在法国多座城市中，它指一种古老的杏仁小饼，通常不带夹馅。",
+        "在南锡、圣埃米利永、亚眠、蒙莫里永或巴斯克地区，地方配方各有自己的质地、历史，有时还有令它声名远扬的老店。",
+        "核心原料仍然简单：杏仁粉、糖和蛋白。",
+        "根据比例、烘烤方式和糕点师手法的不同，成品会柔软、酥脆、光滑或带裂纹。",
+        "这些地方马卡龙提醒我们，法国糕点并非只来自巴黎。",
+        "它是在修道院、家庭店铺和非常多样的城市传统中逐渐形成的。",
+        "因此，游客在不同地方点“一只 macaron”，可能会得到非常不同的糕点。"
+      ]
+    },
+    {
+      "title": "Le macaron parisien",
+      "fr": "Le macaron parisien, aussi appelé macaron à la ganache, assemble deux coques lisses autour d’une garniture. Sa fabrication demande une grande précision. Après avoir préparé la meringue et incorporé la poudre d’amande, le pâtissier travaille la pâte jusqu’à obtenir une texture régulière : c’est le macaronage. Les coques sont dressées, parfois laissées à croûter, puis cuites. La petite bordure qui apparaît à leur base s’appelle la collerette. Une fois garnis, les macarons reposent souvent au frais afin que l’humidité du cœur assouplisse légèrement les coques. Le contraste final doit réunir une surface fine, un intérieur tendre et une garniture nette. Chocolat, pistache, citron et framboise sont classiques, mais les maisons contemporaines explorent aussi les épices, le thé, les fleurs et les saveurs salées.",
+      "zh": "巴黎马卡龙又称甘纳许马卡龙，由两片光滑外壳夹住馅料组成。它的制作要求高度精确。准备好蛋白霜并拌入杏仁粉后，糕点师要继续翻拌，直到面糊质地均匀；这一步称为 macaronage。外壳被挤出成形，有时先静置结皮，然后烘烤。外壳底部出现的一圈小边叫作 collerette。填入馅料后，马卡龙通常会在低温中静置，让内馅的湿度把外壳稍稍软化。最终的对比应同时呈现纤薄表面、柔软内部和轮廓清晰的馅料。巧克力、开心果、柠檬和覆盆子是经典口味，但当代糕点店也探索香料、茶、花香和咸味。",
+      "zhSentences": [
+        "巴黎马卡龙又称甘纳许马卡龙，由两片光滑外壳夹住馅料组成。",
+        "它的制作要求高度精确。",
+        "准备好蛋白霜并拌入杏仁粉后，糕点师要继续翻拌，直到面糊质地均匀；这一步称为 macaronage。",
+        "外壳被挤出成形，有时先静置结皮，然后烘烤。",
+        "外壳底部出现的一圈小边叫作 collerette。",
+        "填入馅料后，马卡龙通常会在低温中静置，让内馅的湿度把外壳稍稍软化。",
+        "最终的对比应同时呈现纤薄表面、柔软内部和轮廓清晰的馅料。",
+        "巧克力、开心果、柠檬和覆盆子是经典口味，但当代糕点店也探索香料、茶、花香和咸味。"
+      ]
+    },
+    {
+      "title": "Couleurs, maisons et cadeaux",
+      "fr": "À Paris, le macaron est devenu un objet de vitrine autant qu’une pâtisserie. Les grandes maisons disposent les pièces par couleur dans des boîtes élégantes, proposent des collections saisonnières et associent chaque parfum à une identité visuelle. Cette présentation en fait un cadeau facile à transporter et un souvenir recherché. Elle explique aussi pourquoi le macaron apparaît dans la mode, la photographie et la décoration. Pourtant, sa fragilité impose quelques précautions : les coques cassent facilement, la garniture craint la chaleur et la durée de conservation reste courte. On le mange généralement en une ou deux bouchées, souvent avec du thé ou du café. La dégustation gagne à commencer par les parfums délicats avant les goûts puissants. Derrière l’image luxueuse, le plaisir repose toujours sur un équilibre très simple entre amande, sucre, texture et parfum.",
+      "zh": "在巴黎，马卡龙既是一种糕点，也成了橱窗中的展示品。大店会按颜色把它们排列在精美礼盒中，推出季节系列，并为每种口味搭配视觉形象。这样的呈现方式使它成为方便携带的礼物和备受欢迎的纪念品。这也解释了为什么马卡龙会出现在时尚、摄影和装饰领域。不过，它的脆弱要求一些注意：外壳容易破裂，馅料怕热，保存时间也较短。人们通常用一两口吃完，常搭配茶或咖啡。品尝时最好先从细腻口味开始，再转向浓烈风味。在奢华形象背后，这份愉悦始终来自杏仁、糖、质地与香气之间非常简单的平衡。",
+      "zhSentences": [
+        "在巴黎，马卡龙既是一种糕点，也成了橱窗中的展示品。",
+        "大店会按颜色把它们排列在精美礼盒中，推出季节系列，并为每种口味搭配视觉形象。",
+        "这样的呈现方式使它成为方便携带的礼物和备受欢迎的纪念品。",
+        "这也解释了为什么马卡龙会出现在时尚、摄影和装饰领域。",
+        "不过，它的脆弱要求一些注意：外壳容易破裂，馅料怕热，保存时间也较短。",
+        "人们通常用一两口吃完，常搭配茶或咖啡。",
+        "品尝时最好先从细腻口味开始，再转向浓烈风味。",
+        "在奢华形象背后，这份愉悦始终来自杏仁、糖、质地与香气之间非常简单的平衡。"
+      ]
+    }
+  ],
+  "highlights": [
+    "si tout le monde est d’accord",
+    "un peu partout",
+    "même si",
+    "plus ou moins les mêmes",
+    "sur cette base",
+    "et bien d’autres",
+    "très tendance",
+    "s’est même inspiré de"
+  ],
+  "sentenceTranslations": [
+    "法国最著名的糕点之一产生了一种奇妙效果：**尽管人人都认同**它的味道和口感，却很难说清它到底长什么样。",
+    "马卡龙甜、脆又入口即化，有好看的杏仁香和柔软的内心，但它究竟是什么形状、什么颜色呢？",
+    "法国**到处**都制作马卡龙，**即使**原料始终**大同小异**，每个地区也赋予它独特个性。",
+    "制作马卡龙需要杏仁粉、蛋白和糖，但**以此为基础**，可以有无穷变化。",
+    "南锡附近的布莱马卡龙粗糙且有裂纹；亚眠的是厚厚的小圆饼；蒙莫里永的马卡龙像小馅饼；巴斯克地区的则圆而光滑。",
+    "所谓“巴黎式”马卡龙最令人惊奇：两片圆拱外壳之间夹着甘纳许。",
+    "它们的小裙边很精致，但更吸引人的是鲜艳颜色和风味：开心果、巧克力、咖啡、香草、覆盆子、椰子、薄荷、柠檬、绿茶等**许多其他口味**。",
+    "马卡龙如今**非常流行**，每年春分日三月二十日有自己的节日；首都的一位珠宝商甚至**从这些精致小点心中得到灵感**，创作出一系列珠宝。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/macarons/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 10.606
+      },
+      {
+        "start": 10.606,
+        "end": 19.226
+      },
+      {
+        "start": 19.226,
+        "end": 28.369
+      },
+      {
+        "start": 28.369,
+        "end": 36.362
+      },
+      {
+        "start": 36.362,
+        "end": 48.718
+      },
+      {
+        "start": 48.718,
+        "end": 55.484
+      },
+      {
+        "start": 55.484,
+        "end": 69.094
+      },
+      {
+        "start": 69.094,
+        "end": 79.673
+      }
+    ]
+  }
+}

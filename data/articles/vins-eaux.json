@@ -1,0 +1,168 @@
+{
+  "id": "vins-eaux",
+  "title": "Vins et eaux",
+  "chineseTitle": "佳酿与甘泉",
+  "level": "A2",
+  "topic": "food",
+  "summary": "从葡萄酒产区、餐酒搭配到法国人的饮水习惯。",
+  "groups": [
+    [
+      "En France, les vignobles sont surtout situés dans la partie sud du pays, à l’exception du champagne et des vins d’Alsace, qui sont produits dans le nord-est.",
+      "Les régions viticoles les plus célèbres sont la Bourgogne et le Bordelais, où l’on cultive la vigne depuis plus de deux mille ans.",
+      "Mais d’excellents vins sont produits dans la vallée du Rhône, en Provence, dans le Languedoc et Roussillon, la vallée de la Loire, l’Anjou."
+    ],
+    [
+      "Les vins ont une personnalité, un corps, un esprit.",
+      "Un vin est le résultat d’une alchimie complexe entre le climat, la terre et le travail du vigneron après la cueillette du raisin au moment des vendanges, généralement en septembre.",
+      "Le temps fait le reste.",
+      "Un bordeaux est meilleur après quelques années, il est plus robuste et ses parfums se sont développés.",
+      "Le bourgogne vieillit moins bien, mais il est acide s’il est trop jeune.",
+      "Le beaujolais doit être bu rapidement, dans les mois qui suivent sa fabrication."
+    ],
+    [
+      "Le vin, c’est également un subtil mariage avec les mets : le vin blanc convient mieux en général au poisson et à la volaille, le rouge se marie bien avec les viandes et le fromage.",
+      "Au cours d’un repas, plusieurs vins différents peuvent être servis."
+    ],
+    [
+      "Depuis une trentaine d’années, la consommation de vin en France a fortement baissé.",
+      "En fait, la boisson préférée des Français est l’eau.",
+      "La France est l’un des premiers producteurs du monde d’eaux minérales et chaque Français en consomme en moyenne plus de 200 litres par an."
+    ]
+  ],
+  "culture": [
+    {
+      "title": "Une carte de terroirs",
+      "fr": "La carte viticole française est plus diverse qu’une simple opposition entre nord et sud. Bordeaux, Bourgogne, Champagne, Alsace, vallée de la Loire, vallée du Rhône, Provence, Languedoc, Jura, Savoie, Sud-Ouest et Corse possèdent chacun des climats, des sols, des cépages et des traditions propres. Le mot « terroir » réunit ces conditions naturelles et le travail humain qui leur donne une expression. Une appellation délimite souvent une zone et fixe des règles de production. Deux vins issus du même cépage peuvent donc goûter très différemment selon le lieu et la méthode. Les vendanges ont souvent lieu à la fin de l’été ou en automne, mais leur date varie avec la région, le millésime et le type de vin. Pour apprendre, mieux vaut retenir quelques régions et styles plutôt qu’une liste interminable de noms.",
+      "zh": "法国葡萄酒地图远比简单的南北对立更加多样。波尔多、勃艮第、香槟、阿尔萨斯、卢瓦尔河谷、罗讷河谷、普罗旺斯、朗格多克、汝拉、萨瓦、西南产区和科西嘉都拥有各自的气候、土壤、葡萄品种和传统。“terroir”一词把这些自然条件与赋予它们表达方式的人类劳动结合起来。一个原产地名称通常会划定区域，并规定生产规则。因此，由同一葡萄品种酿成的两款酒，会因地点和方法不同而呈现非常不同的味道。采收通常发生在夏末或秋季，但具体日期会随地区、年份和葡萄酒类型变化。学习时，与其死记无穷无尽的名称，不如先掌握几个产区和风格。",
+      "zhSentences": [
+        "法国葡萄酒地图远比简单的南北对立更加多样。",
+        "波尔多、勃艮第、香槟、阿尔萨斯、卢瓦尔河谷、罗讷河谷、普罗旺斯、朗格多克、汝拉、萨瓦、西南产区和科西嘉都拥有各自的气候、土壤、葡萄品种和传统。",
+        "“terroir”一词把这些自然条件与赋予它们表达方式的人类劳动结合起来。",
+        "一个原产地名称通常会划定区域，并规定生产规则。",
+        "因此，由同一葡萄品种酿成的两款酒，会因地点和方法不同而呈现非常不同的味道。",
+        "采收通常发生在夏末或秋季，但具体日期会随地区、年份和葡萄酒类型变化。",
+        "学习时，与其死记无穷无尽的名称，不如先掌握几个产区和风格。"
+      ]
+    },
+    {
+      "title": "Accorder sans dogme",
+      "fr": "La règle « blanc avec le poisson, rouge avec la viande » est un point de départ, pas une loi. L’accord dépend de la sauce, de la cuisson, des épices, de la texture et surtout du goût des convives. Un pinot noir léger peut accompagner certains poissons ; un blanc puissant peut convenir à une volaille rôtie ou à un fromage. Les vins doux s’accordent parfois avec un dessert, mais aussi avec un fromage bleu ou un plat épicé. Au restaurant, on peut demander conseil et préciser son budget. À table, il n’est pas nécessaire de servir plusieurs bouteilles pour réussir le repas. Un seul vin bien choisi, de l’eau et des options sans alcool suffisent. La culture contemporaine insiste davantage sur la modération et sur la liberté de ne pas boire.",
+      "zh": "“白葡萄酒配鱼，红葡萄酒配肉”是一条入门原则，而不是法律。搭配取决于酱汁、烹饪方式、香料、质地，尤其取决于用餐者的口味。轻盈的黑皮诺可以搭配某些鱼类；酒体饱满的白葡萄酒则可搭配烤禽或奶酪。甜酒有时搭配甜点，也可以配蓝纹奶酪或辛辣菜肴。在餐厅里，可以请服务人员建议，并说明自己的预算。餐桌上并不需要开好几瓶酒，才能成就一顿成功的饭。一款选择得当的酒、饮用水和无酒精选项就足够了。当代文化更加重视适量饮酒，以及选择不喝酒的自由。",
+      "zhSentences": [
+        "“白葡萄酒配鱼，红葡萄酒配肉”是一条入门原则，而不是法律。",
+        "搭配取决于酱汁、烹饪方式、香料、质地，尤其取决于用餐者的口味。",
+        "轻盈的黑皮诺可以搭配某些鱼类；酒体饱满的白葡萄酒则可搭配烤禽或奶酪。",
+        "甜酒有时搭配甜点，也可以配蓝纹奶酪或辛辣菜肴。",
+        "在餐厅里，可以请服务人员建议，并说明自己的预算。",
+        "餐桌上并不需要开好几瓶酒，才能成就一顿成功的饭。",
+        "一款选择得当的酒、饮用水和无酒精选项就足够了。",
+        "当代文化更加重视适量饮酒，以及选择不喝酒的自由。"
+      ]
+    },
+    {
+      "title": "L’eau à table",
+      "fr": "L’eau occupe une place centrale sur les tables françaises. Au restaurant, une carafe d’eau du robinet peut accompagner le repas ; on peut aussi choisir une eau minérale plate ou gazeuse. De nombreuses marques sont associées à une source et à une région, avec des compositions minérales et des goûts différents. Les chiffres de consommation changent selon les années et les méthodes de calcul, il faut donc lire avec prudence les données anciennes. Ce qui reste vrai, c’est que l’eau est la boisson quotidienne de base, même dans un pays célèbre pour son vin. Les campagnes de santé publique rappellent aussi que l’alcool n’est pas indispensable à la convivialité. À la maison comme au café, proposer de l’eau est un geste simple d’accueil. Cette présence discrète complète l’image gastronomique de la France.",
+      "zh": "水在法国餐桌上占据核心位置。在餐厅，一壶自来水可以伴随用餐；人们也可以选择无气或有气矿泉水。许多品牌与一处泉源和一个地区相联系，矿物质构成和味道各不相同。消费数据会随年份和计算方法变化，因此阅读旧数据时必须谨慎。始终不变的是，即使在一个以葡萄酒闻名的国家，水仍是日常生活的基础饮料。公共健康宣传也提醒人们，欢聚并不一定需要酒精。无论在家里还是咖啡馆，主动提供水都是一种简单的待客举动。这种不张扬的存在补充了法国的美食形象。",
+      "zhSentences": [
+        "水在法国餐桌上占据核心位置。",
+        "在餐厅，一壶自来水可以伴随用餐；人们也可以选择无气或有气矿泉水。",
+        "许多品牌与一处泉源和一个地区相联系，矿物质构成和味道各不相同。",
+        "消费数据会随年份和计算方法变化，因此阅读旧数据时必须谨慎。",
+        "始终不变的是，即使在一个以葡萄酒闻名的国家，水仍是日常生活的基础饮料。",
+        "公共健康宣传也提醒人们，欢聚并不一定需要酒精。",
+        "无论在家里还是咖啡馆，主动提供水都是一种简单的待客举动。",
+        "这种不张扬的存在补充了法国的美食形象。"
+      ]
+    }
+  ],
+  "highlights": [
+    "à l’exception du",
+    "depuis plus de deux mille ans",
+    "au moment des vendanges",
+    "Le temps fait le reste",
+    "en général",
+    "se marie bien avec",
+    "Au cours d’un repas",
+    "en moyenne"
+  ],
+  "sentenceTranslations": [
+    "法国葡萄园主要位于南部，**只有**香槟和阿尔萨斯葡萄酒在东北部生产。",
+    "最著名的葡萄酒产区是勃艮第和波尔多，那里种植葡萄已有**两千多年**。",
+    "不过，罗讷河谷、普罗旺斯、朗格多克-鲁西永、卢瓦尔河谷和安茹也生产优质葡萄酒。",
+    "葡萄酒有个性、有身体、有精神。",
+    "一款酒是气候、土地，以及葡萄采收后、通常在九月**葡萄收获时**酒农工作的复杂炼金结果。",
+    "**时间会完成其余工作**。",
+    "波尔多酒经过几年后会更好，它更强劲，香气也得到发展。",
+    "勃艮第酒不太适合久藏，但太年轻时会显得酸。",
+    "博若莱酒应在酿成后的几个月内尽快饮用。",
+    "葡萄酒也与食物构成细腻搭配：**通常**白葡萄酒更适合鱼和禽类，红葡萄酒则**适合搭配**肉类和奶酪。",
+    "**在一顿饭中**，可以供应几种不同的葡萄酒。",
+    "三十多年来，法国的葡萄酒消费量大幅下降。",
+    "实际上，法国人最喜欢的饮料是水。",
+    "法国是世界主要矿泉水生产国之一，每位法国人**平均**每年饮用两百多升。"
+  ],
+  "hasAudio": true,
+  "audioPack": {
+    "chunks": [
+      "audio-packs/vins-eaux/01.bin"
+    ],
+    "segments": [
+      {
+        "start": 0,
+        "end": 8.856
+      },
+      {
+        "start": 8.856,
+        "end": 15.621
+      },
+      {
+        "start": 15.621,
+        "end": 23.406
+      },
+      {
+        "start": 23.406,
+        "end": 26.697
+      },
+      {
+        "start": 26.697,
+        "end": 36.362
+      },
+      {
+        "start": 36.362,
+        "end": 38.113
+      },
+      {
+        "start": 38.113,
+        "end": 43.442
+      },
+      {
+        "start": 43.442,
+        "end": 47.569
+      },
+      {
+        "start": 47.569,
+        "end": 51.722
+      },
+      {
+        "start": 51.722,
+        "end": 61.701
+      },
+      {
+        "start": 61.701,
+        "end": 65.62
+      },
+      {
+        "start": 65.62,
+        "end": 70.687
+      },
+      {
+        "start": 70.687,
+        "end": 73.9
+      },
+      {
+        "start": 73.9,
+        "end": 81.398
+      }
+    ]
+  }
+}

@@ -31,6 +31,8 @@
 
 ## 2. 文件与标识命名
 
+- 每篇文章的唯一内容源文件为 `data/articles/<article-id>.json`。
+- `data/site.json` 维护主题配置和 `articleOrder`；新增文章时必须同步加入文章顺序。
 - `id` 使用小写拉丁字母和连字符，不使用空格、法语重音符号或中文。
 - 多词标题使用连字符，例如 `le-petit-dejeuner`。
 - 音频包：`audio-packs/<article-id>/01.bin`。
@@ -124,13 +126,18 @@
 
 ## 10. 生成与部署
 
-- `index.html` 是静态成品，包含样式、文章数据和交互代码。
+- `data/articles/<article-id>.json` 是文章正文、翻译、粗体、文化拓展和音频时间的唯一编辑源。
+- `src/index.template.html` 是首页样式和交互模板。
+- `index.html` 是自动生成的静态成品，包含组装后的文章数据和交互代码。
 - `404.html` 应与 `index.html` 完全一致，以支持文章直达网址。
 - 需要被搜索引擎单独收录的文章应生成 `article/<article-id>/index.html`，返回真实静态页面并设置独立标题、摘要和规范网址。
 - 所有已上线文章统一使用预渲染单篇页：本篇正文与翻译直接写入 HTML，并只保留本篇交互所需数据，不在单篇页面携带全站文章数据。
 - GitHub Pages 项目基础路径固定为 `/french-reading-site`。
 - 新文章需要同时存在数据、翻译、音频包；美食类页面还应检查对应图片。
-- 正式更新优先修改生成源数据并重新生成成品，不在两个大型 HTML 文件中分别手改相同内容。
+- 正式更新必须修改 `data/` 中的源数据，再运行 `node scripts/build-site.mjs`；不直接修改生成后的大型 HTML 文件。
+- 构建会自动检查法中句数、粗体数量、三段文化拓展、音频分段、食品图片、页面隔离和站点地图；检查失败时不得发布。
+- 首页文章卡片应直接链接到带结尾斜杠的 `article/<article-id>/` 静态网址。
+- 单篇页面应提供上一篇、下一篇和返回当前主题目录的导航。
 
 ## 11. 发布前检查清单
 
@@ -149,4 +156,6 @@
 - [ ] 首页、文章直达链接和不存在的路径均可加载网站。
 - [ ] 独立静态文章页的标题、摘要、规范网址和站点地图记录正确。
 - [ ] `index.html` 与 `404.html` 内容一致。
+- [ ] `data/articles/` 文件与 `data/site.json` 中的 `articleOrder` 完全一致。
+- [ ] `node scripts/build-site.mjs` 和 `node scripts/validate-site.mjs` 均通过。
 - [ ] `CHANGELOG.md` 和 `sources.md` 已随发布更新。

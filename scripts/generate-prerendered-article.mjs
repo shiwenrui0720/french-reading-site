@@ -120,6 +120,7 @@ const html = `<!doctype html>
   ${hasImage ? `<meta property="og:image" content="${imageUrl}">` : ''}
   <meta name="twitter:card" content="summary_large_image">
   <script type="application/ld+json">${JSON.stringify(structuredData).replaceAll('<', '\\u003c')}</script>
+  <script data-goatcounter="https://shiwenrui-french.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
   <style>${styleMatch[1]}</style>
 </head>
 <body>

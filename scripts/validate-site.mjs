@@ -5,6 +5,7 @@ import { loadSiteData, ROOT } from './site-data.mjs';
 
 const VALID_LEVELS = new Set(['A2', 'B1', 'B2']);
 const ARTICLE_ID_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const GOATCOUNTER_SCRIPT = '<script data-goatcounter="https://shiwenrui-french.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
 
 function invariant(condition, message) {
   if (!condition) throw new Error(message);
@@ -116,6 +117,8 @@ export async function validateGeneratedSite(data) {
   const fallback = await readFile(path.join(ROOT, '404.html'), 'utf8');
   invariant(index === fallback, 'index.html and 404.html differ');
   invariant(!index.includes('__SITE_DATA__'), 'Generated homepage still contains data placeholder');
+  invariant(index.includes(GOATCOUNTER_SCRIPT), 'Homepage missing GoatCounter script');
+  invariant(index.includes('该服务不使用 Cookie'), 'Homepage missing GoatCounter privacy notice');
 
   const articleDirectories = (await readdir(path.join(ROOT, 'article'), { withFileTypes: true }))
     .filter((entry) => entry.isDirectory())
@@ -131,6 +134,7 @@ export async function validateGeneratedSite(data) {
     invariant(page.includes('<meta name="render-mode" content="prerendered-single-article">'), `[${article.id}] missing prerender marker`);
     invariant(page.includes(`<h1 lang="fr">${article.title}</h1>`), `[${article.id}] missing title in generated HTML`);
     invariant(page.includes(`const BASE="/french-reading-site",ARTICLE={"id":"${article.id}"`), `[${article.id}] missing isolated client data`);
+    invariant(page.includes(GOATCOUNTER_SCRIPT), `[${article.id}] missing GoatCounter script`);
   }
 
   const sitemap = await readFile(path.join(ROOT, 'sitemap.xml'), 'utf8');
